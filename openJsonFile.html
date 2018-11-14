@@ -1,0 +1,62 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>Open JSON File Test</title>
+<!-- css -->
+    <link href="css/style.css" rel="stylesheet">	
+<!-- scripts -->
+<script type="text/javascript" src="js/networks.json"></script>
+<script type="application/javascript" src="js/openfilejson.js"></script>
+<script type="application/javascript" src="js/jquery-3.3.1.js"></script>
+
+
+</head>
+<body>
+	<div>
+		<form id="frm" visibility="hidden" onsubmit="return false">
+			Entre com o ID
+			<input type="text" id='idsearch'><br>
+			Entre com a Loja
+			<input type="text" id="ljbusca"><br>
+			
+		</form>
+	</div>
+	<!-- Raised button -->
+	<button class="mdl-button mdl-js-button mdl-button--raised" onclick="showonpage()">
+	  Get ID Info
+	</button>
+	<button class="mdl-button mdl-js-button mdl-button--raised" onclick="search()">
+	  Get Loja Info
+	</button>
+	<button class="mdl-button mdl-js-button mdl-button--raised" onclick="limpa()">
+			Reset
+		</button>
+	<br>
+	<div>
+		<h4 id="id0">ID: </h4>
+		<br>
+		<h4 id="name0">Name: </h4>
+		<br>
+		<h4 id="id1">ID: </h4>
+		<br>
+		<h4 id="loja1">Loja: </h4>
+		<br>
+		<h4 id="Network1">Network: </h4>
+		<br>
+	</div>
+	<script>
+	$("#ljbusca").on('keyup', function (e) {
+			if (e.keyCode == 13) {				
+				search();
+			}
+	});
+	$("#idsearch").on('keyup', function (e) {
+			if (e.keyCode == 13) {				
+				showonpage();
+			}
+	});
+	</script>
+
+</body>
+</html>
