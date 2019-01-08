@@ -64,6 +64,14 @@ function limpa(){
 	document.getElementById("frm").reset();
 }
 
+function limpaResult(){
+	document.getElementById("id0").innerHTML = "ID: ";
+	document.getElementById("name0").innerHTML = "Name: ";
+	document.getElementById("id1").innerHTML = "ID: ";
+	document.getElementById("loja1").innerHTML = "Loja: ";
+	document.getElementById("Network1").innerHTML = "Network: ";
+}
+
 function testf(){
 	var ljx = document.getElementById("ljbusca").value;
 	if (ljx == null || ljx == "")
