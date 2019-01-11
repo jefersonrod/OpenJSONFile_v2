@@ -72,9 +72,9 @@ networks = [
     {
         "id": "L_635570497412663666",
         "organizationId": "630040",
-        "name": "B-LJ-CO-0013252-PR-EF",
+        "name": "B-LJ-CO-0013252-PR-EE",
         "timeZone": "America/Sao_Paulo",
-        "tags": " 1BLS 2BLF ",
+        "tags": " 1BLS 2BLM AP1 ",
         "type": "combined",
         "disableMyMerakiCom": false,
         "disableRemoteStatusPage": true
@@ -92,7 +92,7 @@ networks = [
     {
         "id": "L_635570497412663673",
         "organizationId": "630040",
-        "name": "B-LJ-CO-0013224-PR-EF",
+        "name": "B-LJ-CO-0013224-PR-EE",
         "timeZone": "America/Sao_Paulo",
         "tags": " 1BLS 2BLF ",
         "type": "combined",
@@ -114,7 +114,7 @@ networks = [
         "organizationId": "630040",
         "name": "B-LJ-CO-0013167-PR-EE",
         "timeZone": "America/Sao_Paulo",
-        "tags": " 1BLS 2BLF ",
+        "tags": " 1BLS 2BLF AP1 ",
         "type": "combined",
         "disableMyMerakiCom": false,
         "disableRemoteStatusPage": true
@@ -245,16 +245,6 @@ networks = [
         "name": "B-LJ-CO-0013500-SP-EE",
         "timeZone": "America/Sao_Paulo",
         "tags": " 1BLS ",
-        "type": "combined",
-        "disableMyMerakiCom": false,
-        "disableRemoteStatusPage": true
-    },
-    {
-        "id": "L_635570497412663824",
-        "organizationId": "630040",
-        "name": "B-LJ-CO-0011622-SP-EE",
-        "timeZone": "America/Sao_Paulo",
-        "tags": " 1BLS 2BLM ",
         "type": "combined",
         "disableMyMerakiCom": false,
         "disableRemoteStatusPage": true
@@ -394,7 +384,7 @@ networks = [
         "organizationId": "630040",
         "name": "B-LJ-CO-0019118-SP-EF",
         "timeZone": "America/Sao_Paulo",
-        "tags": " 1BLS 2BLF ",
+        "tags": " 1BLS 2BLF AP1 ",
         "type": "combined",
         "disableMyMerakiCom": false,
         "disableRemoteStatusPage": true
@@ -422,7 +412,7 @@ networks = [
     {
         "id": "L_635570497412664077",
         "organizationId": "630040",
-        "name": "B-LJ-CO-0011824-SP-EE",
+        "name": "B-LJ-CS-0011824-SP-EE",
         "timeZone": "America/Sao_Paulo",
         "tags": " 1BLS 2BLM AP1 ",
         "type": "combined",
@@ -453,7 +443,7 @@ networks = [
         "organizationId": "630040",
         "name": "B-LJ-CO-0013182-PR-EE",
         "timeZone": "America/Sao_Paulo",
-        "tags": " 1BLS 2BLF AP1 ",
+        "tags": " 1BLS AP1 MPLS ",
         "type": "combined",
         "disableMyMerakiCom": false,
         "disableRemoteStatusPage": true
@@ -599,16 +589,6 @@ networks = [
         "disableRemoteStatusPage": true
     },
     {
-        "id": "L_635570497412668970",
-        "organizationId": "630040",
-        "name": "BC-UTBOT03-PR-EE NEW",
-        "timeZone": "America/Sao_Paulo",
-        "tags": " 1CORE LAB ",
-        "type": "combined",
-        "disableMyMerakiCom": false,
-        "disableRemoteStatusPage": true
-    },
-    {
         "id": "L_635570497412665088",
         "organizationId": "630040",
         "name": "T-LJ-CO-0019179-SP-EE",
@@ -733,7 +713,7 @@ networks = [
         "organizationId": "630040",
         "name": "B-LJ-CO-0011497-SP-EE",
         "timeZone": "America/Sao_Paulo",
-        "tags": " 1BLS AP1 ",
+        "tags": " 1BLS 2BLM AP1 ",
         "type": "combined",
         "disableMyMerakiCom": false,
         "disableRemoteStatusPage": true
@@ -781,7 +761,7 @@ networks = [
     {
         "id": "L_635570497412665306",
         "organizationId": "630040",
-        "name": "B-LJ-CO-0014863-SP-FF",
+        "name": "B-LJ-EP-0014863-SP-FF",
         "timeZone": "America/Sao_Paulo",
         "tags": " 2BLF ",
         "type": "combined",
@@ -881,7 +861,7 @@ networks = [
     {
         "id": "L_635570497412665488",
         "organizationId": "630040",
-        "name": "B-LJ-CO-0013557-MG-EE",
+        "name": "B-LJ-CS-0013557-MG-EE",
         "timeZone": "America/Sao_Paulo",
         "tags": " 1BLS 2BLM ",
         "type": "combined",
@@ -971,7 +951,7 @@ networks = [
     {
         "id": "L_635570497412665649",
         "organizationId": "630040",
-        "name": "B-LJ-CO-0008968-SP-EE",
+        "name": "B-LJ-CS-0008968-SP-EE",
         "timeZone": "America/Sao_Paulo",
         "tags": " 1BLS 2BLM ",
         "type": "combined",
@@ -981,7 +961,7 @@ networks = [
     {
         "id": "L_635570497412665650",
         "organizationId": "630040",
-        "name": "B-LJ-ES-008980-PR-FF",
+        "name": "B-LJ-ES-0008980-PR-FF",
         "timeZone": "America/Sao_Paulo",
         "tags": " 2BLF ",
         "type": "combined",
@@ -991,7 +971,7 @@ networks = [
     {
         "id": "L_635570497412665651",
         "organizationId": "630040",
-        "name": "B-LJ-ES-008910-PR-FF",
+        "name": "B-LJ-ES-0008910-PR-FF",
         "timeZone": "America/Sao_Paulo",
         "tags": " 2BLF ",
         "type": "combined",
@@ -1491,7 +1471,7 @@ networks = [
     {
         "id": "L_635570497412665991",
         "organizationId": "630040",
-        "name": "B-LJ-CO-0011866-SP-EE",
+        "name": "B-LJ-CS-0011866-SP-EE",
         "timeZone": "America/Sao_Paulo",
         "tags": " 1BLS 2BLM ",
         "type": "combined",
@@ -1591,9 +1571,9 @@ networks = [
     {
         "id": "L_635570497412666028",
         "organizationId": "630040",
-        "name": "T-LJ-CO-0018471-DF-EF",
+        "name": "T-LJ-CO-0018471-DF-EE",
         "timeZone": "America/Sao_Paulo",
-        "tags": " 1BLS 2BLF ",
+        "tags": " 1BLS 2BLM MPLS ",
         "type": "combined",
         "disableMyMerakiCom": false,
         "disableRemoteStatusPage": true
@@ -1601,7 +1581,7 @@ networks = [
     {
         "id": "L_635570497412666029",
         "organizationId": "630040",
-        "name": "T-LJ-CO-0019075-SP-EF",
+        "name": "T-LJ-CO-0019075-SP-EE",
         "timeZone": "America/Sao_Paulo",
         "tags": " 1BLS 2BLF ",
         "type": "combined",
@@ -1623,7 +1603,7 @@ networks = [
         "organizationId": "630040",
         "name": "B-LJ-EP-0005755-PE-FF",
         "timeZone": "America/Sao_Paulo",
-        "tags": " 1BLS ",
+        "tags": " 1BLS AP1 ",
         "type": "combined",
         "disableMyMerakiCom": false,
         "disableRemoteStatusPage": true
@@ -1672,16 +1652,6 @@ networks = [
         "id": "L_635570497412666083",
         "organizationId": "630040",
         "name": "B-LJ-ES-0018459-SC-FF",
-        "timeZone": "America/Sao_Paulo",
-        "tags": " 2BLF ",
-        "type": "combined",
-        "disableMyMerakiCom": false,
-        "disableRemoteStatusPage": true
-    },
-    {
-        "id": "L_635570497412666087",
-        "organizationId": "630040",
-        "name": "B-LJ-EP-0008272-SC-FF",
         "timeZone": "America/Sao_Paulo",
         "tags": " 2BLF ",
         "type": "combined",
@@ -1871,7 +1841,7 @@ networks = [
     {
         "id": "L_635570497412666257",
         "organizationId": "630040",
-        "name": "B-LJ-CO-0008909-PR-FF",
+        "name": "B-LJ-CO-0008909-PR-EE",
         "timeZone": "America/Sao_Paulo",
         "tags": " 2BLF AP1 ",
         "type": "combined",
@@ -1883,7 +1853,7 @@ networks = [
         "organizationId": "630040",
         "name": "B-LJ-EP-0012907-MS-FF",
         "timeZone": "America/Sao_Paulo",
-        "tags": " 2BLF ",
+        "tags": " 2BLF AP1 ",
         "type": "combined",
         "disableMyMerakiCom": false,
         "disableRemoteStatusPage": true
@@ -1901,7 +1871,7 @@ networks = [
     {
         "id": "L_635570497412666271",
         "organizationId": "630040",
-        "name": "B-LJ-CO-0007087-MG-EE",
+        "name": "B-LJ-CS-0007087-MG-EE",
         "timeZone": "America/Sao_Paulo",
         "tags": " 1BLS 2BLM ",
         "type": "combined",
@@ -1921,9 +1891,9 @@ networks = [
     {
         "id": "L_635570497412666302",
         "organizationId": "630040",
-        "name": "T-LJ-CO-0017856-SP-EE",
+        "name": "T-LJ-CP-0017856-SP-EE",
         "timeZone": "America/Sao_Paulo",
-        "tags": " 1BLS 2BLF AP1 ",
+        "tags": " 1BLS 2BLM AP1 MPLS ",
         "type": "combined",
         "disableMyMerakiCom": false,
         "disableRemoteStatusPage": true
@@ -1931,7 +1901,7 @@ networks = [
     {
         "id": "L_635570497412666303",
         "organizationId": "630040",
-        "name": "B-LJ-CO-0008006-SP-EE",
+        "name": "B-LJ-CS-0008006-SP-EE",
         "timeZone": "America/Sao_Paulo",
         "tags": " 1BLS 2BLM ",
         "type": "combined",
@@ -1971,7 +1941,7 @@ networks = [
     {
         "id": "L_635570497412666350",
         "organizationId": "630040",
-        "name": "Q-LJ-CO-0910132-GO-EF",
+        "name": "Q-LJ-CO-0910132-GO-EE",
         "timeZone": "America/Sao_Paulo",
         "tags": " 2BLF 2BLM ",
         "type": "combined",
@@ -2021,7 +1991,7 @@ networks = [
     {
         "id": "L_635570497412666356",
         "organizationId": "630040",
-        "name": "B-LJ-CO-0002163-SP-EE",
+        "name": "B-LJ-CS-0002163-SP-EE",
         "timeZone": "America/Sao_Paulo",
         "tags": " 1BLS 2BLM ",
         "type": "combined",
@@ -2031,7 +2001,7 @@ networks = [
     {
         "id": "L_635570497412666357",
         "organizationId": "630040",
-        "name": "B-LJ-CO-14740-MG-EE",
+        "name": "B-LJ-CO-0014740-MG-EE",
         "timeZone": "America/Sao_Paulo",
         "tags": " 1BLS 2BLM ",
         "type": "combined",
@@ -2041,7 +2011,7 @@ networks = [
     {
         "id": "L_635570497412666364",
         "organizationId": "630040",
-        "name": "B-LJ-CO-0006700-SP-FE",
+        "name": "B-LJ-CO-0006700-SP-EE",
         "timeZone": "America/Sao_Paulo",
         "tags": " TEMPLATE ",
         "type": "combined",
@@ -2051,7 +2021,7 @@ networks = [
     {
         "id": "L_635570497412666368",
         "organizationId": "630040",
-        "name": "Q-LJ-CO-0910116-SP-EE",
+        "name": "Q-LJ-CS-0910116-SP-EE",
         "timeZone": "America/Sao_Paulo",
         "tags": " 1BLS 2BLM ",
         "type": "combined",
@@ -2101,9 +2071,9 @@ networks = [
     {
         "id": "L_635570497412666404",
         "organizationId": "630040",
-        "name": "B-LJ-CO-0005370-SP-EE",
+        "name": "B-LJ-CP-0005370-SP-EE",
         "timeZone": "America/Sao_Paulo",
-        "tags": " 1BLS MPLS ",
+        "tags": " 1BLS 2BLM MPLS ",
         "type": "combined",
         "disableMyMerakiCom": false,
         "disableRemoteStatusPage": true
@@ -2111,7 +2081,7 @@ networks = [
     {
         "id": "L_635570497412666405",
         "organizationId": "630040",
-        "name": "B-LJ-CO-0008442-SP-EF",
+        "name": "B-LJ-CS-0008442-SP-EE",
         "timeZone": "America/Sao_Paulo",
         "tags": " 1BLS ",
         "type": "combined",
@@ -2143,17 +2113,7 @@ networks = [
         "organizationId": "630040",
         "name": "B-LJ-CO-0012292-RS-EE",
         "timeZone": "America/Sao_Paulo",
-        "tags": " 1BLS 2BLM ",
-        "type": "combined",
-        "disableMyMerakiCom": false,
-        "disableRemoteStatusPage": true
-    },
-    {
-        "id": "L_635570497412666410",
-        "organizationId": "630040",
-        "name": "B-LJ-EP-0011802-MS-FF",
-        "timeZone": "America/Sao_Paulo",
-        "tags": " 2BLF ",
+        "tags": " 1BLS 2BLM AP1 ",
         "type": "combined",
         "disableMyMerakiCom": false,
         "disableRemoteStatusPage": true
@@ -2223,7 +2183,7 @@ networks = [
         "organizationId": "630040",
         "name": "B-LJ-EP-0011892-MS-FF",
         "timeZone": "America/Sao_Paulo",
-        "tags": " 1BLS ",
+        "tags": " 1BLS AP1 ",
         "type": "combined",
         "disableMyMerakiCom": false,
         "disableRemoteStatusPage": true
@@ -2373,7 +2333,7 @@ networks = [
         "organizationId": "630040",
         "name": "B-LJ-CO-0007448-MT-EE",
         "timeZone": "America/Sao_Paulo",
-        "tags": " 1BLS 2BLM ",
+        "tags": " 1BLS 2BLM AP1 ",
         "type": "combined",
         "disableMyMerakiCom": false,
         "disableRemoteStatusPage": true
@@ -2459,16 +2419,6 @@ networks = [
         "disableRemoteStatusPage": true
     },
     {
-        "id": "L_635570497412666562",
-        "organizationId": "630040",
-        "name": "B-LJ-EP-0008257-SC-FF",
-        "timeZone": "America/Sao_Paulo",
-        "tags": " 2BLF ",
-        "type": "combined",
-        "disableMyMerakiCom": false,
-        "disableRemoteStatusPage": true
-    },
-    {
         "id": "L_635570497412666568",
         "organizationId": "630040",
         "name": "B-LJ-EP-0017874-SP-FF",
@@ -2501,7 +2451,7 @@ networks = [
     {
         "id": "L_635570497412666577",
         "organizationId": "630040",
-        "name": "T-LJ-CO-19189-MG-EE",
+        "name": "T-LJ-CO-0019189-MG-EE",
         "timeZone": "America/Sao_Paulo",
         "tags": " 1BLS 2BLM ",
         "type": "combined",
@@ -2513,7 +2463,7 @@ networks = [
         "organizationId": "630040",
         "name": "B-LJ-CO-0018888-RJ-EE",
         "timeZone": "America/Sao_Paulo",
-        "tags": " 1BLS 2BLM ",
+        "tags": " 1BLS 2BLM AP1 ",
         "type": "combined",
         "disableMyMerakiCom": false,
         "disableRemoteStatusPage": true
@@ -2583,7 +2533,7 @@ networks = [
         "organizationId": "630040",
         "name": "B-LJ-CP-0019408-BA-EE",
         "timeZone": "America/Sao_Paulo",
-        "tags": " 2BLF MPLS ",
+        "tags": " 2BLF AP1 MPLS ",
         "type": "combined",
         "disableMyMerakiCom": false,
         "disableRemoteStatusPage": true
@@ -2593,7 +2543,7 @@ networks = [
         "organizationId": "630040",
         "name": "B-LJ-CO-0013150-PR-EE",
         "timeZone": "America/Sao_Paulo",
-        "tags": " TEMPLATE ",
+        "tags": " 2BLF 2BLM AP1 ",
         "type": "combined",
         "disableMyMerakiCom": false,
         "disableRemoteStatusPage": true
@@ -2633,7 +2583,7 @@ networks = [
         "organizationId": "630040",
         "name": "B-LJ-CO-0013249-PR-EE",
         "timeZone": "America/Sao_Paulo",
-        "tags": " 1BLS 2BLM MPLS ",
+        "tags": " 1BLS 2BLM AP1 MPLS ",
         "type": "combined",
         "disableMyMerakiCom": false,
         "disableRemoteStatusPage": true
@@ -2701,9 +2651,9 @@ networks = [
     {
         "id": "L_635570497412666626",
         "organizationId": "630040",
-        "name": "B-LJ-CO-0005372-SP-EE",
+        "name": "B-LJ-CP-0005372-SP-EE",
         "timeZone": "America/Sao_Paulo",
-        "tags": " 1BLS AP1 ",
+        "tags": " 1BLS 2BLM AP1 ",
         "type": "combined",
         "disableMyMerakiCom": false,
         "disableRemoteStatusPage": true
@@ -2813,7 +2763,7 @@ networks = [
         "organizationId": "630040",
         "name": "B-LJ-CO-0007718-SP-EE",
         "timeZone": "America/Sao_Paulo",
-        "tags": " 1BLS 2BLM ",
+        "tags": " 1BLS 2BLM AP1 ",
         "type": "combined",
         "disableMyMerakiCom": false,
         "disableRemoteStatusPage": true
@@ -2853,7 +2803,7 @@ networks = [
         "organizationId": "630040",
         "name": "B-LJ-CO-0005122-SP-EE",
         "timeZone": "America/Sao_Paulo",
-        "tags": " 1BLS ",
+        "tags": " 1BLS 2BLM ",
         "type": "combined",
         "disableMyMerakiCom": false,
         "disableRemoteStatusPage": true
@@ -2891,9 +2841,9 @@ networks = [
     {
         "id": "L_635570497412666776",
         "organizationId": "630040",
-        "name": "B-LJ-CO-0012184-SP-EE",
+        "name": "B-LJ-CS-0012184-SP-EE",
         "timeZone": "America/Sao_Paulo",
-        "tags": " 1BLS AP1 ",
+        "tags": " 1BLS 2BLM AP1 ",
         "type": "combined",
         "disableMyMerakiCom": false,
         "disableRemoteStatusPage": true
@@ -2923,7 +2873,7 @@ networks = [
         "organizationId": "630040",
         "name": "B-LJ-CO-0012820-AL-EE",
         "timeZone": "America/Sao_Paulo",
-        "tags": " 1BLS ",
+        "tags": " 1BLS 2BLM ",
         "type": "combined",
         "disableMyMerakiCom": false,
         "disableRemoteStatusPage": true
@@ -2933,7 +2883,7 @@ networks = [
         "organizationId": "630040",
         "name": "B-LJ-CO-0017585-RS-EF",
         "timeZone": "America/Sao_Paulo",
-        "tags": " 1BLS 2BLF AP1 ",
+        "tags": " 1BLS 2BLM AP1 ",
         "type": "combined",
         "disableMyMerakiCom": false,
         "disableRemoteStatusPage": true
@@ -2973,7 +2923,7 @@ networks = [
         "organizationId": "630040",
         "name": "B-LJ-CO-0018433-SP-EE",
         "timeZone": "America/Sao_Paulo",
-        "tags": " 1BLS 2BLM ",
+        "tags": " 1BLS 2BLM AP1 ",
         "type": "combined",
         "disableMyMerakiCom": false,
         "disableRemoteStatusPage": true
@@ -3013,7 +2963,7 @@ networks = [
         "organizationId": "630040",
         "name": "B-LJ-CO-0010906-RJ-EE",
         "timeZone": "America/Sao_Paulo",
-        "tags": " TEMPLATE ",
+        "tags": " 2BLM ",
         "type": "combined",
         "disableMyMerakiCom": false,
         "disableRemoteStatusPage": true
@@ -3033,7 +2983,7 @@ networks = [
         "organizationId": "630040",
         "name": "B-LJ-EP-0004780-MS-FF",
         "timeZone": "America/Sao_Paulo",
-        "tags": " 2BLF ",
+        "tags": " 2BLF AP1 ",
         "type": "combined",
         "disableMyMerakiCom": false,
         "disableRemoteStatusPage": true
@@ -3081,7 +3031,7 @@ networks = [
     {
         "id": "L_635570497412666811",
         "organizationId": "630040",
-        "name": "T-LJ-CO-0017944-SP-EF",
+        "name": "T-LJ-CO-0017944-SP-EE",
         "timeZone": "America/Sao_Paulo",
         "tags": " 1BLS 2BLF AP1 ",
         "type": "combined",
@@ -3093,7 +3043,7 @@ networks = [
         "organizationId": "630040",
         "name": "B-LJ-CO-0012113-BA-EE",
         "timeZone": "America/Sao_Paulo",
-        "tags": " 1BLS ",
+        "tags": " 1BLS 2BLM ",
         "type": "combined",
         "disableMyMerakiCom": false,
         "disableRemoteStatusPage": true
@@ -3123,7 +3073,7 @@ networks = [
         "organizationId": "630040",
         "name": "B-LJ-CO-0011787-SP-EE",
         "timeZone": "America/Sao_Paulo",
-        "tags": " 1BLS ",
+        "tags": " 1BLS 2BLM ",
         "type": "combined",
         "disableMyMerakiCom": false,
         "disableRemoteStatusPage": true
@@ -3131,7 +3081,7 @@ networks = [
     {
         "id": "L_635570497412666821",
         "organizationId": "630040",
-        "name": "B-LJ-CO-0003756-RJ-EF",
+        "name": "B-LJ-CO-0003756-RJ-EE",
         "timeZone": "America/Sao_Paulo",
         "tags": " 1BLS 2BLF ",
         "type": "combined",
@@ -3191,7 +3141,7 @@ networks = [
     {
         "id": "L_635570497412666827",
         "organizationId": "630040",
-        "name": "Q-LJ-CO-0910471-RS-EF",
+        "name": "Q-LJ-CO-0910471-RS-EE",
         "timeZone": "America/Sao_Paulo",
         "tags": " 1BLS 2BLF AP1 ",
         "type": "combined",
@@ -3231,7 +3181,7 @@ networks = [
     {
         "id": "L_635570497412666848",
         "organizationId": "630040",
-        "name": " B-LJ-CO-0014430-RS-EE",
+        "name": "B-LJ-CO-0014430-RS-EE",
         "timeZone": "America/Sao_Paulo",
         "tags": " 1BLS 2BLM ",
         "type": "combined",
@@ -3261,9 +3211,9 @@ networks = [
     {
         "id": "L_635570497412666851",
         "organizationId": "630040",
-        "name": "B-LJ-CO-0013432-SP-EE",
+        "name": "B-LJ-CS-0013432-SP-EE",
         "timeZone": "America/Sao_Paulo",
-        "tags": " 1BLS ",
+        "tags": " 1BLS VSAT ",
         "type": "combined",
         "disableMyMerakiCom": false,
         "disableRemoteStatusPage": true
@@ -3311,7 +3261,7 @@ networks = [
     {
         "id": "L_635570497412666876",
         "organizationId": "630040",
-        "name": "T-LJ-CO-0014579-SP-FE",
+        "name": "T-LJ-CO-0014579-SP-EE",
         "timeZone": "America/Sao_Paulo",
         "tags": " 2BLF 2BLM AP1 ",
         "type": "combined",
@@ -3383,7 +3333,7 @@ networks = [
         "organizationId": "630040",
         "name": "B-LJ-EP-0013018-SP-FF",
         "timeZone": "America/Sao_Paulo",
-        "tags": " 2BLF ",
+        "tags": " 2BLF AP1 ",
         "type": "combined",
         "disableMyMerakiCom": false,
         "disableRemoteStatusPage": true
@@ -3393,7 +3343,7 @@ networks = [
         "organizationId": "630040",
         "name": "B-LJ-EP-0004794-SP-FF",
         "timeZone": "America/Sao_Paulo",
-        "tags": " TEMPLATE ",
+        "tags": " 2BLF AP1 ",
         "type": "combined",
         "disableMyMerakiCom": false,
         "disableRemoteStatusPage": true
@@ -3401,7 +3351,7 @@ networks = [
     {
         "id": "L_635570497412666898",
         "organizationId": "630040",
-        "name": " B-LJ-EP-0005149-PR-FF",
+        "name": "B-LJ-EP-0005149-PR-FF",
         "timeZone": "America/Sao_Paulo",
         "tags": " 1BLS ",
         "type": "combined",
@@ -3433,7 +3383,7 @@ networks = [
         "organizationId": "630040",
         "name": "B-LJ-CO-0019786-SP-EE",
         "timeZone": "America/Sao_Paulo",
-        "tags": " 1BLS 2BLF ",
+        "tags": " 1BLS 2BLM ",
         "type": "combined",
         "disableMyMerakiCom": false,
         "disableRemoteStatusPage": true
@@ -3451,7 +3401,7 @@ networks = [
     {
         "id": "L_635570497412666903",
         "organizationId": "630040",
-        "name": "B-LJ-CO-0012605-SP-FE",
+        "name": "B-LJ-CO-0012605-SP-EE",
         "timeZone": "America/Sao_Paulo",
         "tags": " 2BLF 2BLM AP1 ",
         "type": "combined",
@@ -3481,7 +3431,7 @@ networks = [
     {
         "id": "L_635570497412666919",
         "organizationId": "630040",
-        "name": "B-LJ-EP-004593-SC-FF",
+        "name": "B-LJ-EP-0004593-SC-FF",
         "timeZone": "America/Sao_Paulo",
         "tags": " 1BLS ",
         "type": "combined",
@@ -3501,9 +3451,9 @@ networks = [
     {
         "id": "L_635570497412666923",
         "organizationId": "630040",
-        "name": "B-LJ-EP-004701-SP-FF",
+        "name": "B-LJ-EP-0004701-SP-FF",
         "timeZone": "America/Sao_Paulo",
-        "tags": " 2BLF ",
+        "tags": " 2BLF AP1 ",
         "type": "combined",
         "disableMyMerakiCom": false,
         "disableRemoteStatusPage": true
@@ -3521,7 +3471,7 @@ networks = [
     {
         "id": "L_635570497412666925",
         "organizationId": "630040",
-        "name": "B-LJ-EP-005037-SP-FF",
+        "name": "B-LJ-EP-0005037-SP-FF",
         "timeZone": "America/Sao_Paulo",
         "tags": " 1BLS AP1 ",
         "type": "combined",
@@ -3539,12 +3489,22 @@ networks = [
         "disableRemoteStatusPage": true
     },
     {
-        "id": "L_635570497412666985",
+        "id": "N_635570497412691512",
         "organizationId": "630040",
-        "name": "BC-EBT-CTA-LAB-PR-NEW",
+        "name": "BC-EBT-CTA-LAB-PR-NEW - appliance",
         "timeZone": "America/Sao_Paulo",
         "tags": " LAB ",
-        "type": "combined",
+        "type": "appliance",
+        "disableMyMerakiCom": false,
+        "disableRemoteStatusPage": true
+    },
+    {
+        "id": "N_635570497412691513",
+        "organizationId": "630040",
+        "name": "BC-EBT-CTA-LAB-PR-NEW - wireless",
+        "timeZone": "America/Sao_Paulo",
+        "tags": " LAB ",
+        "type": "wireless",
         "disableMyMerakiCom": false,
         "disableRemoteStatusPage": true
     },
@@ -3571,7 +3531,7 @@ networks = [
     {
         "id": "L_635570497412666996",
         "organizationId": "630040",
-        "name": "B-LJ-AS-0012821-AL-FE",
+        "name": "B-LJ-AS-0012821-AL-EE",
         "timeZone": "America/Sao_Paulo",
         "tags": " 2BLM ",
         "type": "combined",
@@ -3619,16 +3579,6 @@ networks = [
         "disableRemoteStatusPage": true
     },
     {
-        "id": "L_635570497412667060",
-        "organizationId": "630040",
-        "name": "E-LJ-CO-000JC17-PR-EE",
-        "timeZone": "America/Sao_Paulo",
-        "tags": " 1CORE LAB ",
-        "type": "combined",
-        "disableMyMerakiCom": false,
-        "disableRemoteStatusPage": true
-    },
-    {
         "id": "N_635570497412691747",
         "organizationId": "630040",
         "name": "CORE_CTX_AM",
@@ -3653,7 +3603,7 @@ networks = [
         "organizationId": "630040",
         "name": "B-LJ-CO-0019727-RS-EF",
         "timeZone": "America/Sao_Paulo",
-        "tags": " 1BLS 2BLF AP1 ",
+        "tags": " 1BLS 2BLM AP1 ",
         "type": "combined",
         "disableMyMerakiCom": false,
         "disableRemoteStatusPage": true
@@ -3661,9 +3611,9 @@ networks = [
     {
         "id": "L_635570497412667100",
         "organizationId": "630040",
-        "name": "B-LJ-CO-0018113-SP-EE",
+        "name": "B-LJ-CS-0018113-SP-EE",
         "timeZone": "America/Sao_Paulo",
-        "tags": " 1BLS ",
+        "tags": " 1BLS 2BLM VSAT ",
         "type": "combined",
         "disableMyMerakiCom": false,
         "disableRemoteStatusPage": true
@@ -3673,7 +3623,7 @@ networks = [
         "organizationId": "630040",
         "name": "B-LJ-CO-0009175-PI-EE",
         "timeZone": "America/Sao_Paulo",
-        "tags": " 1BLS 2BLF ",
+        "tags": " 1BLS 2BLF AP1 ",
         "type": "combined",
         "disableMyMerakiCom": false,
         "disableRemoteStatusPage": false
@@ -3683,7 +3633,7 @@ networks = [
         "organizationId": "630040",
         "name": "B-LJ-CO-0005833-SP-EE",
         "timeZone": "America/Sao_Paulo",
-        "tags": " 1BLS 2BLM ",
+        "tags": " 1BLS 2BLM AP1 ",
         "type": "combined",
         "disableMyMerakiCom": false,
         "disableRemoteStatusPage": true
@@ -3693,7 +3643,7 @@ networks = [
         "organizationId": "630040",
         "name": "B-LJ-CO-0014037-SP-EE",
         "timeZone": "America/Sao_Paulo",
-        "tags": " TEMPLATE ",
+        "tags": " 1BLS 2BLM ",
         "type": "combined",
         "disableMyMerakiCom": false,
         "disableRemoteStatusPage": true
@@ -3741,7 +3691,7 @@ networks = [
     {
         "id": "L_635570497412667110",
         "organizationId": "630040",
-        "name": "B-LJ-CO-0018071-RJ-FE",
+        "name": "B-LJ-CS-0018071-RJ-EE",
         "timeZone": "America/Sao_Paulo",
         "tags": " 2BLF 2BLM ",
         "type": "combined",
@@ -3761,9 +3711,9 @@ networks = [
     {
         "id": "L_635570497412667136",
         "organizationId": "630040",
-        "name": "B-LJ-CO-0017318-GO-EE",
+        "name": "B-LJ-CS-0017318-GO-EE",
         "timeZone": "America/Sao_Paulo",
-        "tags": " 1BLS ",
+        "tags": " 1BLS 2BLM ",
         "type": "combined",
         "disableMyMerakiCom": false,
         "disableRemoteStatusPage": true
@@ -3783,7 +3733,7 @@ networks = [
         "organizationId": "630040",
         "name": "B-LJ-CS-0012723-SP-EE",
         "timeZone": "America/Sao_Paulo",
-        "tags": " 1BLS AP1 VSAT ",
+        "tags": " 1BLS 2BLM AP1 VSAT ",
         "type": "combined",
         "disableMyMerakiCom": false,
         "disableRemoteStatusPage": true
@@ -3793,7 +3743,7 @@ networks = [
         "organizationId": "630040",
         "name": "B-LJ-CO-0017316-SP-EF",
         "timeZone": "America/Sao_Paulo",
-        "tags": " 1BLS 2BLF ",
+        "tags": " 1BLS 2BLM ",
         "type": "combined",
         "disableMyMerakiCom": false,
         "disableRemoteStatusPage": true
@@ -3803,7 +3753,7 @@ networks = [
         "organizationId": "630040",
         "name": "B-LJ-CP-0013225-PR-EE",
         "timeZone": "America/Sao_Paulo",
-        "tags": " 1BLS AP1 MPLS ",
+        "tags": " 1BLS 2BLM AP1 MPLS ",
         "type": "combined",
         "disableMyMerakiCom": false,
         "disableRemoteStatusPage": true
@@ -3813,7 +3763,7 @@ networks = [
         "organizationId": "630040",
         "name": "B-LJ-CO-0019621-RS-EE",
         "timeZone": "America/Sao_Paulo",
-        "tags": " 1BLS 2BLM ",
+        "tags": " 1BLS 2BLM AP1 ",
         "type": "combined",
         "disableMyMerakiCom": false,
         "disableRemoteStatusPage": true
@@ -3821,9 +3771,9 @@ networks = [
     {
         "id": "L_635570497412667162",
         "organizationId": "630040",
-        "name": "B-LJ-CS-0005759-SP-EF",
+        "name": "B-LJ-CS-0005759-SP-EE",
         "timeZone": "America/Sao_Paulo",
-        "tags": " 1BLS 2BLF ",
+        "tags": " 1BLS 2BLM ",
         "type": "combined",
         "disableMyMerakiCom": false,
         "disableRemoteStatusPage": true
@@ -3853,7 +3803,7 @@ networks = [
         "organizationId": "630040",
         "name": "B-LJ-CO-0012327-SP-EE",
         "timeZone": "America/Sao_Paulo",
-        "tags": " 1BLS 2BLF ",
+        "tags": " 1BLS 2BLM ",
         "type": "combined",
         "disableMyMerakiCom": false,
         "disableRemoteStatusPage": true
@@ -3863,7 +3813,7 @@ networks = [
         "organizationId": "630040",
         "name": "B-LJ-CO-0003843-SP-EE",
         "timeZone": "America/Sao_Paulo",
-        "tags": " 1BLS 2BLM ",
+        "tags": " 1BLS 2BLM AP1 ",
         "type": "combined",
         "disableMyMerakiCom": false,
         "disableRemoteStatusPage": true
@@ -3883,7 +3833,7 @@ networks = [
         "organizationId": "630040",
         "name": "B-LJ-CS-0008372-SP-EF",
         "timeZone": "America/Sao_Paulo",
-        "tags": " 1BLS 2BLF ",
+        "tags": " 1BLS 2BLM ",
         "type": "combined",
         "disableMyMerakiCom": false,
         "disableRemoteStatusPage": true
@@ -3911,9 +3861,9 @@ networks = [
     {
         "id": "L_635570497412667237",
         "organizationId": "630040",
-        "name": "B-LJ-CO-0007989-SP-EF",
+        "name": "B-LJ-CO-0007989-SP-EE",
         "timeZone": "America/Sao_Paulo",
-        "tags": " 1BLS 2BLF ",
+        "tags": " 1BLS 2BLM ",
         "type": "combined",
         "disableMyMerakiCom": false,
         "disableRemoteStatusPage": true
@@ -3921,9 +3871,9 @@ networks = [
     {
         "id": "L_635570497412667238",
         "organizationId": "630040",
-        "name": "B-LJ-CO-0007865-RJ-FE",
+        "name": "B-LJ-CO-0007865-RJ-EE",
         "timeZone": "America/Sao_Paulo",
-        "tags": " 2BLF ",
+        "tags": " 2BLF AP1 ",
         "type": "combined",
         "disableMyMerakiCom": false,
         "disableRemoteStatusPage": true
@@ -3953,7 +3903,7 @@ networks = [
         "organizationId": "630040",
         "name": "B-LJ-CO-0014247-SP-EE",
         "timeZone": "America/Sao_Paulo",
-        "tags": " 1BLS ",
+        "tags": " 1BLS 2BLM ",
         "type": "combined",
         "disableMyMerakiCom": false,
         "disableRemoteStatusPage": true
@@ -3993,7 +3943,7 @@ networks = [
         "organizationId": "630040",
         "name": "B-LJ-CO-0014765-PR-EE",
         "timeZone": "America/Sao_Paulo",
-        "tags": " 2BLF 2BLM ",
+        "tags": " 2BLF 2BLM AP1 ",
         "type": "combined",
         "disableMyMerakiCom": false,
         "disableRemoteStatusPage": true
@@ -4013,7 +3963,7 @@ networks = [
         "organizationId": "630040",
         "name": "B-LJ-CO-0006950-RS-EE",
         "timeZone": "America/Sao_Paulo",
-        "tags": " TEMPLATE ",
+        "tags": " 1BLS 2BLM AP1 ",
         "type": "combined",
         "disableMyMerakiCom": false,
         "disableRemoteStatusPage": true
@@ -4021,7 +3971,7 @@ networks = [
     {
         "id": "L_635570497412667427",
         "organizationId": "630040",
-        "name": "B-LJ-AS-0018021-MS-FF",
+        "name": "B-LJ-AS-0018021-MS-EE",
         "timeZone": "America/Sao_Paulo",
         "tags": " 2BLF ",
         "type": "combined",
@@ -4031,7 +3981,7 @@ networks = [
     {
         "id": "L_635570497412667428",
         "organizationId": "630040",
-        "name": "B-LJ-CO-0003755-RJ-EF",
+        "name": "B-LJ-CO-0003755-RJ-EE",
         "timeZone": "America/Sao_Paulo",
         "tags": " 1BLS 2BLF ",
         "type": "combined",
@@ -4041,9 +3991,9 @@ networks = [
     {
         "id": "L_635570497412667429",
         "organizationId": "630040",
-        "name": " B-LJ-CO-0019077-BA-EE",
+        "name": "B-LJ-CO-0019077-BA-EE",
         "timeZone": "America/Sao_Paulo",
-        "tags": " VSAT ",
+        "tags": " 2BLM VSAT ",
         "type": "combined",
         "disableMyMerakiCom": false,
         "disableRemoteStatusPage": true
@@ -4063,7 +4013,7 @@ networks = [
         "organizationId": "630040",
         "name": "B-LJ-CO-0019730-RS-EF",
         "timeZone": "America/Sao_Paulo",
-        "tags": " 1BLS 2BLF AP1 ",
+        "tags": " 1BLS 2BLF 2BLM AP1 ",
         "type": "combined",
         "disableMyMerakiCom": false,
         "disableRemoteStatusPage": true
@@ -4091,7 +4041,7 @@ networks = [
     {
         "id": "L_635570497412667463",
         "organizationId": "630040",
-        "name": "B-LJ-CO-0012555-SP-EF",
+        "name": "B-LJ-CO-0012555-SP-EE",
         "timeZone": "America/Sao_Paulo",
         "tags": " 1BLS 2BLF AP1 ",
         "type": "combined",
@@ -4109,12 +4059,12 @@ networks = [
         "disableRemoteStatusPage": true
     },
     {
-        "id": "L_635570497412667465",
+        "id": "N_635570497412693508",
         "organizationId": "630040",
         "name": "B-LJ-CO-0017534-SP-EE",
         "timeZone": "America/Sao_Paulo",
-        "tags": " TEMPLATE ",
-        "type": "combined",
+        "tags": " 1BLS 2BLM ",
+        "type": "appliance",
         "disableMyMerakiCom": false,
         "disableRemoteStatusPage": true
     },
@@ -4123,7 +4073,7 @@ networks = [
         "organizationId": "630040",
         "name": "B-LJ-CO-0007702-RS-EE",
         "timeZone": "America/Sao_Paulo",
-        "tags": " 1BLS ",
+        "tags": " 1BLS 2BLM ",
         "type": "combined",
         "disableMyMerakiCom": false,
         "disableRemoteStatusPage": true
@@ -4133,7 +4083,7 @@ networks = [
         "organizationId": "630040",
         "name": "B-LJ-CO-0007549-SP-EE",
         "timeZone": "America/Sao_Paulo",
-        "tags": " TEMPLATE ",
+        "tags": " 1BLS 2BLM ",
         "type": "combined",
         "disableMyMerakiCom": false,
         "disableRemoteStatusPage": true
@@ -4153,7 +4103,7 @@ networks = [
         "organizationId": "630040",
         "name": "B-LJ-EP-0012188-BA-FF",
         "timeZone": "America/Sao_Paulo",
-        "tags": " TEMPLATE ",
+        "tags": " 2BLF AP1 ",
         "type": "combined",
         "disableMyMerakiCom": false,
         "disableRemoteStatusPage": true
@@ -4161,7 +4111,7 @@ networks = [
     {
         "id": "L_635570497412667476",
         "organizationId": "630040",
-        "name": "T-LJ-CO-0019541-SP-FE",
+        "name": "T-LJ-CO-0019541-SP-EE",
         "timeZone": "America/Sao_Paulo",
         "tags": " TEMPLATE ",
         "type": "combined",
@@ -4201,7 +4151,7 @@ networks = [
     {
         "id": "L_635570497412667514",
         "organizationId": "630040",
-        "name": "B-LJ-CO-0014419-RJ-EF",
+        "name": "B-LJ-CO-0014419-RJ-EE",
         "timeZone": "America/Sao_Paulo",
         "tags": " 1BLS 2BLF ",
         "type": "combined",
@@ -4239,19 +4189,9 @@ networks = [
         "disableRemoteStatusPage": true
     },
     {
-        "id": "L_635570497412667518",
-        "organizationId": "630040",
-        "name": "B-LJ-CO-0019529-ES-EE",
-        "timeZone": "America/Sao_Paulo",
-        "tags": " TEMPLATE ",
-        "type": "combined",
-        "disableMyMerakiCom": false,
-        "disableRemoteStatusPage": true
-    },
-    {
         "id": "L_635570497412667519",
         "organizationId": "630040",
-        "name": "Q-LJ-CS-0910472-SP-EF",
+        "name": "Q-LJ-CS-0910472-SP-EE",
         "timeZone": "America/Sao_Paulo",
         "tags": " 1BLS 2BLF ",
         "type": "combined",
@@ -4281,7 +4221,7 @@ networks = [
     {
         "id": "L_635570497412667623",
         "organizationId": "630040",
-        "name": "B-LJ-AS-0012838-AL-FE",
+        "name": "B-LJ-AS-0012838-AL-EE",
         "timeZone": "America/Sao_Paulo",
         "tags": " 2BLM ",
         "type": "combined",
@@ -4313,7 +4253,7 @@ networks = [
         "organizationId": "630040",
         "name": "B-LJ-EP-0003845-SP-FF",
         "timeZone": "America/Sao_Paulo",
-        "tags": " 2BLF ",
+        "tags": " 2BLF AP1 ",
         "type": "combined",
         "disableMyMerakiCom": false,
         "disableRemoteStatusPage": true
@@ -4323,7 +4263,7 @@ networks = [
         "organizationId": "630040",
         "name": "B-LJ-CO-0018876-PR-EE",
         "timeZone": "America/Sao_Paulo",
-        "tags": " 1BLS ",
+        "tags": " 2BLM AP1 ",
         "type": "combined",
         "disableMyMerakiCom": false,
         "disableRemoteStatusPage": true
@@ -4341,9 +4281,9 @@ networks = [
     {
         "id": "L_635570497412667629",
         "organizationId": "630040",
-        "name": "B-LJ-CO-0013342-PR-EF",
+        "name": "B-LJ-CO-0013342-PR-EE",
         "timeZone": "America/Sao_Paulo",
-        "tags": " 1BLS 2BLF AP1 ",
+        "tags": " 1BLS 2BLM AP1 ",
         "type": "combined",
         "disableMyMerakiCom": false,
         "disableRemoteStatusPage": true
@@ -4353,7 +4293,7 @@ networks = [
         "organizationId": "630040",
         "name": "B-LJ-CO-0013475-SP-EE",
         "timeZone": "America/Sao_Paulo",
-        "tags": " 1BLS ",
+        "tags": " 1BLS 2BLM ",
         "type": "combined",
         "disableMyMerakiCom": false,
         "disableRemoteStatusPage": true
@@ -4381,7 +4321,7 @@ networks = [
     {
         "id": "L_635570497412667756",
         "organizationId": "630040",
-        "name": "B-LJ-EP-0011121-MS-FF",
+        "name": "B-LJ-AS-0011121-MS-FF",
         "timeZone": "America/Sao_Paulo",
         "tags": " 1BLS ",
         "type": "combined",
@@ -4443,7 +4383,7 @@ networks = [
         "organizationId": "630040",
         "name": "B-LJ-CO-0019229-RJ-EE",
         "timeZone": "America/Sao_Paulo",
-        "tags": " 2BLF 2BLM ",
+        "tags": " 2BLF 2BLM AP1 ",
         "type": "combined",
         "disableMyMerakiCom": false,
         "disableRemoteStatusPage": true
@@ -4481,7 +4421,7 @@ networks = [
     {
         "id": "L_635570497412667832",
         "organizationId": "630040",
-        "name": "B-LJ-CO-0014477-RJ-FE",
+        "name": "B-LJ-CO-0014477-RJ-EE",
         "timeZone": "America/Sao_Paulo",
         "tags": " 2BLF ",
         "type": "combined",
@@ -4503,7 +4443,7 @@ networks = [
         "organizationId": "630040",
         "name": "B-LJ-CO-0019092-PI-EF",
         "timeZone": "America/Sao_Paulo",
-        "tags": " 1BLS 2BLF ",
+        "tags": " 2BLF 2BLM ",
         "type": "combined",
         "disableMyMerakiCom": false,
         "disableRemoteStatusPage": true
@@ -4543,7 +4483,7 @@ networks = [
         "organizationId": "630040",
         "name": "B-LJ-CO-0012196-PI-EE",
         "timeZone": "America/Sao_Paulo",
-        "tags": " 1BLS 2BLF ",
+        "tags": " 2BLF 2BLM ",
         "type": "combined",
         "disableMyMerakiCom": false,
         "disableRemoteStatusPage": true
@@ -4603,7 +4543,7 @@ networks = [
         "organizationId": "630040",
         "name": "B-LJ-CO-0019522-ES-EE",
         "timeZone": "America/Sao_Paulo",
-        "tags": " TEMPLATE ",
+        "tags": " 1BLS 2BLM ",
         "type": "combined",
         "disableMyMerakiCom": false,
         "disableRemoteStatusPage": true
@@ -4613,7 +4553,7 @@ networks = [
         "organizationId": "630040",
         "name": "B-LJ-EP-0004839-SP-FF",
         "timeZone": "America/Sao_Paulo",
-        "tags": " 2BLF ",
+        "tags": " 2BLF AP1 ",
         "type": "combined",
         "disableMyMerakiCom": false,
         "disableRemoteStatusPage": true
@@ -4653,7 +4593,7 @@ networks = [
         "organizationId": "630040",
         "name": "B-LJ-CS-0004336-GO-EE",
         "timeZone": "America/Sao_Paulo",
-        "tags": " 1BLS VSAT ",
+        "tags": " 2BLM ",
         "type": "combined",
         "disableMyMerakiCom": false,
         "disableRemoteStatusPage": true
@@ -4663,7 +4603,7 @@ networks = [
         "organizationId": "630040",
         "name": "B-LJ-CO-0019707-PB-EF",
         "timeZone": "America/Sao_Paulo",
-        "tags": " 1BLS 2BLF ",
+        "tags": " 1BLS 2BLF AP1 ",
         "type": "combined",
         "disableMyMerakiCom": false,
         "disableRemoteStatusPage": true
@@ -4683,7 +4623,7 @@ networks = [
         "organizationId": "630040",
         "name": "B-LJ-EP-0019029-GO-FF",
         "timeZone": "America/Sao_Paulo",
-        "tags": " 2BLF ",
+        "tags": " 2BLF AP1 ",
         "type": "combined",
         "disableMyMerakiCom": false,
         "disableRemoteStatusPage": true
@@ -4701,7 +4641,7 @@ networks = [
     {
         "id": "L_635570497412667966",
         "organizationId": "630040",
-        "name": "Q-LJ-CS-0910001-SP-EF",
+        "name": "Q-LJ-CS-0910001-SP-EE",
         "timeZone": "America/Sao_Paulo",
         "tags": " 1BLS 2BLF ",
         "type": "combined",
@@ -4711,7 +4651,7 @@ networks = [
     {
         "id": "L_635570497412667970",
         "organizationId": "630040",
-        "name": "Q-LJ-AM-0910173-AL-FE",
+        "name": "Q-LJ-AM-0910173-AL-EE",
         "timeZone": "America/Sao_Paulo",
         "tags": " 2BLF ",
         "type": "combined",
@@ -4783,7 +4723,7 @@ networks = [
         "organizationId": "630040",
         "name": "B-LJ-EP-0012402-SP-FF",
         "timeZone": "America/Sao_Paulo",
-        "tags": " 2BLF ",
+        "tags": " 2BLF AP1 ",
         "type": "combined",
         "disableMyMerakiCom": false,
         "disableRemoteStatusPage": true
@@ -4803,7 +4743,7 @@ networks = [
         "organizationId": "630040",
         "name": "B-LJ-CP-0014163-CE-EE",
         "timeZone": "America/Sao_Paulo",
-        "tags": " 2BLM ",
+        "tags": " 2BLM MPLS ",
         "type": "combined",
         "disableMyMerakiCom": false,
         "disableRemoteStatusPage": true
@@ -4863,7 +4803,7 @@ networks = [
         "organizationId": "630040",
         "name": "B-LJ-CO-0008215-SP-EE",
         "timeZone": "America/Sao_Paulo",
-        "tags": " 2BLF 2BLM ",
+        "tags": " 2BLF 2BLM AP1 ",
         "type": "combined",
         "disableMyMerakiCom": false,
         "disableRemoteStatusPage": true
@@ -4871,7 +4811,7 @@ networks = [
     {
         "id": "L_635570497412668149",
         "organizationId": "630040",
-        "name": "B-LJ-CO-0011251- CE-EF",
+        "name": "B-LJ-CO-0011251-CE-EE",
         "timeZone": "America/Sao_Paulo",
         "tags": " 1BLS 2BLM ",
         "type": "combined",
@@ -4893,7 +4833,7 @@ networks = [
         "organizationId": "630040",
         "name": "B-LJ-CS-0013153-SP-EF",
         "timeZone": "America/Sao_Paulo",
-        "tags": " 1BLS 2BLM ",
+        "tags": " 1BLS 2BLM AP1 ",
         "type": "combined",
         "disableMyMerakiCom": false,
         "disableRemoteStatusPage": true
@@ -4973,7 +4913,7 @@ networks = [
         "organizationId": "630040",
         "name": "B-LJ-CO-0014036-SP-EE",
         "timeZone": "America/Sao_Paulo",
-        "tags": " 1BLS 2BLF ",
+        "tags": " 1BLS 2BLM AP1 ",
         "type": "combined",
         "disableMyMerakiCom": false,
         "disableRemoteStatusPage": true
@@ -5091,7 +5031,7 @@ networks = [
     {
         "id": "L_635570497412668298",
         "organizationId": "630040",
-        "name": "B-LJ-CO-0008560-SP-EF",
+        "name": "B-LJ-CO-0008560-SP-EE",
         "timeZone": "America/Sao_Paulo",
         "tags": " 2BLF 2BLM ",
         "type": "combined",
@@ -5151,7 +5091,7 @@ networks = [
     {
         "id": "L_635570497412668327",
         "organizationId": "630040",
-        "name": "Q-LJ-CO-0910110-RJ-FE",
+        "name": "Q-LJ-CO-0910110-RJ-EE",
         "timeZone": "America/Sao_Paulo",
         "tags": " TEMPLATE ",
         "type": "combined",
@@ -5203,7 +5143,7 @@ networks = [
         "organizationId": "630040",
         "name": "B-LJ-CO-0008270-PR-EE",
         "timeZone": "America/Sao_Paulo",
-        "tags": " 2BLM ",
+        "tags": " 2BLM AP1 ",
         "type": "combined",
         "disableMyMerakiCom": false,
         "disableRemoteStatusPage": true
@@ -5233,7 +5173,7 @@ networks = [
         "organizationId": "630040",
         "name": "B-LJ-CO-0018138-RJ-EE",
         "timeZone": "America/Sao_Paulo",
-        "tags": " 1BLS 2BLM ",
+        "tags": " 1BLS 2BLM AP1 ",
         "type": "combined",
         "disableMyMerakiCom": false,
         "disableRemoteStatusPage": true
@@ -5291,7 +5231,7 @@ networks = [
     {
         "id": "L_635570497412668377",
         "organizationId": "630040",
-        "name": "Q-LJ-0910050-MG-EE",
+        "name": "Q-LJ-CP-0910050-MG-EE",
         "timeZone": "America/Sao_Paulo",
         "tags": " 1BLS 2BLM ",
         "type": "combined",
@@ -5341,7 +5281,7 @@ networks = [
     {
         "id": "L_635570497412668427",
         "organizationId": "630040",
-        "name": "B-LJ-CO-11631-GO-FE",
+        "name": "B-LJ-CO-0011631-GO-EE",
         "timeZone": "America/Sao_Paulo",
         "tags": " 1BLS 2BLM ",
         "type": "combined",
@@ -5423,7 +5363,7 @@ networks = [
         "organizationId": "630040",
         "name": "B-LJ-EP-0012612-SE-FF",
         "timeZone": "America/Sao_Paulo",
-        "tags": " 2BLF ",
+        "tags": " 2BLF AP1 ",
         "type": "combined",
         "disableMyMerakiCom": false,
         "disableRemoteStatusPage": true
@@ -5501,7 +5441,7 @@ networks = [
     {
         "id": "L_635570497412668531",
         "organizationId": "630040",
-        "name": "Q-LJ-CO-0910053-MG-FE",
+        "name": "Q-LJ-CO-0910053-MG-EE",
         "timeZone": "America/Sao_Paulo",
         "tags": " 2BLF 2BLM ",
         "type": "combined",
@@ -5531,7 +5471,7 @@ networks = [
     {
         "id": "L_635570497412668534",
         "organizationId": "630040",
-        "name": "B-LJ-CO-0007257-MG-FE",
+        "name": "B-LJ-CO-0007257-MG-EE",
         "timeZone": "America/Sao_Paulo",
         "tags": " 2BLF 2BLM ",
         "type": "combined",
@@ -5591,7 +5531,7 @@ networks = [
     {
         "id": "L_635570497412668555",
         "organizationId": "630040",
-        "name": "E-LJ-AM-000JC63-SP-EE",
+        "name": "E-ER-AM-000JC63-SP-EE",
         "timeZone": "America/Sao_Paulo",
         "tags": " 1BLS AP1 AP2 ",
         "type": "combined",
@@ -5601,9 +5541,9 @@ networks = [
     {
         "id": "L_635570497412668556",
         "organizationId": "630040",
-        "name": "E-LJ-AM-000JC62-BA-FE",
+        "name": "E-ER-AM-000JC62-BA-EE",
         "timeZone": "America/Sao_Paulo",
-        "tags": " 2BLF AP1 AP2 ",
+        "tags": " 1BLS AP1 AP2 MPLS ",
         "type": "combined",
         "disableMyMerakiCom": false,
         "disableRemoteStatusPage": true
@@ -5611,7 +5551,7 @@ networks = [
     {
         "id": "L_635570497412668557",
         "organizationId": "630040",
-        "name": "B-LJ-EP-0014645-PI-FF",
+        "name": "B-LJ-AS-0014645-PI-FF",
         "timeZone": "America/Sao_Paulo",
         "tags": " 2BLF ",
         "type": "combined",
@@ -5623,7 +5563,7 @@ networks = [
         "organizationId": "630040",
         "name": "B-LJ-CO-0013087-MG-EE",
         "timeZone": "America/Sao_Paulo",
-        "tags": " 1BLS 2BLM ",
+        "tags": " 1BLS 2BLM MPLS ",
         "type": "combined",
         "disableMyMerakiCom": false,
         "disableRemoteStatusPage": true
@@ -5651,9 +5591,9 @@ networks = [
     {
         "id": "L_635570497412668583",
         "organizationId": "630040",
-        "name": "B-LJ-CO-0012608-RJ-EF",
+        "name": "B-LJ-CO-0012608-RJ-EE",
         "timeZone": "America/Sao_Paulo",
-        "tags": " 1BLS 2BLF ",
+        "tags": " 1BLS 2BLF AP1 ",
         "type": "combined",
         "disableMyMerakiCom": false,
         "disableRemoteStatusPage": true
@@ -5661,9 +5601,9 @@ networks = [
     {
         "id": "L_635570497412668588",
         "organizationId": "630040",
-        "name": "Q-LJ-CO-0910436-BA-EF",
+        "name": "Q-LJ-CO-0910436-BA-EE",
         "timeZone": "America/Sao_Paulo",
-        "tags": " 1BLS 2BLF ",
+        "tags": " 2BLF 2BLM ",
         "type": "combined",
         "disableMyMerakiCom": false,
         "disableRemoteStatusPage": true
@@ -5671,9 +5611,9 @@ networks = [
     {
         "id": "L_635570497412668589",
         "organizationId": "630040",
-        "name": "B-LJ-CO-0012828-AL-EF",
+        "name": "B-LJ-CO-0012828-AL-EE",
         "timeZone": "America/Sao_Paulo",
-        "tags": " 2BLM VSAT ",
+        "tags": " 2BLM AP1 VSAT ",
         "type": "combined",
         "disableMyMerakiCom": false,
         "disableRemoteStatusPage": true
@@ -5683,7 +5623,7 @@ networks = [
         "organizationId": "630040",
         "name": "B-LJ-AS-0004863-RS-EE",
         "timeZone": "America/Sao_Paulo",
-        "tags": " VSAT ",
+        "tags": " AP1 VSAT ",
         "type": "combined",
         "disableMyMerakiCom": false,
         "disableRemoteStatusPage": true
@@ -5751,7 +5691,7 @@ networks = [
     {
         "id": "L_635570497412668624",
         "organizationId": "630040",
-        "name": " B-LJ-EP-0005767-DF-FF",
+        "name": "B-LJ-EP-0005767-DF-FF",
         "timeZone": "America/Sao_Paulo",
         "tags": " 2BLF AP1 ",
         "type": "combined",
@@ -5853,7 +5793,7 @@ networks = [
         "organizationId": "630040",
         "name": "Q-LJ-CP-0910049-DF-EE",
         "timeZone": "America/Sao_Paulo",
-        "tags": " 1BLS 2BLM ",
+        "tags": " 1BLS 2BLM AP1 ",
         "type": "combined",
         "disableMyMerakiCom": false,
         "disableRemoteStatusPage": true
@@ -5921,7 +5861,7 @@ networks = [
     {
         "id": "L_635570497412668684",
         "organizationId": "630040",
-        "name": "B-LJ-CO-0014315-CE-FE",
+        "name": "B-LJ-CO-0014315-CE-EE",
         "timeZone": "America/Sao_Paulo",
         "tags": " 2BLF 2BLM ",
         "type": "combined",
@@ -5931,7 +5871,7 @@ networks = [
     {
         "id": "L_635570497412668689",
         "organizationId": "630040",
-        "name": "B-LJ-CO-0011131-SP-FE",
+        "name": "B-LJ-CO-0011131-SP-EE",
         "timeZone": "America/Sao_Paulo",
         "tags": " 2BLF 2BLM ",
         "type": "combined",
@@ -5943,7 +5883,7 @@ networks = [
         "organizationId": "630040",
         "name": "B-LJ-CO-0017777-SP-EE",
         "timeZone": "America/Sao_Paulo",
-        "tags": " 1BLS 2BLM ",
+        "tags": " 1BLS 2BLM AP1 ",
         "type": "combined",
         "disableMyMerakiCom": false,
         "disableRemoteStatusPage": true
@@ -5951,9 +5891,9 @@ networks = [
     {
         "id": "L_635570497412668698",
         "organizationId": "630040",
-        "name": "B-LJ-CO-0014015-SP-FE",
+        "name": "B-LJ-CS-0014015-SP-EE",
         "timeZone": "America/Sao_Paulo",
-        "tags": " TEMPLATE ",
+        "tags": " 2BLF 2BLM AP1 ",
         "type": "combined",
         "disableMyMerakiCom": false,
         "disableRemoteStatusPage": true
@@ -5971,7 +5911,7 @@ networks = [
     {
         "id": "L_635570497412668724",
         "organizationId": "630040",
-        "name": "Q-LJ-CO-00910153-SP-EE",
+        "name": "Q-LJ-CO-0910153-SP-EE",
         "timeZone": "America/Sao_Paulo",
         "tags": " 1BLS 2BLM ",
         "type": "combined",
@@ -6011,7 +5951,7 @@ networks = [
     {
         "id": "L_635570497412668760",
         "organizationId": "630040",
-        "name": "B-LJ-CO-0014471-CE-FE",
+        "name": "B-LJ-CO-0014471-CE-EE",
         "timeZone": "America/Sao_Paulo",
         "tags": " 2BLF 2BLM ",
         "type": "combined",
@@ -6023,7 +5963,7 @@ networks = [
         "organizationId": "630040",
         "name": "Q-LJ-CO-0910027-BA-EE",
         "timeZone": "America/Sao_Paulo",
-        "tags": " 1BLS 2BLM ",
+        "tags": " 1BLS 2BLM AP1 ",
         "type": "combined",
         "disableMyMerakiCom": false,
         "disableRemoteStatusPage": true
@@ -6041,9 +5981,9 @@ networks = [
     {
         "id": "L_635570497412668805",
         "organizationId": "630040",
-        "name": "B-LJ-CO-0007957-RN-EF",
+        "name": "B-LJ-CO-0007957-RN-EE",
         "timeZone": "America/Sao_Paulo",
-        "tags": " 1BLS 2BLF AP1 ",
+        "tags": " 2BLF 2BLM AP1 ",
         "type": "combined",
         "disableMyMerakiCom": false,
         "disableRemoteStatusPage": true
@@ -6191,7 +6131,7 @@ networks = [
     {
         "id": "L_635570497412668921",
         "organizationId": "630040",
-        "name": "B-LJ-CO-0013827-RJ-FE",
+        "name": "B-LJ-CO-0013827-RJ-EE",
         "timeZone": "America/Sao_Paulo",
         "tags": " 2BLF 2BLM AP1 ",
         "type": "combined",
@@ -6213,7 +6153,7 @@ networks = [
         "organizationId": "630040",
         "name": "B-LJ-CO-0019847-RJ-EE",
         "timeZone": "America/Sao_Paulo",
-        "tags": " TEMPLATE ",
+        "tags": " 1BLS 2BLM AP1 ",
         "type": "combined",
         "disableMyMerakiCom": false,
         "disableRemoteStatusPage": true
@@ -6223,7 +6163,7 @@ networks = [
         "organizationId": "630040",
         "name": "B-LJ-CO-0019728-RS-EE",
         "timeZone": "America/Sao_Paulo",
-        "tags": " 1BLS ",
+        "tags": " 1BLS 2BLM AP1 ",
         "type": "combined",
         "disableMyMerakiCom": false,
         "disableRemoteStatusPage": true
@@ -6243,7 +6183,7 @@ networks = [
         "organizationId": "630040",
         "name": "B-LJ-EP-0004546-SP-FF",
         "timeZone": "America/Sao_Paulo",
-        "tags": " 2BLF ",
+        "tags": " 2BLF AP1 ",
         "type": "combined",
         "disableMyMerakiCom": false,
         "disableRemoteStatusPage": true
@@ -6251,7 +6191,7 @@ networks = [
     {
         "id": "L_635570497412669000",
         "organizationId": "630040",
-        "name": "Q-LJ-CO-0910206-RJ-FE",
+        "name": "Q-LJ-CO-0910206-RJ-EE",
         "timeZone": "America/Sao_Paulo",
         "tags": " 2BLF 2BLM ",
         "type": "combined",
@@ -6263,7 +6203,7 @@ networks = [
         "organizationId": "630040",
         "name": "B-LJ-CO-0012142-SP-EE",
         "timeZone": "America/Sao_Paulo",
-        "tags": " 1BLS VSAT ",
+        "tags": " 1BLS 2BLM ",
         "type": "combined",
         "disableMyMerakiCom": false,
         "disableRemoteStatusPage": true
@@ -6273,7 +6213,7 @@ networks = [
         "organizationId": "630040",
         "name": "B-LJ-CS-0006186-RS-EE",
         "timeZone": "America/Sao_Paulo",
-        "tags": " 1BLS AP1 VSAT ",
+        "tags": " 1BLS 2BLM AP1 ",
         "type": "combined",
         "disableMyMerakiCom": false,
         "disableRemoteStatusPage": true
@@ -6293,7 +6233,7 @@ networks = [
         "organizationId": "630040",
         "name": "B-LJ-CO-0012721-SC-EE",
         "timeZone": "America/Sao_Paulo",
-        "tags": " 1BLS AP1 VSAT ",
+        "tags": " 1BLS 2BLM AP1 ",
         "type": "combined",
         "disableMyMerakiCom": false,
         "disableRemoteStatusPage": true
@@ -6313,7 +6253,7 @@ networks = [
         "organizationId": "630040",
         "name": "B-LJ-CO-0017977-SP-EE",
         "timeZone": "America/Sao_Paulo",
-        "tags": " TEMPLATE ",
+        "tags": " 1BLS 2BLM AP1 ",
         "type": "combined",
         "disableMyMerakiCom": false,
         "disableRemoteStatusPage": true
@@ -6333,7 +6273,7 @@ networks = [
         "organizationId": "630040",
         "name": "B-LJ-CO-0004695-SP-EE",
         "timeZone": "America/Sao_Paulo",
-        "tags": " 1BLS AP1 VSAT ",
+        "tags": " 1BLS 2BLM AP1 ",
         "type": "combined",
         "disableMyMerakiCom": false,
         "disableRemoteStatusPage": true
@@ -6351,7 +6291,7 @@ networks = [
     {
         "id": "L_635570497412669051",
         "organizationId": "630040",
-        "name": "B-LJ-CO-13118-SE-EE",
+        "name": "B-LJ-CO-0013118-SE-EE",
         "timeZone": "America/Sao_Paulo",
         "tags": " 1BLS 2BLM ",
         "type": "combined",
@@ -6361,7 +6301,7 @@ networks = [
     {
         "id": "L_635570497412669052",
         "organizationId": "630040",
-        "name": "B-LJ-EP-00113849-CE-FF",
+        "name": "B-LJ-EP-0013849-CE-FF",
         "timeZone": "America/Sao_Paulo",
         "tags": " 1BLS ",
         "type": "combined",
@@ -6391,7 +6331,7 @@ networks = [
     {
         "id": "L_635570497412669055",
         "organizationId": "630040",
-        "name": "Q-LJ-CP-0910186-RS-EF",
+        "name": "Q-LJ-CP-0910186-RS-EE",
         "timeZone": "America/Sao_Paulo",
         "tags": " 1BLS AP1 ",
         "type": "combined",
@@ -6413,7 +6353,7 @@ networks = [
         "organizationId": "630040",
         "name": "B-LJ-ES-0011764-PR-FF",
         "timeZone": "America/Sao_Paulo",
-        "tags": " 2BLF ",
+        "tags": " 2BLF AP1 ",
         "type": "combined",
         "disableMyMerakiCom": false,
         "disableRemoteStatusPage": true
@@ -6423,7 +6363,7 @@ networks = [
         "organizationId": "630040",
         "name": "B-LJ-CO-0014250-SP-EE",
         "timeZone": "America/Sao_Paulo",
-        "tags": " 1BLS ",
+        "tags": " 1BLS 2BLM ",
         "type": "combined",
         "disableMyMerakiCom": false,
         "disableRemoteStatusPage": true
@@ -6431,7 +6371,7 @@ networks = [
     {
         "id": "N_635570497412699308",
         "organizationId": "630040",
-        "name": "Q-LJ-CO-0910038-SP-EE",
+        "name": "Q-LJ-CS-0910038-SP-EE",
         "timeZone": "America/Sao_Paulo",
         "tags": " TEMPLATE ",
         "type": "appliance",
@@ -6443,7 +6383,7 @@ networks = [
         "organizationId": "630040",
         "name": "B-LJ-AS-0004832-RS-EE",
         "timeZone": "America/Sao_Paulo",
-        "tags": " TEMPLATE ",
+        "tags": " 2BLM AP1 VSAT ",
         "type": "combined",
         "disableMyMerakiCom": false,
         "disableRemoteStatusPage": true
@@ -6461,9 +6401,9 @@ networks = [
     {
         "id": "L_635570497412669073",
         "organizationId": "630040",
-        "name": "B-LJ-AM-0003546-AL-FE",
+        "name": "B-LJ-AM-0003546-AL-EE",
         "timeZone": "America/Sao_Paulo",
-        "tags": " 2BLF 2BLM MPLS ",
+        "tags": " 2BLM AP1 MPLS ",
         "type": "combined",
         "disableMyMerakiCom": false,
         "disableRemoteStatusPage": true
@@ -6473,7 +6413,7 @@ networks = [
         "organizationId": "630040",
         "name": "B-LJ-CO-0019661-RJ-EF",
         "timeZone": "America/Sao_Paulo",
-        "tags": " 1BLS 2BLF AP1 ",
+        "tags": " 1BLS 2BLM AP1 ",
         "type": "combined",
         "disableMyMerakiCom": false,
         "disableRemoteStatusPage": true
@@ -6483,7 +6423,7 @@ networks = [
         "organizationId": "630040",
         "name": "B-LJ-CP-0005316-RS-EE",
         "timeZone": "America/Sao_Paulo",
-        "tags": " 1BLS 2BLM AP1 ",
+        "tags": " 1BLS 2BLM AP1 MPLS ",
         "type": "combined",
         "disableMyMerakiCom": false,
         "disableRemoteStatusPage": true
@@ -6501,9 +6441,9 @@ networks = [
     {
         "id": "L_635570497412669078",
         "organizationId": "630040",
-        "name": "B-LJ-AM-0003732-SP-FE",
+        "name": "B-LJ-AM-0003732-SP-EE",
         "timeZone": "America/Sao_Paulo",
-        "tags": " 2BLF AP1 ",
+        "tags": " 2BLF 2BLM AP1 ",
         "type": "combined",
         "disableMyMerakiCom": false,
         "disableRemoteStatusPage": true
@@ -6523,7 +6463,7 @@ networks = [
         "organizationId": "630040",
         "name": "B-LJ-CP-0014159-CE-EF",
         "timeZone": "America/Sao_Paulo",
-        "tags": " 1BLS ",
+        "tags": " 1BLS MPLS ",
         "type": "combined",
         "disableMyMerakiCom": false,
         "disableRemoteStatusPage": true
@@ -6543,7 +6483,7 @@ networks = [
         "organizationId": "630040",
         "name": "B-LJ-CO-0016501-RJ-EE",
         "timeZone": "America/Sao_Paulo",
-        "tags": " 1BLS AP1 ",
+        "tags": " 1BLS 2BLM AP1 ",
         "type": "combined",
         "disableMyMerakiCom": false,
         "disableRemoteStatusPage": true
@@ -6553,7 +6493,7 @@ networks = [
         "organizationId": "630040",
         "name": "B-LJ-CO-0018452-CE-EE",
         "timeZone": "America/Sao_Paulo",
-        "tags": " 1BLS ",
+        "tags": " 1BLS 2BLM ",
         "type": "combined",
         "disableMyMerakiCom": false,
         "disableRemoteStatusPage": true
@@ -6573,7 +6513,7 @@ networks = [
         "organizationId": "630040",
         "name": "B-LJ-CO-0019404-BA-EE",
         "timeZone": "America/Sao_Paulo",
-        "tags": " 1BLS ",
+        "tags": " 1BLS 2BLM ",
         "type": "combined",
         "disableMyMerakiCom": false,
         "disableRemoteStatusPage": true
@@ -6641,7 +6581,7 @@ networks = [
     {
         "id": "L_635570497412669118",
         "organizationId": "630040",
-        "name": "B-LJ-CO-0012541-SP-EE",
+        "name": "B-LJ-CS-0012541-SP-EE",
         "timeZone": "America/Sao_Paulo",
         "tags": " 1BLS 2BLM AP1 ",
         "type": "combined",
@@ -6679,12 +6619,12 @@ networks = [
         "disableRemoteStatusPage": true
     },
     {
-        "id": "L_635570497412669128",
+        "id": "N_635570497412699555",
         "organizationId": "630040",
-        "name": "B-LJ-EP-0007489-RS-FF",
+        "name": "B-LJ-EP-0007489-RS-FF ",
         "timeZone": "America/Sao_Paulo",
-        "tags": " 2BLF ",
-        "type": "combined",
+        "tags": " 2BLF AP1 ",
+        "type": "appliance",
         "disableMyMerakiCom": false,
         "disableRemoteStatusPage": true
     },
@@ -6713,7 +6653,7 @@ networks = [
         "organizationId": "630040",
         "name": "B-LJ-CO-0013058-MG-EE",
         "timeZone": "America/Sao_Paulo",
-        "tags": " 1BLS ",
+        "tags": " 1BLS 2BLM ",
         "type": "combined",
         "disableMyMerakiCom": false,
         "disableRemoteStatusPage": true
@@ -6783,7 +6723,7 @@ networks = [
         "organizationId": "630040",
         "name": "B-LJ-CO-0014181-CE-EE",
         "timeZone": "America/Sao_Paulo",
-        "tags": " 1BLS ",
+        "tags": " 1BLS 2BLM ",
         "type": "combined",
         "disableMyMerakiCom": false,
         "disableRemoteStatusPage": true
@@ -6803,7 +6743,7 @@ networks = [
         "organizationId": "630040",
         "name": "B-LJ-EP-0012752-RS-FF",
         "timeZone": "America/Sao_Paulo",
-        "tags": " 2BLF ",
+        "tags": " 2BLF AP1 ",
         "type": "combined",
         "disableMyMerakiCom": false,
         "disableRemoteStatusPage": true
@@ -6843,7 +6783,7 @@ networks = [
         "organizationId": "630040",
         "name": "B-LJ-CO-0005504-PE-EE",
         "timeZone": "America/Sao_Paulo",
-        "tags": " 1BLS AP1 ",
+        "tags": " 1BLS 2BLM AP1 ",
         "type": "combined",
         "disableMyMerakiCom": false,
         "disableRemoteStatusPage": true
@@ -6863,7 +6803,7 @@ networks = [
         "organizationId": "630040",
         "name": "B-LJ-CO-0011582-RN-EE",
         "timeZone": "America/Sao_Paulo",
-        "tags": " 1BLS ",
+        "tags": " 1BLS 2BLM ",
         "type": "combined",
         "disableMyMerakiCom": false,
         "disableRemoteStatusPage": true
@@ -6881,7 +6821,7 @@ networks = [
     {
         "id": "L_635570497412669249",
         "organizationId": "630040",
-        "name": "Q-LJ-CO-0910318-ES-FE",
+        "name": "Q-LJ-CO-0910318-ES-EE",
         "timeZone": "America/Sao_Paulo",
         "tags": " 2BLF ",
         "type": "combined",
@@ -6891,9 +6831,9 @@ networks = [
     {
         "id": "L_635570497412669250",
         "organizationId": "630040",
-        "name": "Q-LJ-CO-0910460-PA-FE",
+        "name": "Q-LJ-CO-0910460-PA-EE",
         "timeZone": "America/Sao_Paulo",
-        "tags": " 2BLF ",
+        "tags": " 2BLF 2BLM ",
         "type": "combined",
         "disableMyMerakiCom": false,
         "disableRemoteStatusPage": true
@@ -6911,9 +6851,9 @@ networks = [
     {
         "id": "L_635570497412669252",
         "organizationId": "630040",
-        "name": "B-LJ-CO-0009024-RS-EF",
+        "name": "B-LJ-CO-0009024-RS-EE",
         "timeZone": "America/Sao_Paulo",
-        "tags": " 1BLS 2BLF AP1 ",
+        "tags": " 1BLS 2BLM AP1 ",
         "type": "combined",
         "disableMyMerakiCom": false,
         "disableRemoteStatusPage": true
@@ -6921,7 +6861,7 @@ networks = [
     {
         "id": "L_635570497412669253",
         "organizationId": "630040",
-        "name": "Q-LJ-CO-0910465-PA-EF",
+        "name": "Q-LJ-CO-0910465-PA-EE",
         "timeZone": "America/Sao_Paulo",
         "tags": " 1BLS 2BLF ",
         "type": "combined",
@@ -6933,7 +6873,7 @@ networks = [
         "organizationId": "630040",
         "name": "B-LJ-CO-0019677-PA-EF",
         "timeZone": "America/Sao_Paulo",
-        "tags": " 1BLS 2BLF ",
+        "tags": " 2BLF 2BLM ",
         "type": "combined",
         "disableMyMerakiCom": false,
         "disableRemoteStatusPage": true
@@ -6971,7 +6911,7 @@ networks = [
     {
         "id": "L_635570497412669271",
         "organizationId": "630040",
-        "name": "Q-LJ-CO-0910260-SP-FE",
+        "name": "Q-LJ-CO-0910260-SP-EE",
         "timeZone": "America/Sao_Paulo",
         "tags": " 2BLF 2BLM ",
         "type": "combined",
@@ -6981,19 +6921,9 @@ networks = [
     {
         "id": "L_635570497412669274",
         "organizationId": "630040",
-        "name": "B-LJ-CO-0014663-RJ-EF",
+        "name": "B-LJ-CO-0014663-RJ-EE",
         "timeZone": "America/Sao_Paulo",
         "tags": " 1BLS 2BLF ",
-        "type": "combined",
-        "disableMyMerakiCom": false,
-        "disableRemoteStatusPage": true
-    },
-    {
-        "id": "L_635570497412669291",
-        "organizationId": "630040",
-        "name": "B-LJ-EP-0012286-MG-FF",
-        "timeZone": "America/Sao_Paulo",
-        "tags": " 1BLS ",
         "type": "combined",
         "disableMyMerakiCom": false,
         "disableRemoteStatusPage": true
@@ -7003,7 +6933,7 @@ networks = [
         "organizationId": "630040",
         "name": "B-LJ-CO-0014392-CE-EE",
         "timeZone": "America/Sao_Paulo",
-        "tags": " 1BLS VSAT ",
+        "tags": " 1BLS 2BLM ",
         "type": "combined",
         "disableMyMerakiCom": false,
         "disableRemoteStatusPage": true
@@ -7033,7 +6963,7 @@ networks = [
         "organizationId": "630040",
         "name": "B-LJ-CO-0011166-SP-EE",
         "timeZone": "America/Sao_Paulo",
-        "tags": " 1BLS AP1 VSAT ",
+        "tags": " 1BLS 2BLM AP1 ",
         "type": "combined",
         "disableMyMerakiCom": false,
         "disableRemoteStatusPage": true
@@ -7051,9 +6981,9 @@ networks = [
     {
         "id": "L_635570497412669310",
         "organizationId": "630040",
-        "name": "B-LJ-CO-0019849-SP-EF",
+        "name": "B-LJ-CO-0019849-SP-EE",
         "timeZone": "America/Sao_Paulo",
-        "tags": " 1BLS 2BLF AP1 ",
+        "tags": " 1BLS 2BLM AP1 ",
         "type": "combined",
         "disableMyMerakiCom": false,
         "disableRemoteStatusPage": true
@@ -7063,7 +6993,7 @@ networks = [
         "organizationId": "630040",
         "name": "B-LJ-CS-0006014-RS-EE",
         "timeZone": "America/Sao_Paulo",
-        "tags": " 1BLS VSAT ",
+        "tags": " 1BLS 2BLM AP1 ",
         "type": "combined",
         "disableMyMerakiCom": false,
         "disableRemoteStatusPage": true
@@ -7091,7 +7021,7 @@ networks = [
     {
         "id": "L_635570497412669333",
         "organizationId": "630040",
-        "name": "B-LJ-AS-0013052-MG-FF",
+        "name": "B-LJ-AS-0013052-MG-EE",
         "timeZone": "America/Sao_Paulo",
         "tags": " 1BLS VSAT ",
         "type": "combined",
@@ -7103,7 +7033,7 @@ networks = [
         "organizationId": "630040",
         "name": "B-LJ-AM-0019405-BA-FE",
         "timeZone": "America/Sao_Paulo",
-        "tags": " 2BLF AP1 VSAT ",
+        "tags": " 2BLM AP1 VSAT ",
         "type": "combined",
         "disableMyMerakiCom": false,
         "disableRemoteStatusPage": true
@@ -7111,7 +7041,7 @@ networks = [
     {
         "id": "L_635570497412669336",
         "organizationId": "630040",
-        "name": "B-LJ-AS-0018917-SP-FF",
+        "name": "B-LJ-AS-0018917-SP-EE",
         "timeZone": "America/Sao_Paulo",
         "tags": " TEMPLATE ",
         "type": "combined",
@@ -7143,7 +7073,7 @@ networks = [
         "organizationId": "630040",
         "name": "B-LJ-CS-0013253-PR-EE",
         "timeZone": "America/Sao_Paulo",
-        "tags": " TEMPLATE ",
+        "tags": " 2BLF 2BLM AP1 ",
         "type": "combined",
         "disableMyMerakiCom": false,
         "disableRemoteStatusPage": true
@@ -7151,19 +7081,9 @@ networks = [
     {
         "id": "L_635570497412669350",
         "organizationId": "630040",
-        "name": "B-LJ-CO-0013088-MG-FE",
+        "name": "B-LJ-CO-0013088-MG-EE",
         "timeZone": "America/Sao_Paulo",
         "tags": " 2BLF VSAT ",
-        "type": "combined",
-        "disableMyMerakiCom": false,
-        "disableRemoteStatusPage": true
-    },
-    {
-        "id": "L_635570497412669353",
-        "organizationId": "630040",
-        "name": "B-LJ-AM-0019409-BA-EE",
-        "timeZone": "America/Sao_Paulo",
-        "tags": " TEMPLATE ",
         "type": "combined",
         "disableMyMerakiCom": false,
         "disableRemoteStatusPage": true
@@ -7173,7 +7093,7 @@ networks = [
         "organizationId": "630040",
         "name": "B-LJ-EP-0005420-RO-FF",
         "timeZone": "America/Sao_Paulo",
-        "tags": " 2BLF ",
+        "tags": " 2BLF AP1 ",
         "type": "combined",
         "disableMyMerakiCom": false,
         "disableRemoteStatusPage": true
@@ -7221,9 +7141,9 @@ networks = [
     {
         "id": "L_635570497412669365",
         "organizationId": "630040",
-        "name": "B-LJ-CO-0013291-SP-FE",
+        "name": "B-LJ-CO-0013291-SP-EE",
         "timeZone": "America/Sao_Paulo",
-        "tags": " 2BLF VSAT ",
+        "tags": " 1BLS 2BLM ",
         "type": "combined",
         "disableMyMerakiCom": false,
         "disableRemoteStatusPage": true
@@ -7263,7 +7183,7 @@ networks = [
         "organizationId": "630040",
         "name": "B-LJ-CS-0005277-GO-EE",
         "timeZone": "America/Sao_Paulo",
-        "tags": " 2BLF VSAT ",
+        "tags": " 2BLF AP1 VSAT ",
         "type": "combined",
         "disableMyMerakiCom": false,
         "disableRemoteStatusPage": true
@@ -7273,7 +7193,7 @@ networks = [
         "organizationId": "630040",
         "name": "B-LJ-EP-0006155-GO-FF",
         "timeZone": "America/Sao_Paulo",
-        "tags": " 2BLF ",
+        "tags": " 2BLF AP1 ",
         "type": "combined",
         "disableMyMerakiCom": false,
         "disableRemoteStatusPage": true
@@ -7281,9 +7201,9 @@ networks = [
     {
         "id": "L_635570497412669417",
         "organizationId": "630040",
-        "name": "B-LJ-CO-0014480-SP-FE",
+        "name": "B-LJ-CO-0014480-SP-EE",
         "timeZone": "America/Sao_Paulo",
-        "tags": " 2BLF VSAT ",
+        "tags": " 2BLM VSAT ",
         "type": "combined",
         "disableMyMerakiCom": false,
         "disableRemoteStatusPage": true
@@ -7293,7 +7213,7 @@ networks = [
         "organizationId": "630040",
         "name": "B-LJ-CP-0011430-RS-EE",
         "timeZone": "America/Sao_Paulo",
-        "tags": " 1BLS MPLS ",
+        "tags": " 1BLS 2BLM MPLS ",
         "type": "combined",
         "disableMyMerakiCom": false,
         "disableRemoteStatusPage": true
@@ -7301,32 +7221,32 @@ networks = [
     {
         "id": "L_635570497412669419",
         "organizationId": "630040",
-        "name": "B-LJ-CO-0008356-BA-FE",
+        "name": "B-LJ-CO-0008356-BA-EE",
         "timeZone": "America/Sao_Paulo",
-        "tags": " 2BLF VSAT ",
+        "tags": " 1BLS 2BLM ",
         "type": "combined",
         "disableMyMerakiCom": false,
         "disableRemoteStatusPage": true
     },
     {
-        "id": "L_635570497412669420",
+        "id": "N_635570497412700462",
         "organizationId": "630040",
-        "name": "B-LJ-CO-0017313-RJ-EE",
+        "name": "B-LJ-CO-0017313-RJ-EE - appliance",
         "timeZone": "America/Sao_Paulo",
-        "tags": " VSAT ",
-        "type": "combined",
+        "tags": " 1BLS 2BLM ",
+        "type": "appliance",
         "disableMyMerakiCom": false,
         "disableRemoteStatusPage": true
     },
     {
         "id": "L_635570497412669423",
         "organizationId": "630040",
-        "name": "B-LJ-CO-00011531-SP-EF",
+        "name": "B-LJ-CO-0011531-SP-EE",
         "timeZone": "America/Sao_Paulo",
         "tags": " 2BLM VSAT ",
         "type": "combined",
         "disableMyMerakiCom": false,
-        "disableRemoteStatusPage": true
+        "disableRemoteStatusPage": false
     },
     {
         "id": "L_635570497412669424",
@@ -7361,7 +7281,7 @@ networks = [
     {
         "id": "L_635570497412669431",
         "organizationId": "630040",
-        "name": "B-LJ-CO-0012607-SP-EF",
+        "name": "B-LJ-CO-0012607-SP-EE",
         "timeZone": "America/Sao_Paulo",
         "tags": " TEMPLATE ",
         "type": "combined",
@@ -7411,7 +7331,7 @@ networks = [
     {
         "id": "L_635570497412669441",
         "organizationId": "630040",
-        "name": "E-LJ-CP-000JC64-SE-EE",
+        "name": "E-ER-CP-000JC64-SE-EE",
         "timeZone": "America/Sao_Paulo",
         "tags": " 1BLS 2BLM AP1 ",
         "type": "combined",
@@ -7433,7 +7353,7 @@ networks = [
         "organizationId": "630040",
         "name": "B-LJ-CO-0012809-SP-EE",
         "timeZone": "America/Sao_Paulo",
-        "tags": " 2BLM VSAT ",
+        "tags": " 2BLM AP1 VSAT ",
         "type": "combined",
         "disableMyMerakiCom": false,
         "disableRemoteStatusPage": true
@@ -7451,7 +7371,7 @@ networks = [
     {
         "id": "L_635570497412669508",
         "organizationId": "630040",
-        "name": "B-LJ-CO-0013513-PR-FE",
+        "name": "B-LJ-CO-0013513-PR-EE",
         "timeZone": "America/Sao_Paulo",
         "tags": " 2BLF ",
         "type": "combined",
@@ -7461,7 +7381,7 @@ networks = [
     {
         "id": "L_635570497412669528",
         "organizationId": "630040",
-        "name": "B-LJ-CO-0006893-SP-EF",
+        "name": "B-LJ-CO-0006893-SP-EE",
         "timeZone": "America/Sao_Paulo",
         "tags": " 2BLM VSAT ",
         "type": "combined",
@@ -7473,7 +7393,7 @@ networks = [
         "organizationId": "630040",
         "name": "B-LJ-CS-0011186-SP-EE",
         "timeZone": "America/Sao_Paulo",
-        "tags": " 1BLS 2BLM ",
+        "tags": " 1BLS 2BLM MPLS ",
         "type": "combined",
         "disableMyMerakiCom": false,
         "disableRemoteStatusPage": true
@@ -7491,9 +7411,9 @@ networks = [
     {
         "id": "L_635570497412669562",
         "organizationId": "630040",
-        "name": "B-LJ-CS-0010982-SP-EF",
+        "name": "B-LJ-CO-0010982-SP-EE",
         "timeZone": "America/Sao_Paulo",
-        "tags": " 2BLM VSAT ",
+        "tags": " 1BLS 2BLM VSAT ",
         "type": "combined",
         "disableMyMerakiCom": false,
         "disableRemoteStatusPage": true
@@ -7511,9 +7431,9 @@ networks = [
     {
         "id": "L_635570497412669573",
         "organizationId": "630040",
-        "name": "B-LJ-CS-0013880-SP-FE",
+        "name": "B-LJ-AM-0013880-SP-FE",
         "timeZone": "America/Sao_Paulo",
-        "tags": " 2BLF 2BLM ",
+        "tags": " 2BLM MPLS ",
         "type": "combined",
         "disableMyMerakiCom": false,
         "disableRemoteStatusPage": true
@@ -7531,9 +7451,9 @@ networks = [
     {
         "id": "L_635570497412669575",
         "organizationId": "630040",
-        "name": "B-LJ-CS-0006555-SP-EE",
+        "name": "B-LJ-CO-0006555-SP-EE",
         "timeZone": "America/Sao_Paulo",
-        "tags": " 2BLF 2BLM ",
+        "tags": " 2BLF 2BLM AP1 ",
         "type": "combined",
         "disableMyMerakiCom": false,
         "disableRemoteStatusPage": true
@@ -7581,7 +7501,7 @@ networks = [
     {
         "id": "L_635570497412669595",
         "organizationId": "630040",
-        "name": "B-LJ-CO-0014367-SP-FE",
+        "name": "B-LJ-CO-0014367-SP-EE",
         "timeZone": "America/Sao_Paulo",
         "tags": " 1BLS 2BLM ",
         "type": "combined",
@@ -7601,7 +7521,7 @@ networks = [
     {
         "id": "L_635570497412669597",
         "organizationId": "630040",
-        "name": "B-LJ-CO-0008111-SP-FE",
+        "name": "B-LJ-CO-0008111-SP-EE",
         "timeZone": "America/Sao_Paulo",
         "tags": " 1BLS 2BLM ",
         "type": "combined",
@@ -7643,7 +7563,7 @@ networks = [
         "organizationId": "630040",
         "name": "B-LJ-CS-0013233-SP-EE",
         "timeZone": "America/Sao_Paulo",
-        "tags": " 2BLM AP1 VSAT ",
+        "tags": " 1BLS 2BLM AP1 ",
         "type": "combined",
         "disableMyMerakiCom": false,
         "disableRemoteStatusPage": true
@@ -7683,7 +7603,7 @@ networks = [
         "organizationId": "630040",
         "name": "B-LJ-CO-0018566-PI-EE",
         "timeZone": "America/Sao_Paulo",
-        "tags": " 1BLS 2BLF ",
+        "tags": " 2BLF 2BLM ",
         "type": "combined",
         "disableMyMerakiCom": false,
         "disableRemoteStatusPage": true
@@ -7701,7 +7621,7 @@ networks = [
     {
         "id": "L_635570497412669635",
         "organizationId": "630040",
-        "name": "B-LJ-CO-0012574-SP-FE",
+        "name": "B-LJ-CO-0012574-SP-EE",
         "timeZone": "America/Sao_Paulo",
         "tags": " TEMPLATE ",
         "type": "combined",
@@ -7771,9 +7691,9 @@ networks = [
     {
         "id": "L_635570497412669663",
         "organizationId": "630040",
-        "name": "E-LJ-CO-000JC65-MT-FE",
+        "name": "E-ER-CO-000JC65-MT-FE",
         "timeZone": "America/Sao_Paulo",
-        "tags": " 2BLF 2BLM ",
+        "tags": " 1BLS 2BLM AP1 MPLS ",
         "type": "combined",
         "disableMyMerakiCom": false,
         "disableRemoteStatusPage": true
@@ -7851,9 +7771,9 @@ networks = [
     {
         "id": "L_635570497412669686",
         "organizationId": "630040",
-        "name": "B-LJ-EP-0018910-SP-EE",
+        "name": "B-ER-CP-0018910-SP-EE",
         "timeZone": "America/Sao_Paulo",
-        "tags": " 1BLS 2BLF ",
+        "tags": " 1BLS MPLS ",
         "type": "combined",
         "disableMyMerakiCom": false,
         "disableRemoteStatusPage": true
@@ -7861,7 +7781,7 @@ networks = [
     {
         "id": "L_635570497412669696",
         "organizationId": "630040",
-        "name": "B-LJ-CO-0013748-SP-FE",
+        "name": "B-LJ-CO-0013748-SP-EE",
         "timeZone": "America/Sao_Paulo",
         "tags": " 1BLS 2BLM AP1 ",
         "type": "combined",
@@ -7871,7 +7791,7 @@ networks = [
     {
         "id": "L_635570497412669698",
         "organizationId": "630040",
-        "name": "Q-LJ-CP-0910059-PR-EF",
+        "name": "Q-LJ-CP-0910059-PR-EE",
         "timeZone": "America/Sao_Paulo",
         "tags": " 1BLS MPLS ",
         "type": "combined",
@@ -7903,7 +7823,7 @@ networks = [
         "organizationId": "630040",
         "name": "B-LJ-CO-0011987-SP-EE",
         "timeZone": "America/Sao_Paulo",
-        "tags": " 2BLF 2BLM AP1 ",
+        "tags": " 1BLS 2BLM AP1 ",
         "type": "combined",
         "disableMyMerakiCom": false,
         "disableRemoteStatusPage": true
@@ -7951,7 +7871,7 @@ networks = [
     {
         "id": "L_635570497412669722",
         "organizationId": "630040",
-        "name": "B-LJ-CP-0012508-EF",
+        "name": "B-LJ-CP-0012508-EE",
         "timeZone": "America/Sao_Paulo",
         "tags": " 2BLM VSAT ",
         "type": "combined",
@@ -7963,7 +7883,7 @@ networks = [
         "organizationId": "630040",
         "name": "B-LJ-CS-0019111-SP-FE",
         "timeZone": "America/Sao_Paulo",
-        "tags": " 2BLF 2BLM ",
+        "tags": " 2BLF 2BLM AP1 ",
         "type": "combined",
         "disableMyMerakiCom": false,
         "disableRemoteStatusPage": true
@@ -7973,7 +7893,7 @@ networks = [
         "organizationId": "630040",
         "name": "B-LJ-CS-0018710-SP-EE",
         "timeZone": "America/Sao_Paulo",
-        "tags": " 2BLM VSAT ",
+        "tags": " 1BLS 2BLM VSAT ",
         "type": "combined",
         "disableMyMerakiCom": false,
         "disableRemoteStatusPage": true
@@ -8023,7 +7943,7 @@ networks = [
         "organizationId": "630040",
         "name": "B-LJ-CO-0019876-SP-EE",
         "timeZone": "America/Sao_Paulo",
-        "tags": " TEMPLATE ",
+        "tags": " 1BLS 2BLM AP1 ",
         "type": "combined",
         "disableMyMerakiCom": false,
         "disableRemoteStatusPage": true
@@ -8031,7 +7951,7 @@ networks = [
     {
         "id": "L_635570497412669738",
         "organizationId": "630040",
-        "name": "B-LJ-CO-0013781-SP-FE",
+        "name": "B-LJ-CO-0013781-SP-EE",
         "timeZone": "America/Sao_Paulo",
         "tags": " 2BLF 2BLM ",
         "type": "combined",
@@ -8061,7 +7981,7 @@ networks = [
     {
         "id": "L_635570497412669743",
         "organizationId": "630040",
-        "name": "B-LJ-CO-0011286-SP-FE",
+        "name": "B-LJ-CO-0011286-SP-EE",
         "timeZone": "America/Sao_Paulo",
         "tags": " 2BLF 2BLM ",
         "type": "combined",
@@ -8133,7 +8053,7 @@ networks = [
         "organizationId": "630040",
         "name": "B-LJ-CS-0014013-SP-EE",
         "timeZone": "America/Sao_Paulo",
-        "tags": " 2BLM VSAT ",
+        "tags": " 2BLM AP1 VSAT ",
         "type": "combined",
         "disableMyMerakiCom": false,
         "disableRemoteStatusPage": true
@@ -8241,9 +8161,9 @@ networks = [
     {
         "id": "L_635570497412669793",
         "organizationId": "630040",
-        "name": "B-LJ-AM-0018912-SP-FF",
+        "name": "B-LJ-AM-0018912-SP-EE",
         "timeZone": "America/Sao_Paulo",
-        "tags": " 1BLS VSAT ",
+        "tags": " 2BLF MPLS ",
         "type": "combined",
         "disableMyMerakiCom": false,
         "disableRemoteStatusPage": true
@@ -8293,7 +8213,7 @@ networks = [
         "organizationId": "630040",
         "name": "B-LJ-AS-0005762-RS-EF",
         "timeZone": "America/Sao_Paulo",
-        "tags": " 2BLF AP1 VSAT ",
+        "tags": " 2BLF 2BLM AP1 ",
         "type": "combined",
         "disableMyMerakiCom": false,
         "disableRemoteStatusPage": true
@@ -8323,7 +8243,7 @@ networks = [
         "organizationId": "630040",
         "name": "B-LJ-CO-0012068-SP-EE",
         "timeZone": "America/Sao_Paulo",
-        "tags": " 1BLS 2BLM ",
+        "tags": " 1BLS 2BLM AP1 ",
         "type": "combined",
         "disableMyMerakiCom": false,
         "disableRemoteStatusPage": true
@@ -8413,7 +8333,7 @@ networks = [
         "organizationId": "630040",
         "name": "B-LJ-AS-0005471-RS-EE",
         "timeZone": "America/Sao_Paulo",
-        "tags": " 2BLF AP1 VSAT ",
+        "tags": " 2BLM AP1 VSAT ",
         "type": "combined",
         "disableMyMerakiCom": false,
         "disableRemoteStatusPage": true
@@ -8443,7 +8363,7 @@ networks = [
         "organizationId": "630040",
         "name": "B-LJ-CS-0008138-SP-EE",
         "timeZone": "America/Sao_Paulo",
-        "tags": " TEMPLATE ",
+        "tags": " 2BLM AP1 VSAT ",
         "type": "combined",
         "disableMyMerakiCom": false,
         "disableRemoteStatusPage": true
@@ -8463,7 +8383,7 @@ networks = [
         "organizationId": "630040",
         "name": "B-LJ-CS-0008139-SP-EE",
         "timeZone": "America/Sao_Paulo",
-        "tags": " 2BLM VSAT ",
+        "tags": " 2BLM AP1 VSAT ",
         "type": "combined",
         "disableMyMerakiCom": false,
         "disableRemoteStatusPage": true
@@ -8483,7 +8403,7 @@ networks = [
         "organizationId": "630040",
         "name": "B-LJ-EP-0011854-GO-FF",
         "timeZone": "America/Sao_Paulo",
-        "tags": " TEMPLATE ",
+        "tags": " 2BLF ",
         "type": "combined",
         "disableMyMerakiCom": false,
         "disableRemoteStatusPage": true
@@ -8513,7 +8433,7 @@ networks = [
         "organizationId": "630040",
         "name": "B-LJ-CS-0013533-SP-EE",
         "timeZone": "America/Sao_Paulo",
-        "tags": " 2BLF VSAT ",
+        "tags": " 2BLF 2BLM VSAT ",
         "type": "combined",
         "disableMyMerakiCom": false,
         "disableRemoteStatusPage": true
@@ -8533,7 +8453,7 @@ networks = [
         "organizationId": "630040",
         "name": "B-LJ-AS-0017986-RS-EE",
         "timeZone": "America/Sao_Paulo",
-        "tags": " 2BLF AP1 VSAT ",
+        "tags": " 2BLM AP1 VSAT ",
         "type": "combined",
         "disableMyMerakiCom": false,
         "disableRemoteStatusPage": true
@@ -8563,7 +8483,7 @@ networks = [
         "organizationId": "630040",
         "name": "B-LJ-CO-0014183-CE-EE",
         "timeZone": "America/Sao_Paulo",
-        "tags": " 2BLF ",
+        "tags": " 2BLF 2BLM ",
         "type": "combined",
         "disableMyMerakiCom": false,
         "disableRemoteStatusPage": true
@@ -8609,19 +8529,9 @@ networks = [
         "disableRemoteStatusPage": true
     },
     {
-        "id": "L_635570497412669938",
-        "organizationId": "630040",
-        "name": "B-LJ-AM-0019773-DF-EE",
-        "timeZone": "America/Sao_Paulo",
-        "tags": " 2BLF VSAT ",
-        "type": "combined",
-        "disableMyMerakiCom": false,
-        "disableRemoteStatusPage": true
-    },
-    {
         "id": "L_635570497412669939",
         "organizationId": "630040",
-        "name": "B-LJ-CO-011814-BA-EE",
+        "name": "B-LJ-CO-0011814-BA-EE",
         "timeZone": "America/Sao_Paulo",
         "tags": " TEMPLATE ",
         "type": "combined",
@@ -8653,7 +8563,7 @@ networks = [
         "organizationId": "630040",
         "name": "B-LJ-AS-0017990-RS-EE",
         "timeZone": "America/Sao_Paulo",
-        "tags": " AP1 VSAT ",
+        "tags": " 2BLM AP1 VSAT ",
         "type": "combined",
         "disableMyMerakiCom": false,
         "disableRemoteStatusPage": true
@@ -8673,7 +8583,7 @@ networks = [
         "organizationId": "630040",
         "name": "B-LJ-CO-0018499-SP-EE",
         "timeZone": "America/Sao_Paulo",
-        "tags": " 1BLS ",
+        "tags": " 1BLS 2BLM ",
         "type": "combined",
         "disableMyMerakiCom": false,
         "disableRemoteStatusPage": true
@@ -8733,7 +8643,7 @@ networks = [
         "organizationId": "630040",
         "name": "Q-LJ-CO-0910361-SP-EE",
         "timeZone": "America/Sao_Paulo",
-        "tags": " 1BLS 2BLM ",
+        "tags": " 1BLS 2BLM AP1 ",
         "type": "combined",
         "disableMyMerakiCom": false,
         "disableRemoteStatusPage": true
@@ -8753,7 +8663,7 @@ networks = [
         "organizationId": "630040",
         "name": "Q-LJ-CO-0910086-SP-EE",
         "timeZone": "America/Sao_Paulo",
-        "tags": " 2BLF 2BLM ",
+        "tags": " 2BLM AP1 MPLS ",
         "type": "combined",
         "disableMyMerakiCom": false,
         "disableRemoteStatusPage": true
@@ -8761,9 +8671,9 @@ networks = [
     {
         "id": "L_635570497412669978",
         "organizationId": "630040",
-        "name": "B-LJ-CS-0014343-CE-EE",
+        "name": "B-LJ-CO-0014343-CE-EE",
         "timeZone": "America/Sao_Paulo",
-        "tags": " TEMPLATE ",
+        "tags": " 2BLF 2BLM AP1 ",
         "type": "combined",
         "disableMyMerakiCom": false,
         "disableRemoteStatusPage": true
@@ -8823,7 +8733,7 @@ networks = [
         "organizationId": "630040",
         "name": "B-LJ-AS-0017992-RS-EE",
         "timeZone": "America/Sao_Paulo",
-        "tags": " 2BLF VSAT ",
+        "tags": " 2BLF 2BLM AP1 ",
         "type": "combined",
         "disableMyMerakiCom": false,
         "disableRemoteStatusPage": true
@@ -8903,7 +8813,7 @@ networks = [
         "organizationId": "630040",
         "name": "B-LJ-CS-0007947-RS-EE",
         "timeZone": "America/Sao_Paulo",
-        "tags": " VSAT ",
+        "tags": " 2BLM AP1 VSAT ",
         "type": "combined",
         "disableMyMerakiCom": false,
         "disableRemoteStatusPage": true
@@ -8923,7 +8833,7 @@ networks = [
         "organizationId": "630040",
         "name": "B-LJ-CP-0005660-SP-EE",
         "timeZone": "America/Sao_Paulo",
-        "tags": " 2BLM VSAT ",
+        "tags": " 2BLM AP1 VSAT ",
         "type": "combined",
         "disableMyMerakiCom": false,
         "disableRemoteStatusPage": true
@@ -8933,7 +8843,7 @@ networks = [
         "organizationId": "630040",
         "name": "B-LJ-AS-0012345-RS-EE",
         "timeZone": "America/Sao_Paulo",
-        "tags": " 2BLF VSAT ",
+        "tags": " 2BLM AP1 VSAT ",
         "type": "combined",
         "disableMyMerakiCom": false,
         "disableRemoteStatusPage": true
@@ -8973,7 +8883,7 @@ networks = [
         "organizationId": "630040",
         "name": "B-LJ-EP-0011848-PA-FF",
         "timeZone": "America/Sao_Paulo",
-        "tags": " 2BLF ",
+        "tags": " 2BLF AP1 ",
         "type": "combined",
         "disableMyMerakiCom": false,
         "disableRemoteStatusPage": true
@@ -9073,7 +8983,7 @@ networks = [
         "organizationId": "630040",
         "name": "B-LJ-AS-0007644-SP-EE",
         "timeZone": "America/Sao_Paulo",
-        "tags": " VSAT ",
+        "tags": " 2BLM VSAT ",
         "type": "combined",
         "disableMyMerakiCom": false,
         "disableRemoteStatusPage": true
@@ -9081,9 +8991,9 @@ networks = [
     {
         "id": "L_635570497412670123",
         "organizationId": "630040",
-        "name": "B-LJ-CO-0011013-MG-EE",
+        "name": "B-LJ-EP-0011013-MG-FF",
         "timeZone": "America/Sao_Paulo",
-        "tags": " TEMPLATE ",
+        "tags": " 2BLF ",
         "type": "combined",
         "disableMyMerakiCom": false,
         "disableRemoteStatusPage": true
@@ -9101,7 +9011,7 @@ networks = [
     {
         "id": "L_635570497412670136",
         "organizationId": "630040",
-        "name": "B-LJ-EP-00012849-SP-FF",
+        "name": "B-LJ-EP-0012849-SP-FF",
         "timeZone": "America/Sao_Paulo",
         "tags": " 2BLF ",
         "type": "combined",
@@ -9113,7 +9023,7 @@ networks = [
         "organizationId": "630040",
         "name": "B-LJ-AS-0005814-RS-EE",
         "timeZone": "America/Sao_Paulo",
-        "tags": " 1BLS AP1 VSAT ",
+        "tags": " 1BLS 2BLM AP1 ",
         "type": "combined",
         "disableMyMerakiCom": false,
         "disableRemoteStatusPage": true
@@ -9151,7 +9061,7 @@ networks = [
     {
         "id": "L_635570497412670167",
         "organizationId": "630040",
-        "name": " B-LJ-CO-0006553-SP-EE",
+        "name": "B-LJ-CO-0006553-SP-EE",
         "timeZone": "America/Sao_Paulo",
         "tags": " 2BLM VSAT ",
         "type": "combined",
@@ -9203,7 +9113,7 @@ networks = [
         "organizationId": "630040",
         "name": "B-LJ-AS-0013600-RS-EE",
         "timeZone": "America/Sao_Paulo",
-        "tags": " VSAT ",
+        "tags": " 2BLM AP1 VSAT ",
         "type": "combined",
         "disableMyMerakiCom": false,
         "disableRemoteStatusPage": true
@@ -9233,7 +9143,7 @@ networks = [
         "organizationId": "630040",
         "name": "B-LJ-CO-0008898-SP-EE",
         "timeZone": "America/Sao_Paulo",
-        "tags": " AP1 VSAT ",
+        "tags": " 2BLM AP1 VSAT ",
         "type": "combined",
         "disableMyMerakiCom": false,
         "disableRemoteStatusPage": true
@@ -9243,7 +9153,7 @@ networks = [
         "organizationId": "630040",
         "name": "B-LJ-CO-0007970-SP-EE",
         "timeZone": "America/Sao_Paulo",
-        "tags": " 2BLM VSAT ",
+        "tags": " 2BLM AP1 VSAT ",
         "type": "combined",
         "disableMyMerakiCom": false,
         "disableRemoteStatusPage": true
@@ -9273,7 +9183,7 @@ networks = [
         "organizationId": "630040",
         "name": "B-LJ-CS-0006195-SP-EE",
         "timeZone": "America/Sao_Paulo",
-        "tags": " 2BLM VSAT ",
+        "tags": " 1BLS 2BLM VSAT ",
         "type": "combined",
         "disableMyMerakiCom": false,
         "disableRemoteStatusPage": true
@@ -9343,7 +9253,7 @@ networks = [
         "organizationId": "630040",
         "name": "B-LJ-CO-0019380-SP-EE",
         "timeZone": "America/Sao_Paulo",
-        "tags": " 1BLS 2BLF AP1 ",
+        "tags": " 1BLS 2BLM AP1 ",
         "type": "combined",
         "disableMyMerakiCom": false,
         "disableRemoteStatusPage": true
@@ -9353,7 +9263,7 @@ networks = [
         "organizationId": "630040",
         "name": "B-LJ-CS-0013472-SP-EE",
         "timeZone": "America/Sao_Paulo",
-        "tags": " 2BLM VSAT ",
+        "tags": " 1BLS 2BLM VSAT ",
         "type": "combined",
         "disableMyMerakiCom": false,
         "disableRemoteStatusPage": true
@@ -9373,7 +9283,7 @@ networks = [
         "organizationId": "630040",
         "name": "B-LJ-CO-0019851-RJ-EE",
         "timeZone": "America/Sao_Paulo",
-        "tags": " 1BLS ",
+        "tags": " 1BLS 2BLM AP1 ",
         "type": "combined",
         "disableMyMerakiCom": false,
         "disableRemoteStatusPage": true
@@ -9383,7 +9293,7 @@ networks = [
         "organizationId": "630040",
         "name": "B-LJ-EP-0017870-GO-FF",
         "timeZone": "America/Sao_Paulo",
-        "tags": " 2BLF AP1 ",
+        "tags": " 1BLS AP1 ",
         "type": "combined",
         "disableMyMerakiCom": false,
         "disableRemoteStatusPage": true
@@ -9423,7 +9333,7 @@ networks = [
         "organizationId": "630040",
         "name": "B-LJ-AM-0017774-SP-EE",
         "timeZone": "America/Sao_Paulo",
-        "tags": " 2BLM MPLS ",
+        "tags": " 2BLM AP1 MPLS ",
         "type": "combined",
         "disableMyMerakiCom": false,
         "disableRemoteStatusPage": true
@@ -9433,7 +9343,7 @@ networks = [
         "organizationId": "630040",
         "name": "B-LJ-CO-0019381-SP-EE",
         "timeZone": "America/Sao_Paulo",
-        "tags": " 1BLS 2BLF AP1 ",
+        "tags": " 1BLS 2BLM AP1 ",
         "type": "combined",
         "disableMyMerakiCom": false,
         "disableRemoteStatusPage": true
@@ -9503,7 +9413,7 @@ networks = [
         "organizationId": "630040",
         "name": "B-LJ-CO-0012545-MT-EE",
         "timeZone": "America/Sao_Paulo",
-        "tags": " 1BLS VSAT ",
+        "tags": " 1BLS 2BLM ",
         "type": "combined",
         "disableMyMerakiCom": false,
         "disableRemoteStatusPage": true
@@ -9533,7 +9443,7 @@ networks = [
         "organizationId": "630040",
         "name": "B-LJ-CO-0012440-SP-EE",
         "timeZone": "America/Sao_Paulo",
-        "tags": " AP1 VSAT ",
+        "tags": " 2BLM AP1 VSAT ",
         "type": "combined",
         "disableMyMerakiCom": false,
         "disableRemoteStatusPage": true
@@ -9553,7 +9463,7 @@ networks = [
         "organizationId": "630040",
         "name": "B-LJ-EP-0006465-MS-FF",
         "timeZone": "America/Sao_Paulo",
-        "tags": " 2BLF ",
+        "tags": " 2BLF AP1 ",
         "type": "combined",
         "disableMyMerakiCom": false,
         "disableRemoteStatusPage": true
@@ -9563,7 +9473,7 @@ networks = [
         "organizationId": "630040",
         "name": "B-LJ-CO-0012747-RJ-EE",
         "timeZone": "America/Sao_Paulo",
-        "tags": " 1BLS ",
+        "tags": " 1BLS 2BLM ",
         "type": "combined",
         "disableMyMerakiCom": false,
         "disableRemoteStatusPage": true
@@ -9603,7 +9513,7 @@ networks = [
         "organizationId": "630040",
         "name": "T-LJ-CP-0018567-SP-EE",
         "timeZone": "America/Sao_Paulo",
-        "tags": " 1BLS ",
+        "tags": " 1BLS AP1 MPLS ",
         "type": "combined",
         "disableMyMerakiCom": false,
         "disableRemoteStatusPage": true
@@ -9613,7 +9523,7 @@ networks = [
         "organizationId": "630040",
         "name": "B-LJ-CO-0014310-RS-EE",
         "timeZone": "America/Sao_Paulo",
-        "tags": " 1BLS 2BLF AP1 ",
+        "tags": " 1BLS 2BLM AP1 ",
         "type": "combined",
         "disableMyMerakiCom": false,
         "disableRemoteStatusPage": true
@@ -9633,7 +9543,7 @@ networks = [
         "organizationId": "630040",
         "name": "Q-LJ-CP-0910388-BA-EE",
         "timeZone": "America/Sao_Paulo",
-        "tags": " 2BLF 2BLM ",
+        "tags": " 2BLF 2BLM AP1 ",
         "type": "combined",
         "disableMyMerakiCom": false,
         "disableRemoteStatusPage": true
@@ -9643,7 +9553,7 @@ networks = [
         "organizationId": "630040",
         "name": "B-LJ-CS-0009174-PA-EE",
         "timeZone": "America/Sao_Paulo",
-        "tags": " TEMPLATE ",
+        "tags": " AP1 VSAT ",
         "type": "combined",
         "disableMyMerakiCom": false,
         "disableRemoteStatusPage": true
@@ -9673,7 +9583,7 @@ networks = [
         "organizationId": "630040",
         "name": "B-LJ-CO-0012341-MA-EE",
         "timeZone": "America/Sao_Paulo",
-        "tags": " 1BLS 2BLF ",
+        "tags": " 2BLF 2BLM ",
         "type": "combined",
         "disableMyMerakiCom": false,
         "disableRemoteStatusPage": true
@@ -9713,7 +9623,7 @@ networks = [
         "organizationId": "630040",
         "name": "B-LJ-CS-0006241-PR-EE",
         "timeZone": "America/Sao_Paulo",
-        "tags": " 1BLS AP1 VSAT ",
+        "tags": " 1BLS 2BLM AP1 ",
         "type": "combined",
         "disableMyMerakiCom": false,
         "disableRemoteStatusPage": true
@@ -9741,9 +9651,9 @@ networks = [
     {
         "id": "L_635570497412670516",
         "organizationId": "630040",
-        "name": "B-LJ-CP-0013078-DF-EE",
+        "name": "B-LJ-CO-0013078-DF-EE",
         "timeZone": "America/Sao_Paulo",
-        "tags": " TEMPLATE ",
+        "tags": " 1BLS 2BLM ",
         "type": "combined",
         "disableMyMerakiCom": false,
         "disableRemoteStatusPage": true
@@ -9773,7 +9683,7 @@ networks = [
         "organizationId": "630040",
         "name": "B-LJ-CO-0013362-SC-EE",
         "timeZone": "America/Sao_Paulo",
-        "tags": " 1BLS 2BLF ",
+        "tags": " 1BLS 2BLM ",
         "type": "combined",
         "disableMyMerakiCom": false,
         "disableRemoteStatusPage": true
@@ -9793,7 +9703,7 @@ networks = [
         "organizationId": "630040",
         "name": "B-LJ-CO-0004489-GO-EE",
         "timeZone": "America/Sao_Paulo",
-        "tags": " 1BLS 2BLF ",
+        "tags": " 1BLS 2BLM ",
         "type": "combined",
         "disableMyMerakiCom": false,
         "disableRemoteStatusPage": true
@@ -9803,7 +9713,7 @@ networks = [
         "organizationId": "630040",
         "name": "B-LJ-CO-0019266-DF-EE",
         "timeZone": "America/Sao_Paulo",
-        "tags": " 1BLS VSAT ",
+        "tags": " 2BLM VSAT ",
         "type": "combined",
         "disableMyMerakiCom": false,
         "disableRemoteStatusPage": true
@@ -9813,7 +9723,7 @@ networks = [
         "organizationId": "630040",
         "name": "B-LJ-CO-0019270-DF-EE",
         "timeZone": "America/Sao_Paulo",
-        "tags": " 1BLS 2BLF ",
+        "tags": " 2BLF 2BLM ",
         "type": "combined",
         "disableMyMerakiCom": false,
         "disableRemoteStatusPage": true
@@ -9823,7 +9733,7 @@ networks = [
         "organizationId": "630040",
         "name": "B-LJ-CP-0007423-RN-EE",
         "timeZone": "America/Sao_Paulo",
-        "tags": " 1BLS AP1 MPLS ",
+        "tags": " 1BLS 2BLM AP1 MPLS ",
         "type": "combined",
         "disableMyMerakiCom": false,
         "disableRemoteStatusPage": true
@@ -9843,7 +9753,7 @@ networks = [
         "organizationId": "630040",
         "name": "B-LJ-CP-0013046-SC-EE",
         "timeZone": "America/Sao_Paulo",
-        "tags": " MPLS VSAT ",
+        "tags": " 2BLM MPLS ",
         "type": "combined",
         "disableMyMerakiCom": false,
         "disableRemoteStatusPage": true
@@ -9883,7 +9793,7 @@ networks = [
         "organizationId": "630040",
         "name": "B-LJ-CO-0013017-SP-EE",
         "timeZone": "America/Sao_Paulo",
-        "tags": " AP1 VSAT ",
+        "tags": " 2BLM AP1 VSAT ",
         "type": "combined",
         "disableMyMerakiCom": false,
         "disableRemoteStatusPage": true
@@ -9893,7 +9803,7 @@ networks = [
         "organizationId": "630040",
         "name": "B-LJ-CO-0011768-SP-EE",
         "timeZone": "America/Sao_Paulo",
-        "tags": " 1BLS AP1 VSAT ",
+        "tags": " 1BLS 2BLM AP1 ",
         "type": "combined",
         "disableMyMerakiCom": false,
         "disableRemoteStatusPage": true
@@ -9903,7 +9813,7 @@ networks = [
         "organizationId": "630040",
         "name": "B-LJ-CO-0013051-SC-EE",
         "timeZone": "America/Sao_Paulo",
-        "tags": " 1BLS VSAT ",
+        "tags": " 1BLS 2BLM ",
         "type": "combined",
         "disableMyMerakiCom": false,
         "disableRemoteStatusPage": true
@@ -9913,7 +9823,7 @@ networks = [
         "organizationId": "630040",
         "name": "B-LJ-AS-0011291-SP-EE",
         "timeZone": "America/Sao_Paulo",
-        "tags": " TEMPLATE ",
+        "tags": " 2BLM VSAT ",
         "type": "combined",
         "disableMyMerakiCom": false,
         "disableRemoteStatusPage": true
@@ -9933,7 +9843,7 @@ networks = [
         "organizationId": "630040",
         "name": "B-LJ-CO-0005390-CE-EE",
         "timeZone": "America/Sao_Paulo",
-        "tags": " AP1 VSAT ",
+        "tags": " 2BLM AP1 VSAT ",
         "type": "combined",
         "disableMyMerakiCom": false,
         "disableRemoteStatusPage": true
@@ -9953,7 +9863,7 @@ networks = [
         "organizationId": "630040",
         "name": "B-LJ-AM-0013063-PR-EE",
         "timeZone": "America/Sao_Paulo",
-        "tags": " TEMPLATE ",
+        "tags": " 2BLF 2BLM AP1 ",
         "type": "combined",
         "disableMyMerakiCom": false,
         "disableRemoteStatusPage": true
@@ -9969,12 +9879,12 @@ networks = [
         "disableRemoteStatusPage": true
     },
     {
-        "id": "L_635570497412670574",
+        "id": "N_635570497412703854",
         "organizationId": "630040",
         "name": "B-LJ-AS-0018905-SP-EE",
         "timeZone": "America/Sao_Paulo",
-        "tags": " 2BLF ",
-        "type": "combined",
+        "tags": " 2BLF 2BLM ",
+        "type": "appliance",
         "disableMyMerakiCom": false,
         "disableRemoteStatusPage": true
     },
@@ -9983,7 +9893,7 @@ networks = [
         "organizationId": "630040",
         "name": "B-LJ-CO-0013123-SP-EE",
         "timeZone": "America/Sao_Paulo",
-        "tags": " VSAT ",
+        "tags": " 2BLM VSAT ",
         "type": "combined",
         "disableMyMerakiCom": false,
         "disableRemoteStatusPage": true
@@ -10003,7 +9913,7 @@ networks = [
         "organizationId": "630040",
         "name": "B-LJ-CO-0014378-SP-EE",
         "timeZone": "America/Sao_Paulo",
-        "tags": " 1BLS VSAT ",
+        "tags": " 1BLS 2BLM ",
         "type": "combined",
         "disableMyMerakiCom": false,
         "disableRemoteStatusPage": true
@@ -10053,7 +9963,7 @@ networks = [
         "organizationId": "630040",
         "name": "Q-LJ-CO-0910056-PR-EE",
         "timeZone": "America/Sao_Paulo",
-        "tags": " 1BLS 2BLF ",
+        "tags": " 1BLS 2BLM ",
         "type": "combined",
         "disableMyMerakiCom": false,
         "disableRemoteStatusPage": true
@@ -10073,7 +9983,7 @@ networks = [
         "organizationId": "630040",
         "name": "Q-LJ-CP-0910187-RS-EE",
         "timeZone": "America/Sao_Paulo",
-        "tags": " 2BLF ",
+        "tags": " 2BLF 2BLM AP1 ",
         "type": "combined",
         "disableMyMerakiCom": false,
         "disableRemoteStatusPage": true
@@ -10093,7 +10003,7 @@ networks = [
         "organizationId": "630040",
         "name": "B-LJ-CO-0005630-CE-EE",
         "timeZone": "America/Sao_Paulo",
-        "tags": " 1BLS ",
+        "tags": " 1BLS 2BLM AP1 ",
         "type": "combined",
         "disableMyMerakiCom": false,
         "disableRemoteStatusPage": true
@@ -10133,7 +10043,7 @@ networks = [
         "organizationId": "630040",
         "name": "B-LJ-CO-0007409-SP-EE",
         "timeZone": "America/Sao_Paulo",
-        "tags": " 2BLF AP1 VSAT ",
+        "tags": " 2BLM AP1 VSAT ",
         "type": "combined",
         "disableMyMerakiCom": false,
         "disableRemoteStatusPage": true
@@ -10143,7 +10053,7 @@ networks = [
         "organizationId": "630040",
         "name": "B-LJ-CS-0035774-GO-EE",
         "timeZone": "America/Sao_Paulo",
-        "tags": " 2BLM AP1 VSAT ",
+        "tags": " 1BLS 2BLM AP1 VSAT ",
         "type": "combined",
         "disableMyMerakiCom": false,
         "disableRemoteStatusPage": true
@@ -10153,7 +10063,7 @@ networks = [
         "organizationId": "630040",
         "name": "B-LJ-CO-0012550-MT-EE",
         "timeZone": "America/Sao_Paulo",
-        "tags": " 1BLS VSAT ",
+        "tags": " 1BLS 2BLM AP1 ",
         "type": "combined",
         "disableMyMerakiCom": false,
         "disableRemoteStatusPage": true
@@ -10163,7 +10073,7 @@ networks = [
         "organizationId": "630040",
         "name": "B-LJ-CO-0011832-PR-EE",
         "timeZone": "America/Sao_Paulo",
-        "tags": " 2BLF ",
+        "tags": " 2BLF AP1 ",
         "type": "combined",
         "disableMyMerakiCom": false,
         "disableRemoteStatusPage": true
@@ -10203,7 +10113,7 @@ networks = [
         "organizationId": "630040",
         "name": "B-LJ-CO-0012422-MS-EE",
         "timeZone": "America/Sao_Paulo",
-        "tags": " 1BLS 2BLM ",
+        "tags": " 1BLS 2BLM AP1 ",
         "type": "combined",
         "disableMyMerakiCom": false,
         "disableRemoteStatusPage": true
@@ -10213,7 +10123,7 @@ networks = [
         "organizationId": "630040",
         "name": "B-LJ-CO-0005313-MA-EE",
         "timeZone": "America/Sao_Paulo",
-        "tags": " 2BLF 2BLM ",
+        "tags": " 2BLF 2BLM AP1 ",
         "type": "combined",
         "disableMyMerakiCom": false,
         "disableRemoteStatusPage": true
@@ -10223,7 +10133,7 @@ networks = [
         "organizationId": "630040",
         "name": "B-LJ-AM-0012708-PR-EE",
         "timeZone": "America/Sao_Paulo",
-        "tags": " 2BLF VSAT ",
+        "tags": " 2BLM MPLS ",
         "type": "combined",
         "disableMyMerakiCom": false,
         "disableRemoteStatusPage": true
@@ -10253,7 +10163,7 @@ networks = [
         "organizationId": "630040",
         "name": "B-LJ-EP-0008970-PR-FF",
         "timeZone": "America/Sao_Paulo",
-        "tags": " 1BLS ",
+        "tags": " 1BLS AP1 ",
         "type": "combined",
         "disableMyMerakiCom": false,
         "disableRemoteStatusPage": true
@@ -10263,7 +10173,7 @@ networks = [
         "organizationId": "630040",
         "name": "B-LJ-AS-0005911-MT-EE",
         "timeZone": "America/Sao_Paulo",
-        "tags": " 2BLF VSAT ",
+        "tags": " 2BLM AP1 VSAT ",
         "type": "combined",
         "disableMyMerakiCom": false,
         "disableRemoteStatusPage": true
@@ -10273,7 +10183,7 @@ networks = [
         "organizationId": "630040",
         "name": "B-LJ-AM-0019424-BA-EE",
         "timeZone": "America/Sao_Paulo",
-        "tags": " 2BLF ",
+        "tags": " 2BLF 2BLM ",
         "type": "combined",
         "disableMyMerakiCom": false,
         "disableRemoteStatusPage": true
@@ -10291,9 +10201,9 @@ networks = [
     {
         "id": "L_635570497412670714",
         "organizationId": "630040",
-        "name": "B-LJ-CS-00017762-RS-EE",
+        "name": "B-LJ-CS-0017762-RS-EE",
         "timeZone": "America/Sao_Paulo",
-        "tags": " TEMPLATE ",
+        "tags": " 2BLF AP1 VSAT ",
         "type": "combined",
         "disableMyMerakiCom": false,
         "disableRemoteStatusPage": true
@@ -10303,7 +10213,7 @@ networks = [
         "organizationId": "630040",
         "name": "B-LJ-AM-0019403-BA-EE",
         "timeZone": "America/Sao_Paulo",
-        "tags": " 2BLM MPLS ",
+        "tags": " 2BLF 2BLM ",
         "type": "combined",
         "disableMyMerakiCom": false,
         "disableRemoteStatusPage": true
@@ -10323,7 +10233,7 @@ networks = [
         "organizationId": "630040",
         "name": "B-LJ-AM-0013057-MG-EE",
         "timeZone": "America/Sao_Paulo",
-        "tags": " VSAT ",
+        "tags": " 2BLM VSAT ",
         "type": "combined",
         "disableMyMerakiCom": false,
         "disableRemoteStatusPage": true
@@ -10343,7 +10253,7 @@ networks = [
         "organizationId": "630040",
         "name": "B-LJ-AM-0013162-PR-EE",
         "timeZone": "America/Sao_Paulo",
-        "tags": " 2BLF VSAT ",
+        "tags": " 2BLM VSAT ",
         "type": "combined",
         "disableMyMerakiCom": false,
         "disableRemoteStatusPage": true
@@ -10373,7 +10283,7 @@ networks = [
         "organizationId": "630040",
         "name": "B-LJ-CO-0004986-RJ-EE",
         "timeZone": "America/Sao_Paulo",
-        "tags": " 1BLS VSAT ",
+        "tags": " 1BLS 2BLM ",
         "type": "combined",
         "disableMyMerakiCom": false,
         "disableRemoteStatusPage": true
@@ -10423,7 +10333,7 @@ networks = [
         "organizationId": "630040",
         "name": "B-LJ-CO-0012325-BA-EE",
         "timeZone": "America/Sao_Paulo",
-        "tags": " 2BLF VSAT ",
+        "tags": " 2BLM VSAT ",
         "type": "combined",
         "disableMyMerakiCom": false,
         "disableRemoteStatusPage": true
@@ -10443,7 +10353,7 @@ networks = [
         "organizationId": "630040",
         "name": "B-LJ-AM-0019388-BA-EE",
         "timeZone": "America/Sao_Paulo",
-        "tags": " 2BLF ",
+        "tags": " 2BLF 2BLM ",
         "type": "combined",
         "disableMyMerakiCom": false,
         "disableRemoteStatusPage": true
@@ -10473,7 +10383,7 @@ networks = [
         "organizationId": "630040",
         "name": "B-LJ-CP-0011591-RN-EE",
         "timeZone": "America/Sao_Paulo",
-        "tags": " 2BLF VSAT ",
+        "tags": " 2BLF 2BLM ",
         "type": "combined",
         "disableMyMerakiCom": false,
         "disableRemoteStatusPage": true
@@ -10493,7 +10403,7 @@ networks = [
         "organizationId": "630040",
         "name": "B-LJ-CO-0006916-AM-EE",
         "timeZone": "America/Sao_Paulo",
-        "tags": " 2BLM AP1 VSAT ",
+        "tags": " 1BLS 2BLM AP1 ",
         "type": "combined",
         "disableMyMerakiCom": false,
         "disableRemoteStatusPage": true
@@ -10503,7 +10413,7 @@ networks = [
         "organizationId": "630040",
         "name": "B-LJ-CO-0017594-MG-EE",
         "timeZone": "America/Sao_Paulo",
-        "tags": " 1BLS ",
+        "tags": " 1BLS 2BLM ",
         "type": "combined",
         "disableMyMerakiCom": false,
         "disableRemoteStatusPage": true
@@ -10513,7 +10423,7 @@ networks = [
         "organizationId": "630040",
         "name": "B-LJ-CP-0012792-MA-EE",
         "timeZone": "America/Sao_Paulo",
-        "tags": " 1BLS MPLS ",
+        "tags": " 1BLS AP1 MPLS ",
         "type": "combined",
         "disableMyMerakiCom": false,
         "disableRemoteStatusPage": true
@@ -10551,7 +10461,7 @@ networks = [
     {
         "id": "L_635570497412670860",
         "organizationId": "630040",
-        "name": "B-LJ-AS-12818-AL-EE",
+        "name": "B-LJ-AS-0012818-AL-EE",
         "timeZone": "America/Sao_Paulo",
         "tags": " 2BLM VSAT ",
         "type": "combined",
@@ -10613,7 +10523,7 @@ networks = [
         "organizationId": "630040",
         "name": "B-LJ-CO-0008293-AM-EE",
         "timeZone": "America/Sao_Paulo",
-        "tags": " 1BLS ",
+        "tags": " 1BLS 2BLM ",
         "type": "combined",
         "disableMyMerakiCom": false,
         "disableRemoteStatusPage": true
@@ -10623,7 +10533,7 @@ networks = [
         "organizationId": "630040",
         "name": "B-LJ-CO-0006254-ES-EE",
         "timeZone": "America/Sao_Paulo",
-        "tags": " 1BLS ",
+        "tags": " 1BLS 2BLM ",
         "type": "combined",
         "disableMyMerakiCom": false,
         "disableRemoteStatusPage": true
@@ -10643,7 +10553,7 @@ networks = [
         "organizationId": "630040",
         "name": "B-LJ-CP-0011558-MA-EE",
         "timeZone": "America/Sao_Paulo",
-        "tags": " 2BLF 2BLM ",
+        "tags": " 2BLF 2BLM AP1 ",
         "type": "combined",
         "disableMyMerakiCom": false,
         "disableRemoteStatusPage": true
@@ -10653,7 +10563,7 @@ networks = [
         "organizationId": "630040",
         "name": "B-LJ-AM-0013166-PR-EE",
         "timeZone": "America/Sao_Paulo",
-        "tags": " 2BLF VSAT ",
+        "tags": " 2BLM VSAT ",
         "type": "combined",
         "disableMyMerakiCom": false,
         "disableRemoteStatusPage": true
@@ -10693,7 +10603,7 @@ networks = [
         "organizationId": "630040",
         "name": "B-LJ-AS-0010991-RS-EE",
         "timeZone": "America/Sao_Paulo",
-        "tags": " 2BLF AP1 VSAT ",
+        "tags": " 2BLM AP1 VSAT ",
         "type": "combined",
         "disableMyMerakiCom": false,
         "disableRemoteStatusPage": true
@@ -10763,7 +10673,7 @@ networks = [
         "organizationId": "630040",
         "name": "B-LJ-CO-0019694-PA-EE",
         "timeZone": "America/Sao_Paulo",
-        "tags": " TEMPLATE ",
+        "tags": " 2BLF VSAT ",
         "type": "combined",
         "disableMyMerakiCom": false,
         "disableRemoteStatusPage": true
@@ -10783,7 +10693,7 @@ networks = [
         "organizationId": "630040",
         "name": "B-LJ-CO-0013016-SP-EE",
         "timeZone": "America/Sao_Paulo",
-        "tags": " VSAT ",
+        "tags": " 2BLM VSAT ",
         "type": "combined",
         "disableMyMerakiCom": false,
         "disableRemoteStatusPage": true
@@ -10793,7 +10703,7 @@ networks = [
         "organizationId": "630040",
         "name": "B-LJ-CO-0005553-DF-EE",
         "timeZone": "America/Sao_Paulo",
-        "tags": " 2BLF VSAT ",
+        "tags": " 1BLS 2BLM ",
         "type": "combined",
         "disableMyMerakiCom": false,
         "disableRemoteStatusPage": true
@@ -10813,7 +10723,7 @@ networks = [
         "organizationId": "630040",
         "name": "B-LJ-CO-0007972-SP-EE",
         "timeZone": "America/Sao_Paulo",
-        "tags": " VSAT ",
+        "tags": " 2BLM AP1 VSAT ",
         "type": "combined",
         "disableMyMerakiCom": false,
         "disableRemoteStatusPage": true
@@ -10833,7 +10743,7 @@ networks = [
         "organizationId": "630040",
         "name": "B-LJ-AM-0019346-BA-EE",
         "timeZone": "America/Sao_Paulo",
-        "tags": " VSAT ",
+        "tags": " 2BLM VSAT ",
         "type": "combined",
         "disableMyMerakiCom": false,
         "disableRemoteStatusPage": true
@@ -10853,7 +10763,7 @@ networks = [
         "organizationId": "630040",
         "name": "B-LJ-AM-0019350-BA-EE",
         "timeZone": "America/Sao_Paulo",
-        "tags": " 2BLF ",
+        "tags": " 2BLF 2BLM ",
         "type": "combined",
         "disableMyMerakiCom": false,
         "disableRemoteStatusPage": true
@@ -10871,9 +10781,9 @@ networks = [
     {
         "id": "L_635570497412670937",
         "organizationId": "630040",
-        "name": "B-LJ-CO-0013219-MG-EE",
+        "name": "B-LJ-AM-0013219-MG-EE",
         "timeZone": "America/Sao_Paulo",
-        "tags": " 2BLF ",
+        "tags": " 2BLF 2BLM ",
         "type": "combined",
         "disableMyMerakiCom": false,
         "disableRemoteStatusPage": true
@@ -10883,7 +10793,7 @@ networks = [
         "organizationId": "630040",
         "name": "B-LJ-CS-0011276-MG-EE",
         "timeZone": "America/Sao_Paulo",
-        "tags": " 1BLS VSAT ",
+        "tags": " 1BLS 2BLM VSAT ",
         "type": "combined",
         "disableMyMerakiCom": false,
         "disableRemoteStatusPage": true
@@ -10893,7 +10803,7 @@ networks = [
         "organizationId": "630040",
         "name": "B-LJ-CO-0005351-RJ-EE",
         "timeZone": "America/Sao_Paulo",
-        "tags": " 1BLS VSAT ",
+        "tags": " 1BLS 2BLM ",
         "type": "combined",
         "disableMyMerakiCom": false,
         "disableRemoteStatusPage": true
@@ -10903,7 +10813,7 @@ networks = [
         "organizationId": "630040",
         "name": "B-LJ-CP-0014166-CE-EE",
         "timeZone": "America/Sao_Paulo",
-        "tags": " 2BLF VSAT ",
+        "tags": " 2BLF 2BLM VSAT ",
         "type": "combined",
         "disableMyMerakiCom": false,
         "disableRemoteStatusPage": true
@@ -10923,7 +10833,7 @@ networks = [
         "organizationId": "630040",
         "name": "B-LJ-CO-0005649-RJ-EE",
         "timeZone": "America/Sao_Paulo",
-        "tags": " VSAT ",
+        "tags": " 2BLM VSAT ",
         "type": "combined",
         "disableMyMerakiCom": false,
         "disableRemoteStatusPage": true
@@ -11053,7 +10963,7 @@ networks = [
         "organizationId": "630040",
         "name": "B-LJ-CO-0007912-PI-EE",
         "timeZone": "America/Sao_Paulo",
-        "tags": " TEMPLATE ",
+        "tags": " 2BLF 2BLM AP1 ",
         "type": "combined",
         "disableMyMerakiCom": false,
         "disableRemoteStatusPage": true
@@ -11083,7 +10993,7 @@ networks = [
         "organizationId": "630040",
         "name": "B-LJ-CO-0011861-MA-EE",
         "timeZone": "America/Sao_Paulo",
-        "tags": " 2BLF ",
+        "tags": " 1BLS 2BLM ",
         "type": "combined",
         "disableMyMerakiCom": false,
         "disableRemoteStatusPage": true
@@ -11103,7 +11013,7 @@ networks = [
         "organizationId": "630040",
         "name": "B-LJ-AM-0019422-BA-EE",
         "timeZone": "America/Sao_Paulo",
-        "tags": " VSAT ",
+        "tags": " 2BLM VSAT ",
         "type": "combined",
         "disableMyMerakiCom": false,
         "disableRemoteStatusPage": true
@@ -11123,7 +11033,7 @@ networks = [
         "organizationId": "630040",
         "name": "B-LJ-CO-0004292-PR-EE",
         "timeZone": "America/Sao_Paulo",
-        "tags": " 1BLS VSAT ",
+        "tags": " 1BLS 2BLM ",
         "type": "combined",
         "disableMyMerakiCom": false,
         "disableRemoteStatusPage": true
@@ -11143,7 +11053,7 @@ networks = [
         "organizationId": "630040",
         "name": "B-LJ-AM-0019351-BA-EE",
         "timeZone": "America/Sao_Paulo",
-        "tags": " VSAT ",
+        "tags": " 2BLM VSAT ",
         "type": "combined",
         "disableMyMerakiCom": false,
         "disableRemoteStatusPage": true
@@ -11151,7 +11061,7 @@ networks = [
     {
         "id": "L_635570497412671042",
         "organizationId": "630040",
-        "name": "B-LJ-EP-0007485-BA-EE",
+        "name": "B-LJ-EP-0007485-BA-FF",
         "timeZone": "America/Sao_Paulo",
         "tags": " VSAT ",
         "type": "combined",
@@ -11173,7 +11083,7 @@ networks = [
         "organizationId": "630040",
         "name": "B-LJ-CO-0013631-RN-EE",
         "timeZone": "America/Sao_Paulo",
-        "tags": " 2BLF VSAT ",
+        "tags": " 2BLF 2BLM ",
         "type": "combined",
         "disableMyMerakiCom": false,
         "disableRemoteStatusPage": true
@@ -11183,7 +11093,7 @@ networks = [
         "organizationId": "630040",
         "name": "B-LJ-AM-0019909-PE-EE",
         "timeZone": "America/Sao_Paulo",
-        "tags": " 2BLF VSAT ",
+        "tags": " 2BLM VSAT ",
         "type": "combined",
         "disableMyMerakiCom": false,
         "disableRemoteStatusPage": true
@@ -11204,16 +11114,6 @@ networks = [
         "name": "B-LJ-CS-0012566-RN-EE",
         "timeZone": "America/Sao_Paulo",
         "tags": " 2BLF VSAT ",
-        "type": "combined",
-        "disableMyMerakiCom": false,
-        "disableRemoteStatusPage": true
-    },
-    {
-        "id": "L_635570497412671049",
-        "organizationId": "630040",
-        "name": "B-LJ-CO-0005573-DF-EE ",
-        "timeZone": "America/Sao_Paulo",
-        "tags": " 1BLS 2BLM ",
         "type": "combined",
         "disableMyMerakiCom": false,
         "disableRemoteStatusPage": true
@@ -11263,7 +11163,7 @@ networks = [
         "organizationId": "630040",
         "name": "B-LJ-CO-0006828-MG-EE",
         "timeZone": "America/Sao_Paulo",
-        "tags": " 2BLF VSAT ",
+        "tags": " 2BLM VSAT ",
         "type": "combined",
         "disableMyMerakiCom": false,
         "disableRemoteStatusPage": true
@@ -11281,9 +11181,9 @@ networks = [
     {
         "id": "L_635570497412671115",
         "organizationId": "630040",
-        "name": "B-LJ-CO-0019360-BA-EE",
+        "name": "B-LJ-AM-0019360-BA-EE",
         "timeZone": "America/Sao_Paulo",
-        "tags": " VSAT ",
+        "tags": " 2BLM MPLS ",
         "type": "combined",
         "disableMyMerakiCom": false,
         "disableRemoteStatusPage": true
@@ -11293,7 +11193,7 @@ networks = [
         "organizationId": "630040",
         "name": "B-LJ-AM-0019411-BA-EE",
         "timeZone": "America/Sao_Paulo",
-        "tags": " 2BLF VSAT ",
+        "tags": " 2BLM VSAT ",
         "type": "combined",
         "disableMyMerakiCom": false,
         "disableRemoteStatusPage": true
@@ -11313,7 +11213,7 @@ networks = [
         "organizationId": "630040",
         "name": "B-LJ-CO-0007431-RN-EE",
         "timeZone": "America/Sao_Paulo",
-        "tags": " 1BLS 2BLF ",
+        "tags": " 2BLF 2BLM ",
         "type": "combined",
         "disableMyMerakiCom": false,
         "disableRemoteStatusPage": true
@@ -11323,7 +11223,7 @@ networks = [
         "organizationId": "630040",
         "name": "B-LJ-CO-0005519-RJ-EE",
         "timeZone": "America/Sao_Paulo",
-        "tags": " 1BLS VSAT ",
+        "tags": " 1BLS 2BLM ",
         "type": "combined",
         "disableMyMerakiCom": false,
         "disableRemoteStatusPage": true
@@ -11343,7 +11243,7 @@ networks = [
         "organizationId": "630040",
         "name": "B-LJ-CO-0014111-CE-EE",
         "timeZone": "America/Sao_Paulo",
-        "tags": " VSAT ",
+        "tags": " 2BLM VSAT ",
         "type": "combined",
         "disableMyMerakiCom": false,
         "disableRemoteStatusPage": true
@@ -11353,7 +11253,7 @@ networks = [
         "organizationId": "630040",
         "name": "B-LJ-AS-0017763-PA-EE",
         "timeZone": "America/Sao_Paulo",
-        "tags": " TEMPLATE ",
+        "tags": " VSAT ",
         "type": "combined",
         "disableMyMerakiCom": false,
         "disableRemoteStatusPage": true
@@ -11373,7 +11273,7 @@ networks = [
         "organizationId": "630040",
         "name": "B-LJ-CO-0010903-BA-EE",
         "timeZone": "America/Sao_Paulo",
-        "tags": " VSAT ",
+        "tags": " 2BLM VSAT ",
         "type": "combined",
         "disableMyMerakiCom": false,
         "disableRemoteStatusPage": true
@@ -11383,7 +11283,7 @@ networks = [
         "organizationId": "630040",
         "name": "B-LJ-CO-0012905-RJ-EE",
         "timeZone": "America/Sao_Paulo",
-        "tags": " VSAT ",
+        "tags": " 2BLM VSAT ",
         "type": "combined",
         "disableMyMerakiCom": false,
         "disableRemoteStatusPage": true
@@ -11421,9 +11321,9 @@ networks = [
     {
         "id": "L_635570497412671150",
         "organizationId": "630040",
-        "name": "B-LJ-CO-014528-BA-EE",
+        "name": "B-LJ-CO-0014528-BA-EE",
         "timeZone": "America/Sao_Paulo",
-        "tags": " TEMPLATE ",
+        "tags": " 2BLM VSAT ",
         "type": "combined",
         "disableMyMerakiCom": false,
         "disableRemoteStatusPage": true
@@ -11433,7 +11333,7 @@ networks = [
         "organizationId": "630040",
         "name": "B-LJ-AM-0019931-PE-EE",
         "timeZone": "America/Sao_Paulo",
-        "tags": " 2BLF ",
+        "tags": " 2BLF 2BLM ",
         "type": "combined",
         "disableMyMerakiCom": false,
         "disableRemoteStatusPage": true
@@ -11463,7 +11363,7 @@ networks = [
         "organizationId": "630040",
         "name": "B-LJ-AM-0019406-BA-EE",
         "timeZone": "America/Sao_Paulo",
-        "tags": " AP1 VSAT ",
+        "tags": " MPLS VSAT ",
         "type": "combined",
         "disableMyMerakiCom": false,
         "disableRemoteStatusPage": true
@@ -11501,9 +11401,9 @@ networks = [
     {
         "id": "L_635570497412671190",
         "organizationId": "630040",
-        "name": "E-LJ-CP-000JC66-PE-EE",
+        "name": "E-ER-CP-000JC66-PE-EE",
         "timeZone": "America/Sao_Paulo",
-        "tags": " 2BLF AP1 ",
+        "tags": " 1BLS AP1 MPLS ",
         "type": "combined",
         "disableMyMerakiCom": false,
         "disableRemoteStatusPage": true
@@ -11523,7 +11423,7 @@ networks = [
         "organizationId": "630040",
         "name": "B-LJ-CP-0014329-RN-EE",
         "timeZone": "America/Sao_Paulo",
-        "tags": " 2BLF AP1 MPLS ",
+        "tags": " 2BLM AP1 MPLS ",
         "type": "combined",
         "disableMyMerakiCom": false,
         "disableRemoteStatusPage": true
@@ -11543,7 +11443,7 @@ networks = [
         "organizationId": "630040",
         "name": "B-LJ-CO-0012090-AP-EE",
         "timeZone": "America/Sao_Paulo",
-        "tags": " TEMPLATE ",
+        "tags": " 2BLM AP1 VSAT ",
         "type": "combined",
         "disableMyMerakiCom": false,
         "disableRemoteStatusPage": true
@@ -11553,17 +11453,17 @@ networks = [
         "organizationId": "630040",
         "name": "B-LJ-CO-0012083-RJ-EE",
         "timeZone": "America/Sao_Paulo",
-        "tags": " 2BLF ",
+        "tags": " 2BLF AP1 ",
         "type": "combined",
         "disableMyMerakiCom": false,
         "disableRemoteStatusPage": true
     },
     {
-        "id": "L_635570497412671202",
+        "id": "L_635570497412671928",
         "organizationId": "630040",
-        "name": "B-LJ-CO-0006861-BA-EE",
+        "name": "B-LJ-CO-0006861-BA-EE - wireless",
         "timeZone": "America/Sao_Paulo",
-        "tags": " 2BLF VSAT ",
+        "tags": " 2BLF 2BLM ",
         "type": "combined",
         "disableMyMerakiCom": false,
         "disableRemoteStatusPage": true
@@ -11573,7 +11473,7 @@ networks = [
         "organizationId": "630040",
         "name": "B-LJ-AM-0019928-PE-EE",
         "timeZone": "America/Sao_Paulo",
-        "tags": " VSAT ",
+        "tags": " MPLS VSAT ",
         "type": "combined",
         "disableMyMerakiCom": false,
         "disableRemoteStatusPage": true
@@ -11593,7 +11493,7 @@ networks = [
         "organizationId": "630040",
         "name": "B-QS-AM-0019358-BA-EE",
         "timeZone": "America/Sao_Paulo",
-        "tags": " 1BLS ",
+        "tags": " 1BLS 2BLM ",
         "type": "combined",
         "disableMyMerakiCom": false,
         "disableRemoteStatusPage": true
@@ -11643,7 +11543,7 @@ networks = [
         "organizationId": "630040",
         "name": "B-LJ-CO-0019472-CE-EE",
         "timeZone": "America/Sao_Paulo",
-        "tags": " TEMPLATE ",
+        "tags": " 2BLF VSAT ",
         "type": "combined",
         "disableMyMerakiCom": false,
         "disableRemoteStatusPage": true
@@ -11651,7 +11551,7 @@ networks = [
     {
         "id": "L_635570497412671249",
         "organizationId": "630040",
-        "name": "Q-LJ-CO-00910172-RJ-EE",
+        "name": "Q-LJ-CO-0910172-RJ-EE",
         "timeZone": "America/Sao_Paulo",
         "tags": " 1BLS 2BLF ",
         "type": "combined",
@@ -11693,7 +11593,7 @@ networks = [
         "organizationId": "630040",
         "name": "B-LJ-CO-0012330-BA-EE",
         "timeZone": "America/Sao_Paulo",
-        "tags": " TEMPLATE ",
+        "tags": " 2BLM VSAT ",
         "type": "combined",
         "disableMyMerakiCom": false,
         "disableRemoteStatusPage": true
@@ -11713,7 +11613,7 @@ networks = [
         "organizationId": "630040",
         "name": "B-LJ-CO-0010949-PE-EE",
         "timeZone": "America/Sao_Paulo",
-        "tags": " VSAT ",
+        "tags": " 2BLM VSAT ",
         "type": "combined",
         "disableMyMerakiCom": false,
         "disableRemoteStatusPage": true
@@ -11721,19 +11621,9 @@ networks = [
     {
         "id": "L_635570497412671279",
         "organizationId": "630040",
-        "name": "B-LJ-CO-00011731-BA-EE",
+        "name": "B-LJ-CO-0011731-BA-EE",
         "timeZone": "America/Sao_Paulo",
-        "tags": " 1BLS ",
-        "type": "combined",
-        "disableMyMerakiCom": false,
-        "disableRemoteStatusPage": true
-    },
-    {
-        "id": "L_635570497412671280",
-        "organizationId": "630040",
-        "name": "B-LJ-CO-0005997-SP-EE",
-        "timeZone": "America/Sao_Paulo",
-        "tags": " TEMPLATE ",
+        "tags": " 2BLM VSAT ",
         "type": "combined",
         "disableMyMerakiCom": false,
         "disableRemoteStatusPage": true
@@ -11753,7 +11643,7 @@ networks = [
         "organizationId": "630040",
         "name": "B-LJ-EP-0019493-PE-FF",
         "timeZone": "America/Sao_Paulo",
-        "tags": " 2BLF ",
+        "tags": " 2BLF AP1 ",
         "type": "combined",
         "disableMyMerakiCom": false,
         "disableRemoteStatusPage": true
@@ -11763,7 +11653,7 @@ networks = [
         "organizationId": "630040",
         "name": "B-LJ-AS-0005813-RS-EE",
         "timeZone": "America/Sao_Paulo",
-        "tags": " VSAT ",
+        "tags": " 2BLM VSAT ",
         "type": "combined",
         "disableMyMerakiCom": false,
         "disableRemoteStatusPage": true
@@ -11783,7 +11673,7 @@ networks = [
         "organizationId": "630040",
         "name": "B-LJ-EP-0006227-AL-FF",
         "timeZone": "America/Sao_Paulo",
-        "tags": " 2BLF ",
+        "tags": " 2BLF AP1 ",
         "type": "combined",
         "disableMyMerakiCom": false,
         "disableRemoteStatusPage": true
@@ -11793,7 +11683,7 @@ networks = [
         "organizationId": "630040",
         "name": "B-LJ-CO-0019393-PB-EE",
         "timeZone": "America/Sao_Paulo",
-        "tags": " 1BLS ",
+        "tags": " 1BLS 2BLM ",
         "type": "combined",
         "disableMyMerakiCom": false,
         "disableRemoteStatusPage": true
@@ -11803,7 +11693,7 @@ networks = [
         "organizationId": "630040",
         "name": "B-LJ-CO-0018476-BA-EE",
         "timeZone": "America/Sao_Paulo",
-        "tags": " 2BLF ",
+        "tags": " 1BLS 2BLM ",
         "type": "combined",
         "disableMyMerakiCom": false,
         "disableRemoteStatusPage": true
@@ -11813,7 +11703,7 @@ networks = [
         "organizationId": "630040",
         "name": "B-LJ-AM-0019899-PE-EE",
         "timeZone": "America/Sao_Paulo",
-        "tags": " VSAT ",
+        "tags": " 2BLM MPLS ",
         "type": "combined",
         "disableMyMerakiCom": false,
         "disableRemoteStatusPage": true
@@ -11853,7 +11743,7 @@ networks = [
         "organizationId": "630040",
         "name": "B-LJ-AM-0013124-SE-EE",
         "timeZone": "America/Sao_Paulo",
-        "tags": " TEMPLATE ",
+        "tags": " 2BLM MPLS ",
         "type": "combined",
         "disableMyMerakiCom": false,
         "disableRemoteStatusPage": true
@@ -11863,7 +11753,7 @@ networks = [
         "organizationId": "630040",
         "name": "B-LJ-AM-0014165-CE-EE",
         "timeZone": "America/Sao_Paulo",
-        "tags": " 2BLF VSAT ",
+        "tags": " 2BLF 2BLM ",
         "type": "combined",
         "disableMyMerakiCom": false,
         "disableRemoteStatusPage": true
@@ -11873,7 +11763,7 @@ networks = [
         "organizationId": "630040",
         "name": "B-LJ-CO-0018480-BA-EE",
         "timeZone": "America/Sao_Paulo",
-        "tags": " VSAT ",
+        "tags": " 2BLM VSAT ",
         "type": "combined",
         "disableMyMerakiCom": false,
         "disableRemoteStatusPage": true
@@ -11883,7 +11773,7 @@ networks = [
         "organizationId": "630040",
         "name": "B-LJ-CO-0010947-RR-EE",
         "timeZone": "America/Sao_Paulo",
-        "tags": " TEMPLATE ",
+        "tags": " 1BLS VSAT ",
         "type": "combined",
         "disableMyMerakiCom": false,
         "disableRemoteStatusPage": true
@@ -11903,7 +11793,7 @@ networks = [
         "organizationId": "630040",
         "name": "B-LJ-CS-0014496-PI-EE",
         "timeZone": "America/Sao_Paulo",
-        "tags": " 2BLF VSAT ",
+        "tags": " 2BLF 2BLM VSAT ",
         "type": "combined",
         "disableMyMerakiCom": false,
         "disableRemoteStatusPage": true
@@ -11913,7 +11803,7 @@ networks = [
         "organizationId": "630040",
         "name": "B-LJ-CO-0004395-RS-EE",
         "timeZone": "America/Sao_Paulo",
-        "tags": " TEMPLATE ",
+        "tags": " 2BLM AP1 VSAT ",
         "type": "combined",
         "disableMyMerakiCom": false,
         "disableRemoteStatusPage": true
@@ -11921,7 +11811,7 @@ networks = [
     {
         "id": "L_635570497412671335",
         "organizationId": "630040",
-        "name": "B-LJ-CO-18920-SP-EE",
+        "name": "B-LJ-CO-0018920-SP-EE",
         "timeZone": "America/Sao_Paulo",
         "tags": " TEMPLATE ",
         "type": "combined",
@@ -11943,7 +11833,7 @@ networks = [
         "organizationId": "630040",
         "name": "B-LJ-EP-0005094-AL-FF",
         "timeZone": "America/Sao_Paulo",
-        "tags": " 2BLF VSAT ",
+        "tags": " 2BLF AP1 ",
         "type": "combined",
         "disableMyMerakiCom": false,
         "disableRemoteStatusPage": true
@@ -11993,7 +11883,7 @@ networks = [
         "organizationId": "630040",
         "name": "B-LJ-CS-0008876-RS-EE",
         "timeZone": "America/Sao_Paulo",
-        "tags": " TEMPLATE ",
+        "tags": " 1BLS 2BLF AP1 ",
         "type": "combined",
         "disableMyMerakiCom": false,
         "disableRemoteStatusPage": true
@@ -12003,7 +11893,7 @@ networks = [
         "organizationId": "630040",
         "name": "B-LJ-AM-0014524-CE-EE",
         "timeZone": "America/Sao_Paulo",
-        "tags": " 2BLF ",
+        "tags": " 2BLF 2BLM ",
         "type": "combined",
         "disableMyMerakiCom": false,
         "disableRemoteStatusPage": true
@@ -12033,7 +11923,7 @@ networks = [
         "organizationId": "630040",
         "name": "B-LJ-AM-0013181-PR-EE",
         "timeZone": "America/Sao_Paulo",
-        "tags": " 1BLS VSAT ",
+        "tags": " 1BLS 2BLM ",
         "type": "combined",
         "disableMyMerakiCom": false,
         "disableRemoteStatusPage": true
@@ -12041,7 +11931,7 @@ networks = [
     {
         "id": "L_635570497412671358",
         "organizationId": "630040",
-        "name": "B-LJ-CO-0014539-CE-FF",
+        "name": "B-LJ-CO-0014539-CE-EE",
         "timeZone": "America/Sao_Paulo",
         "tags": " 2BLF 2BLM ",
         "type": "combined",
@@ -12073,7 +11963,7 @@ networks = [
         "organizationId": "630040",
         "name": "B-LJ-AM-0017583-CE-EE",
         "timeZone": "America/Sao_Paulo",
-        "tags": " 2BLF ",
+        "tags": " 2BLF 2BLM ",
         "type": "combined",
         "disableMyMerakiCom": false,
         "disableRemoteStatusPage": true
@@ -12083,7 +11973,7 @@ networks = [
         "organizationId": "630040",
         "name": "B-LJ-CO-0019916-PE-EE",
         "timeZone": "America/Sao_Paulo",
-        "tags": " VSAT ",
+        "tags": " 2BLM VSAT ",
         "type": "combined",
         "disableMyMerakiCom": false,
         "disableRemoteStatusPage": true
@@ -12093,7 +11983,7 @@ networks = [
         "organizationId": "630040",
         "name": "B-LJ-CO-0013215-AP-EE",
         "timeZone": "America/Sao_Paulo",
-        "tags": " VSAT ",
+        "tags": " AP1 VSAT ",
         "type": "combined",
         "disableMyMerakiCom": false,
         "disableRemoteStatusPage": true
@@ -12103,7 +11993,7 @@ networks = [
         "organizationId": "630040",
         "name": "B-LJ-CO-0014156-CE-EE",
         "timeZone": "America/Sao_Paulo",
-        "tags": " 2BLF ",
+        "tags": " 2BLF 2BLM ",
         "type": "combined",
         "disableMyMerakiCom": false,
         "disableRemoteStatusPage": true
@@ -12113,7 +12003,7 @@ networks = [
         "organizationId": "630040",
         "name": "B-LJ-AM-0019903-PE-EE",
         "timeZone": "America/Sao_Paulo",
-        "tags": " TEMPLATE ",
+        "tags": " VSAT ",
         "type": "combined",
         "disableMyMerakiCom": false,
         "disableRemoteStatusPage": true
@@ -12123,7 +12013,7 @@ networks = [
         "organizationId": "630040",
         "name": "B-LJ-CO-0019732-RS-EE",
         "timeZone": "America/Sao_Paulo",
-        "tags": " TEMPLATE ",
+        "tags": " 2BLF 2BLM AP1 ",
         "type": "combined",
         "disableMyMerakiCom": false,
         "disableRemoteStatusPage": true
@@ -12133,7 +12023,7 @@ networks = [
         "organizationId": "630040",
         "name": "B-LJ-CO-0013855-SC-EE",
         "timeZone": "America/Sao_Paulo",
-        "tags": " 1BLS 2BLF ",
+        "tags": " 1BLS 2BLM ",
         "type": "combined",
         "disableMyMerakiCom": false,
         "disableRemoteStatusPage": true
@@ -12153,7 +12043,7 @@ networks = [
         "organizationId": "630040",
         "name": "B-LJ-CO-0018462-SP-EE",
         "timeZone": "America/Sao_Paulo",
-        "tags": " 1BLS ",
+        "tags": " 1BLS 2BLM ",
         "type": "combined",
         "disableMyMerakiCom": false,
         "disableRemoteStatusPage": true
@@ -12203,7 +12093,7 @@ networks = [
         "organizationId": "630040",
         "name": "B-LJ-AM-0019904-PE-EE",
         "timeZone": "America/Sao_Paulo",
-        "tags": " 2BLF VSAT ",
+        "tags": " MPLS VSAT ",
         "type": "combined",
         "disableMyMerakiCom": false,
         "disableRemoteStatusPage": true
@@ -12213,7 +12103,7 @@ networks = [
         "organizationId": "630040",
         "name": "B-LJ-CS-0005917-PI-EE",
         "timeZone": "America/Sao_Paulo",
-        "tags": " 2BLF AP1 VSAT ",
+        "tags": " 2BLF 2BLM AP1 VSAT ",
         "type": "combined",
         "disableMyMerakiCom": false,
         "disableRemoteStatusPage": true
@@ -12263,7 +12153,7 @@ networks = [
         "organizationId": "630040",
         "name": "B-LJ-AM-0019947-PE-EE",
         "timeZone": "America/Sao_Paulo",
-        "tags": " 2BLF ",
+        "tags": " 2BLF 2BLM ",
         "type": "combined",
         "disableMyMerakiCom": false,
         "disableRemoteStatusPage": true
@@ -12273,7 +12163,7 @@ networks = [
         "organizationId": "630040",
         "name": "B-LJ-AM-0014168-CE-EE",
         "timeZone": "America/Sao_Paulo",
-        "tags": " 2BLF ",
+        "tags": " 2BLF 2BLM ",
         "type": "combined",
         "disableMyMerakiCom": false,
         "disableRemoteStatusPage": true
@@ -12313,7 +12203,7 @@ networks = [
         "organizationId": "630040",
         "name": "B-LJ-CO-0006148-RR-EE",
         "timeZone": "America/Sao_Paulo",
-        "tags": " VSAT ",
+        "tags": " 1BLS 2BLM AP1 ",
         "type": "combined",
         "disableMyMerakiCom": false,
         "disableRemoteStatusPage": true
@@ -12341,9 +12231,9 @@ networks = [
     {
         "id": "L_635570497412671440",
         "organizationId": "630040",
-        "name": "B-LJ-CO-0006272-CE-EE",
+        "name": "B-LJ-EP-0006272-CE-EE",
         "timeZone": "America/Sao_Paulo",
-        "tags": " 2BLF ",
+        "tags": " 2BLF 2BLM ",
         "type": "combined",
         "disableMyMerakiCom": false,
         "disableRemoteStatusPage": true
@@ -12353,7 +12243,7 @@ networks = [
         "organizationId": "630040",
         "name": "B-LJ-AM-0013164-PR-EE",
         "timeZone": "America/Sao_Paulo",
-        "tags": " TEMPLATE ",
+        "tags": " 2BLM VSAT ",
         "type": "combined",
         "disableMyMerakiCom": false,
         "disableRemoteStatusPage": true
@@ -12373,7 +12263,7 @@ networks = [
         "organizationId": "630040",
         "name": "B-LJ-CP-0018407-MG-EE",
         "timeZone": "America/Sao_Paulo",
-        "tags": " TEMPLATE ",
+        "tags": " 1BLS MPLS ",
         "type": "combined",
         "disableMyMerakiCom": false,
         "disableRemoteStatusPage": true
@@ -12383,7 +12273,7 @@ networks = [
         "organizationId": "630040",
         "name": "B-LJ-CO-0006793-PE-EE",
         "timeZone": "America/Sao_Paulo",
-        "tags": " 2BLF VSAT ",
+        "tags": " 1BLS VSAT ",
         "type": "combined",
         "disableMyMerakiCom": false,
         "disableRemoteStatusPage": true
@@ -12393,7 +12283,7 @@ networks = [
         "organizationId": "630040",
         "name": "B-LJ-AS-0012817-AL-EE",
         "timeZone": "America/Sao_Paulo",
-        "tags": " TEMPLATE ",
+        "tags": " 2BLM AP1 VSAT ",
         "type": "combined",
         "disableMyMerakiCom": false,
         "disableRemoteStatusPage": true
@@ -12443,7 +12333,7 @@ networks = [
         "organizationId": "630040",
         "name": "B-LJ-CO-0013120-SE-EE",
         "timeZone": "America/Sao_Paulo",
-        "tags": " TEMPLATE ",
+        "tags": " 1BLS 2BLM ",
         "type": "combined",
         "disableMyMerakiCom": false,
         "disableRemoteStatusPage": true
@@ -12453,7 +12343,7 @@ networks = [
         "organizationId": "630040",
         "name": "B-LJ-CO-0013316-RS-EE",
         "timeZone": "America/Sao_Paulo",
-        "tags": " VSAT ",
+        "tags": " 2BLM VSAT ",
         "type": "combined",
         "disableMyMerakiCom": false,
         "disableRemoteStatusPage": true
@@ -12513,7 +12403,7 @@ networks = [
         "organizationId": "630040",
         "name": "B-LJ-AM-0019357-BA-EE",
         "timeZone": "America/Sao_Paulo",
-        "tags": " VSAT ",
+        "tags": " 2BLM VSAT ",
         "type": "combined",
         "disableMyMerakiCom": false,
         "disableRemoteStatusPage": true
@@ -12573,7 +12463,7 @@ networks = [
         "organizationId": "630040",
         "name": "B-LJ-AS-0012833-AL-EE",
         "timeZone": "America/Sao_Paulo",
-        "tags": " TEMPLATE ",
+        "tags": " 2BLM VSAT ",
         "type": "combined",
         "disableMyMerakiCom": false,
         "disableRemoteStatusPage": true
@@ -12583,7 +12473,7 @@ networks = [
         "organizationId": "630040",
         "name": "B-LJ-CO-0019626-RS-EE",
         "timeZone": "America/Sao_Paulo",
-        "tags": " AP1 VSAT ",
+        "tags": " 2BLM AP1 VSAT ",
         "type": "combined",
         "disableMyMerakiCom": false,
         "disableRemoteStatusPage": true
@@ -12603,7 +12493,7 @@ networks = [
         "organizationId": "630040",
         "name": "B-LJ-AM-0019934-PE-EE",
         "timeZone": "America/Sao_Paulo",
-        "tags": " TEMPLATE ",
+        "tags": " 2BLM VSAT ",
         "type": "combined",
         "disableMyMerakiCom": false,
         "disableRemoteStatusPage": true
@@ -12643,7 +12533,7 @@ networks = [
         "organizationId": "630040",
         "name": "B-LJ-CO-0014548-RS-EE",
         "timeZone": "America/Sao_Paulo",
-        "tags": " 1BLS AP1 VSAT ",
+        "tags": " 1BLS 2BLM AP1 ",
         "type": "combined",
         "disableMyMerakiCom": false,
         "disableRemoteStatusPage": true
@@ -12673,7 +12563,7 @@ networks = [
         "organizationId": "630040",
         "name": "B-LJ-AM-0019921-PE-EE",
         "timeZone": "America/Sao_Paulo",
-        "tags": " VSAT ",
+        "tags": " 2BLM MPLS ",
         "type": "combined",
         "disableMyMerakiCom": false,
         "disableRemoteStatusPage": true
@@ -12683,7 +12573,7 @@ networks = [
         "organizationId": "630040",
         "name": "B-LJ-AM-0014649-CE-EE",
         "timeZone": "America/Sao_Paulo",
-        "tags": " 2BLF VSAT ",
+        "tags": " 2BLM VSAT ",
         "type": "combined",
         "disableMyMerakiCom": false,
         "disableRemoteStatusPage": true
@@ -12703,7 +12593,7 @@ networks = [
         "organizationId": "630040",
         "name": "B-LJ-CP-0012647-RN-EE",
         "timeZone": "America/Sao_Paulo",
-        "tags": " AP1 MPLS VSAT ",
+        "tags": " 2BLM AP1 MPLS VSAT ",
         "type": "combined",
         "disableMyMerakiCom": false,
         "disableRemoteStatusPage": true
@@ -12713,7 +12603,7 @@ networks = [
         "organizationId": "630040",
         "name": "B-LJ-CO-0019019-PR-EE",
         "timeZone": "America/Sao_Paulo",
-        "tags": " 2BLF 2BLM ",
+        "tags": " 2BLF 2BLM AP1 ",
         "type": "combined",
         "disableMyMerakiCom": false,
         "disableRemoteStatusPage": true
@@ -12733,7 +12623,7 @@ networks = [
         "organizationId": "630040",
         "name": "B-LJ-CP-0018621-SC-EE",
         "timeZone": "America/Sao_Paulo",
-        "tags": " TEMPLATE ",
+        "tags": " 2BLM MPLS ",
         "type": "combined",
         "disableMyMerakiCom": false,
         "disableRemoteStatusPage": true
@@ -12753,7 +12643,7 @@ networks = [
         "organizationId": "630040",
         "name": "B-LJ-AM-0014186-CE-EE",
         "timeZone": "America/Sao_Paulo",
-        "tags": " 2BLF VSAT ",
+        "tags": " 2BLM VSAT ",
         "type": "combined",
         "disableMyMerakiCom": false,
         "disableRemoteStatusPage": true
@@ -12813,7 +12703,7 @@ networks = [
         "organizationId": "630040",
         "name": "B-LJ-CO-0019600-RN-EE",
         "timeZone": "America/Sao_Paulo",
-        "tags": " 2BLF VSAT ",
+        "tags": " 2BLF 2BLM ",
         "type": "combined",
         "disableMyMerakiCom": false,
         "disableRemoteStatusPage": true
@@ -12821,9 +12711,9 @@ networks = [
     {
         "id": "L_635570497412671559",
         "organizationId": "630040",
-        "name": "B-LJ-CO-0019735-PE-EE",
+        "name": "B-LJ-EP-0019735-PE-FF",
         "timeZone": "America/Sao_Paulo",
-        "tags": " 2BLF ",
+        "tags": " 2BLF 2BLM ",
         "type": "combined",
         "disableMyMerakiCom": false,
         "disableRemoteStatusPage": true
@@ -12853,7 +12743,7 @@ networks = [
         "organizationId": "630040",
         "name": "B-LJ-CO-0017540-AL-EE",
         "timeZone": "America/Sao_Paulo",
-        "tags": " 2BLF VSAT ",
+        "tags": " 2BLF AP1 VSAT ",
         "type": "combined",
         "disableMyMerakiCom": false,
         "disableRemoteStatusPage": true
@@ -12871,7 +12761,7 @@ networks = [
     {
         "id": "L_635570497412671565",
         "organizationId": "630040",
-        "name": "B-LJ-CO-19602-RN-EE",
+        "name": "B-LJ-CO-0019602-RN-EE",
         "timeZone": "America/Sao_Paulo",
         "tags": " 2BLF ",
         "type": "combined",
@@ -12893,7 +12783,7 @@ networks = [
         "organizationId": "630040",
         "name": "B-LJ-CO-0019476-CE-EE",
         "timeZone": "America/Sao_Paulo",
-        "tags": " 2BLF ",
+        "tags": " 2BLF 2BLM ",
         "type": "combined",
         "disableMyMerakiCom": false,
         "disableRemoteStatusPage": true
@@ -12941,7 +12831,7 @@ networks = [
     {
         "id": "L_635570497412671596",
         "organizationId": "630040",
-        "name": " B-LJ-CO-0004564-MG-EE",
+        "name": "B-LJ-CO-0004564-MG-EE",
         "timeZone": "America/Sao_Paulo",
         "tags": " VSAT ",
         "type": "combined",
@@ -12983,7 +12873,7 @@ networks = [
         "organizationId": "630040",
         "name": "Q-LJ-CP-0910079-DF-EE",
         "timeZone": "America/Sao_Paulo",
-        "tags": " 1BLS 2BLM ",
+        "tags": " 1BLS 2BLM AP1 ",
         "type": "combined",
         "disableMyMerakiCom": false,
         "disableRemoteStatusPage": true
@@ -13081,7 +12971,7 @@ networks = [
     {
         "id": "L_635570497412671617",
         "organizationId": "630040",
-        "name": "B-LJ-EP-0014068-PR-EP",
+        "name": "B-LJ-EP-0014068-PR-FF",
         "timeZone": "America/Sao_Paulo",
         "tags": " 1BLS AP1 ",
         "type": "combined",
@@ -13223,7 +13113,7 @@ networks = [
         "organizationId": "630040",
         "name": "B-LJ-CO-0012246-PA-EE",
         "timeZone": "America/Sao_Paulo",
-        "tags": " 2BLF 2BLM AP1 ",
+        "tags": " 2BLM AP1 VSAT ",
         "type": "combined",
         "disableMyMerakiCom": false,
         "disableRemoteStatusPage": true
@@ -13273,7 +13163,7 @@ networks = [
         "organizationId": "630040",
         "name": "B-LJ-CO-0005987-MG-EE",
         "timeZone": "America/Sao_Paulo",
-        "tags": " 2BLM AP1 VSAT ",
+        "tags": " 2BLM VSAT ",
         "type": "combined",
         "disableMyMerakiCom": false,
         "disableRemoteStatusPage": true
@@ -13313,7 +13203,7 @@ networks = [
         "organizationId": "630040",
         "name": "B-LJ-AM-0019944-PE-EE",
         "timeZone": "America/Sao_Paulo",
-        "tags": " VSAT ",
+        "tags": " MPLS VSAT ",
         "type": "combined",
         "disableMyMerakiCom": false,
         "disableRemoteStatusPage": true
@@ -13379,16 +13269,6 @@ networks = [
         "disableRemoteStatusPage": true
     },
     {
-        "id": "L_635570497412671675",
-        "organizationId": "630040",
-        "name": "B-LJ-EP-0004254-SC-FF",
-        "timeZone": "America/Sao_Paulo",
-        "tags": " 2BLF ",
-        "type": "combined",
-        "disableMyMerakiCom": false,
-        "disableRemoteStatusPage": true
-    },
-    {
         "id": "L_635570497412671676",
         "organizationId": "630040",
         "name": "B-LJ-CS-0013050-GO-EE",
@@ -13403,7 +13283,7 @@ networks = [
         "organizationId": "630040",
         "name": "B-LJ-AM-0019893-PE-EE",
         "timeZone": "America/Sao_Paulo",
-        "tags": " 2BLF VSAT ",
+        "tags": " 2BLF MPLS ",
         "type": "combined",
         "disableMyMerakiCom": false,
         "disableRemoteStatusPage": true
@@ -13463,7 +13343,7 @@ networks = [
         "organizationId": "630040",
         "name": "B-LJ-AM-0019911-PE-EE",
         "timeZone": "America/Sao_Paulo",
-        "tags": " VSAT ",
+        "tags": " MPLS VSAT ",
         "type": "combined",
         "disableMyMerakiCom": false,
         "disableRemoteStatusPage": true
@@ -13493,7 +13373,7 @@ networks = [
         "organizationId": "630040",
         "name": "B-LJ-CO-0012100-SP-EE",
         "timeZone": "America/Sao_Paulo",
-        "tags": " TEMPLATE ",
+        "tags": " 1BLS 2BLM AP1 ",
         "type": "combined",
         "disableMyMerakiCom": false,
         "disableRemoteStatusPage": true
@@ -13513,7 +13393,7 @@ networks = [
         "organizationId": "630040",
         "name": "B-LJ-CO-0011765-CE-EE",
         "timeZone": "America/Sao_Paulo",
-        "tags": " VSAT ",
+        "tags": " 2BLF VSAT ",
         "type": "appliance",
         "disableMyMerakiCom": false,
         "disableRemoteStatusPage": true
@@ -13603,7 +13483,7 @@ networks = [
         "organizationId": "630040",
         "name": "B-LJ-CO-0008292-AM-EE",
         "timeZone": "America/Sao_Paulo",
-        "tags": " 1BLS ",
+        "tags": " 1BLS AP1 ",
         "type": "combined",
         "disableMyMerakiCom": false,
         "disableRemoteStatusPage": true
@@ -13629,16 +13509,6 @@ networks = [
         "disableRemoteStatusPage": true
     },
     {
-        "id": "L_635570497412671716",
-        "organizationId": "630040",
-        "name": "B-LJ-EP-0019798-GO-FF",
-        "timeZone": "America/Sao_Paulo",
-        "tags": " TEMPLATE ",
-        "type": "combined",
-        "disableMyMerakiCom": false,
-        "disableRemoteStatusPage": true
-    },
-    {
         "id": "L_635570497412671719",
         "organizationId": "630040",
         "name": "B-LJ-CO-0006141-MG-EE",
@@ -13653,7 +13523,7 @@ networks = [
         "organizationId": "630040",
         "name": "B-LJ-EP-0019627-RS-FF",
         "timeZone": "America/Sao_Paulo",
-        "tags": " VSAT ",
+        "tags": " AP1 VSAT ",
         "type": "combined",
         "disableMyMerakiCom": false,
         "disableRemoteStatusPage": true
@@ -13663,7 +13533,7 @@ networks = [
         "organizationId": "630040",
         "name": "B-LJ-AM-0019913-PE-EE",
         "timeZone": "America/Sao_Paulo",
-        "tags": " TEMPLATE ",
+        "tags": " VSAT ",
         "type": "combined",
         "disableMyMerakiCom": false,
         "disableRemoteStatusPage": true
@@ -13771,9 +13641,9 @@ networks = [
     {
         "id": "L_635570497412671752",
         "organizationId": "630040",
-        "name": "B-LJ-AM-0019932-PE-EE",
+        "name": "B-LJ-AM-0019582-PE-EE",
         "timeZone": "America/Sao_Paulo",
-        "tags": " TEMPLATE ",
+        "tags": " VSAT ",
         "type": "combined",
         "disableMyMerakiCom": false,
         "disableRemoteStatusPage": true
@@ -13783,7 +13653,7 @@ networks = [
         "organizationId": "630040",
         "name": "B-LJ-EP-0011561-GO-FF",
         "timeZone": "America/Sao_Paulo",
-        "tags": " TEMPLATE ",
+        "tags": " 1BLS AP1 ",
         "type": "combined",
         "disableMyMerakiCom": false,
         "disableRemoteStatusPage": true
@@ -13793,9 +13663,1069 @@ networks = [
         "organizationId": "630040",
         "name": "B-LJ-AM-0019683-PA-EE",
         "timeZone": "America/Sao_Paulo",
+        "tags": " 2BLM VSAT ",
+        "type": "combined",
+        "disableMyMerakiCom": false,
+        "disableRemoteStatusPage": true
+    },
+    {
+        "id": "L_635570497412671759",
+        "organizationId": "630040",
+        "name": "B-LJ-CS-0004560-AL-EE",
+        "timeZone": "America/Sao_Paulo",
+        "tags": " 2BLM VSAT ",
+        "type": "combined",
+        "disableMyMerakiCom": false,
+        "disableRemoteStatusPage": true
+    },
+    {
+        "id": "L_635570497412671798",
+        "organizationId": "630040",
+        "name": "E-ER-CO-000JC17-PR-EE",
+        "timeZone": "America/Sao_Paulo",
+        "tags": " 1BLS AP1 AP2 MPLS ",
+        "type": "combined",
+        "disableMyMerakiCom": false,
+        "disableRemoteStatusPage": true
+    },
+    {
+        "id": "N_635570497412707994",
+        "organizationId": "630040",
+        "name": "B-LJ-EP-0012286-MG-FF",
+        "timeZone": "America/Sao_Paulo",
+        "tags": " 1BLS ",
+        "type": "appliance",
+        "disableMyMerakiCom": false,
+        "disableRemoteStatusPage": true
+    },
+    {
+        "id": "L_635570497412671805",
+        "organizationId": "630040",
+        "name": "B-LJ-EP-0019801-GO-FF",
+        "timeZone": "America/Sao_Paulo",
+        "tags": " 1BLS ",
+        "type": "combined",
+        "disableMyMerakiCom": false,
+        "disableRemoteStatusPage": true
+    },
+    {
+        "id": "L_635570497412671806",
+        "organizationId": "630040",
+        "name": "B-LJ-EP-0011876-PE-FF",
+        "timeZone": "America/Sao_Paulo",
+        "tags": " 2BLF ",
+        "type": "combined",
+        "disableMyMerakiCom": false,
+        "disableRemoteStatusPage": true
+    },
+    {
+        "id": "L_635570497412671807",
+        "organizationId": "630040",
+        "name": "B-LJ-CO-0005997-SP-EE",
+        "timeZone": "America/Sao_Paulo",
+        "tags": " 1BLS 2BLM ",
+        "type": "combined",
+        "disableMyMerakiCom": false,
+        "disableRemoteStatusPage": true
+    },
+    {
+        "id": "L_635570497412671808",
+        "organizationId": "630040",
+        "name": "B-LJ-AM-0019761-RJ-EE",
+        "timeZone": "America/Sao_Paulo",
+        "tags": " 2BLF VSAT ",
+        "type": "combined",
+        "disableMyMerakiCom": false,
+        "disableRemoteStatusPage": true
+    },
+    {
+        "id": "L_635570497412671809",
+        "organizationId": "630040",
+        "name": "Q-LJ-CO-0910039-SP-EE",
+        "timeZone": "America/Sao_Paulo",
+        "tags": " 1BLS ",
+        "type": "combined",
+        "disableMyMerakiCom": false,
+        "disableRemoteStatusPage": true
+    },
+    {
+        "id": "L_635570497412671811",
+        "organizationId": "630040",
+        "name": "B-LJ-CP-0013066-DF-EE",
+        "timeZone": "America/Sao_Paulo",
+        "tags": " TEMPLATE ",
+        "type": "combined",
+        "disableMyMerakiCom": false,
+        "disableRemoteStatusPage": true
+    },
+    {
+        "id": "L_635570497412671824",
+        "organizationId": "630040",
+        "name": "B-LJ-CO-0012494-MA-EE",
+        "timeZone": "America/Sao_Paulo",
+        "tags": " 1BLS 2BLF ",
+        "type": "combined",
+        "disableMyMerakiCom": false,
+        "disableRemoteStatusPage": true
+    },
+    {
+        "id": "L_635570497412671829",
+        "organizationId": "630040",
+        "name": "E-ER-CP-000JC67-SP-EE",
+        "timeZone": "America/Sao_Paulo",
+        "tags": " 1BLS 2BLF 2BLM AP1 ",
+        "type": "combined",
+        "disableMyMerakiCom": false,
+        "disableRemoteStatusPage": true
+    },
+    {
+        "id": "L_635570497412671833",
+        "organizationId": "630040",
+        "name": "B-LJ-AM-0019409-BA-EE",
+        "timeZone": "America/Sao_Paulo",
+        "tags": " 2BLM MPLS ",
+        "type": "combined",
+        "disableMyMerakiCom": false,
+        "disableRemoteStatusPage": true
+    },
+    {
+        "id": "L_635570497412671835",
+        "organizationId": "630040",
+        "name": "B-LJ-CO-0003848-SP-EE",
+        "timeZone": "America/Sao_Paulo",
+        "tags": " 1BLS 2BLM ",
+        "type": "combined",
+        "disableMyMerakiCom": false,
+        "disableRemoteStatusPage": true
+    },
+    {
+        "id": "L_635570497412671838",
+        "organizationId": "630040",
+        "name": "B-LJ-CO-0017546-CE-EE",
+        "timeZone": "America/Sao_Paulo",
+        "tags": " 1BLS ",
+        "type": "combined",
+        "disableMyMerakiCom": false,
+        "disableRemoteStatusPage": true
+    },
+    {
+        "id": "L_635570497412671840",
+        "organizationId": "630040",
+        "name": "B-LJ-AM-0014267-SC-EE",
+        "timeZone": "America/Sao_Paulo",
+        "tags": " 2BLM MPLS ",
+        "type": "combined",
+        "disableMyMerakiCom": false,
+        "disableRemoteStatusPage": true
+    },
+    {
+        "id": "L_635570497412671841",
+        "organizationId": "630040",
+        "name": "B-LJ-EP-0012990-PE-FF",
+        "timeZone": "America/Sao_Paulo",
+        "tags": " 2BLF ",
+        "type": "combined",
+        "disableMyMerakiCom": false,
+        "disableRemoteStatusPage": true
+    },
+    {
+        "id": "L_635570497412671842",
+        "organizationId": "630040",
+        "name": "B-LJ-AM-0019702-PA-EE",
+        "timeZone": "America/Sao_Paulo",
+        "tags": " 2BLF 2BLM ",
+        "type": "combined",
+        "disableMyMerakiCom": false,
+        "disableRemoteStatusPage": true
+    },
+    {
+        "id": "L_635570497412671847",
+        "organizationId": "630040",
+        "name": "B-LJ-EP-0017543-GO-FF",
+        "timeZone": "America/Sao_Paulo",
+        "tags": " 1BLS ",
+        "type": "combined",
+        "disableMyMerakiCom": false,
+        "disableRemoteStatusPage": true
+    },
+    {
+        "id": "L_635570497412671848",
+        "organizationId": "630040",
+        "name": "B-LJ-CO-0014466-AM-EE",
+        "timeZone": "America/Sao_Paulo",
+        "tags": " 1BLS 2BLM ",
+        "type": "combined",
+        "disableMyMerakiCom": false,
+        "disableRemoteStatusPage": true
+    },
+    {
+        "id": "L_635570497412671849",
+        "organizationId": "630040",
+        "name": "E-ER-CO-000JL11-PR-EE",
+        "timeZone": "America/Sao_Paulo",
+        "tags": " 1BLS 2BLM ",
+        "type": "combined",
+        "disableMyMerakiCom": false,
+        "disableRemoteStatusPage": true
+    },
+    {
+        "id": "L_635570497412671873",
+        "organizationId": "630040",
+        "name": "B-LJ-CO-0019768-PB-EE",
+        "timeZone": "America/Sao_Paulo",
+        "tags": " 1BLS ",
+        "type": "combined",
+        "disableMyMerakiCom": false,
+        "disableRemoteStatusPage": true
+    },
+    {
+        "id": "L_635570497412671877",
+        "organizationId": "630040",
+        "name": "B-LJ-CO-0011982-AM-EE",
+        "timeZone": "America/Sao_Paulo",
+        "tags": " 1BLS 2BLM ",
+        "type": "combined",
+        "disableMyMerakiCom": false,
+        "disableRemoteStatusPage": true
+    },
+    {
+        "id": "L_635570497412671879",
+        "organizationId": "630040",
+        "name": "B-LJ-AM-0017843-CE-EE",
+        "timeZone": "America/Sao_Paulo",
+        "tags": " 2BLF MPLS ",
+        "type": "combined",
+        "disableMyMerakiCom": false,
+        "disableRemoteStatusPage": true
+    },
+    {
+        "id": "L_635570497412671881",
+        "organizationId": "630040",
+        "name": "B-LJ-CO-0012125-AM-EE",
+        "timeZone": "America/Sao_Paulo",
+        "tags": " 1BLS 2BLM ",
+        "type": "combined",
+        "disableMyMerakiCom": false,
+        "disableRemoteStatusPage": true
+    },
+    {
+        "id": "L_635570497412671895",
+        "organizationId": "630040",
+        "name": "B-LJ-EP-0008257-SC-FF",
+        "timeZone": "America/Sao_Paulo",
+        "tags": " 2BLF ",
+        "type": "combined",
+        "disableMyMerakiCom": false,
+        "disableRemoteStatusPage": true
+    },
+    {
+        "id": "L_635570497412671910",
+        "organizationId": "630040",
+        "name": "B-LJ-CO-0005573-DF-EE",
+        "timeZone": "America/Sao_Paulo",
+        "tags": " TEMPLATE ",
+        "type": "combined",
+        "disableMyMerakiCom": false,
+        "disableRemoteStatusPage": true
+    },
+    {
+        "id": "L_635570497412671914",
+        "organizationId": "630040",
+        "name": "B-LJ-EP-0014666-RS-FF",
+        "timeZone": "America/Sao_Paulo",
+        "tags": " 2BLF AP1 ",
+        "type": "combined",
+        "disableMyMerakiCom": false,
+        "disableRemoteStatusPage": false
+    },
+    {
+        "id": "L_635570497412671916",
+        "organizationId": "630040",
+        "name": "B-LJ-EP-0012895-SP-FF",
+        "timeZone": "America/Sao_Paulo",
+        "tags": " 2BLF ",
+        "type": "combined",
+        "disableMyMerakiCom": false,
+        "disableRemoteStatusPage": true
+    },
+    {
+        "id": "L_635570497412671918",
+        "organizationId": "630040",
+        "name": "Q-LJ-EP-0910474-SC-FF",
+        "timeZone": "America/Sao_Paulo",
+        "tags": " 1BLS ",
+        "type": "combined",
+        "disableMyMerakiCom": false,
+        "disableRemoteStatusPage": true
+    },
+    {
+        "id": "L_635570497412671919",
+        "organizationId": "630040",
+        "name": "B-LJ-EP-0008272-SC-FF",
+        "timeZone": "America/Sao_Paulo",
+        "tags": " TEMPLATE ",
+        "type": "combined",
+        "disableMyMerakiCom": false,
+        "disableRemoteStatusPage": true
+    },
+    {
+        "id": "L_635570497412671927",
+        "organizationId": "630040",
+        "name": "B-LJ-EP-0004254-SC-FF",
+        "timeZone": "America/Sao_Paulo",
+        "tags": " 2BLF ",
+        "type": "combined",
+        "disableMyMerakiCom": false,
+        "disableRemoteStatusPage": true
+    },
+    {
+        "id": "L_635570497412671933",
+        "organizationId": "630040",
+        "name": "B-LJ-EP-0008976-PE-FF",
+        "timeZone": "America/Sao_Paulo",
+        "tags": " 1BLS ",
+        "type": "combined",
+        "disableMyMerakiCom": false,
+        "disableRemoteStatusPage": true
+    },
+    {
+        "id": "L_635570497412671940",
+        "organizationId": "630040",
+        "name": "B-LJ-EP-0005454-MG-FF",
+        "timeZone": "America/Sao_Paulo",
+        "tags": " 1BLS ",
+        "type": "combined",
+        "disableMyMerakiCom": false,
+        "disableRemoteStatusPage": true
+    },
+    {
+        "id": "L_635570497412671943",
+        "organizationId": "630040",
+        "name": "B-LJ-AM-0019773-DF-EE",
+        "timeZone": "America/Sao_Paulo",
+        "tags": " 2BLM MPLS ",
+        "type": "combined",
+        "disableMyMerakiCom": false,
+        "disableRemoteStatusPage": true
+    },
+    {
+        "id": "L_635570497412671951",
+        "organizationId": "630040",
+        "name": "Q-LJ-EP-0910473-SP-FF",
+        "timeZone": "America/Sao_Paulo",
+        "tags": " 1BLS ",
+        "type": "combined",
+        "disableMyMerakiCom": false,
+        "disableRemoteStatusPage": true
+    },
+    {
+        "id": "L_635570497412671960",
+        "organizationId": "630040",
+        "name": "B-LJ-CO-0011734-SP-EE",
+        "timeZone": "America/Sao_Paulo",
+        "tags": " 1BLS 2BLF ",
+        "type": "combined",
+        "disableMyMerakiCom": false,
+        "disableRemoteStatusPage": true
+    },
+    {
+        "id": "L_635570497412671961",
+        "organizationId": "630040",
+        "name": "B-LJ-CO-0005909-MT-EE",
+        "timeZone": "America/Sao_Paulo",
+        "tags": " 2BLF 2BLM AP1 ",
+        "type": "combined",
+        "disableMyMerakiCom": false,
+        "disableRemoteStatusPage": true
+    },
+    {
+        "id": "L_635570497412671976",
+        "organizationId": "630040",
+        "name": "B-LJ-CO-0004006-MG-EE",
+        "timeZone": "America/Sao_Paulo",
+        "tags": " 1BLS 2BLM ",
+        "type": "combined",
+        "disableMyMerakiCom": false,
+        "disableRemoteStatusPage": true
+    },
+    {
+        "id": "L_635570497412671978",
+        "organizationId": "630040",
+        "name": "B-LJ-EP-0019495-TO-FF",
+        "timeZone": "America/Sao_Paulo",
+        "tags": " 2BLF AP1 ",
+        "type": "combined",
+        "disableMyMerakiCom": false,
+        "disableRemoteStatusPage": true
+    },
+    {
+        "id": "L_635570497412671982",
+        "organizationId": "630040",
+        "name": "Q-LJ-EP-0910511-RS-FF",
+        "timeZone": "America/Sao_Paulo",
+        "tags": " 1BLS ",
+        "type": "combined",
+        "disableMyMerakiCom": false,
+        "disableRemoteStatusPage": true
+    },
+    {
+        "id": "L_635570497412671983",
+        "organizationId": "630040",
+        "name": "B-LJ-CP-0014150-CE-EE",
+        "timeZone": "America/Sao_Paulo",
+        "tags": " 1BLS MPLS ",
+        "type": "combined",
+        "disableMyMerakiCom": false,
+        "disableRemoteStatusPage": true
+    },
+    {
+        "id": "L_635570497412672095",
+        "organizationId": "630040",
+        "name": "B-LJ-EP-0019986-MS-FF",
+        "timeZone": "America/Sao_Paulo",
+        "tags": " 1BLS AP1 ",
+        "type": "combined",
+        "disableMyMerakiCom": false,
+        "disableRemoteStatusPage": true
+    },
+    {
+        "id": "L_635570497412672096",
+        "organizationId": "630040",
+        "name": "B-LJ-CO-0017520-MS-EE",
+        "timeZone": "America/Sao_Paulo",
+        "tags": " TEMPLATE ",
+        "type": "combined",
+        "disableMyMerakiCom": false,
+        "disableRemoteStatusPage": true
+    },
+    {
+        "id": "N_635570497412709106",
+        "organizationId": "630040",
+        "name": "B-LJ-CO-0011622-SP-EE",
+        "timeZone": "America/Sao_Paulo",
+        "tags": " TEMPLATE ",
+        "type": "appliance",
+        "disableMyMerakiCom": false,
+        "disableRemoteStatusPage": true
+    },
+    {
+        "id": "L_635570497412672108",
+        "organizationId": "630040",
+        "name": "B-LJ-CO-0005853-SP-EE",
+        "timeZone": "America/Sao_Paulo",
+        "tags": " 1BLS 2BLM ",
+        "type": "combined",
+        "disableMyMerakiCom": false,
+        "disableRemoteStatusPage": true
+    },
+    {
+        "id": "L_635570497412672129",
+        "organizationId": "630040",
+        "name": "B-LJ-CO-0004957-SP-EE",
+        "timeZone": "America/Sao_Paulo",
+        "tags": " 1BLS 2BLM ",
+        "type": "combined",
+        "disableMyMerakiCom": false,
+        "disableRemoteStatusPage": true
+    },
+    {
+        "id": "L_635570497412672130",
+        "organizationId": "630040",
+        "name": "B-LJ-CO-0011068-AM-EE",
+        "timeZone": "America/Sao_Paulo",
+        "tags": " VSAT ",
+        "type": "combined",
+        "disableMyMerakiCom": false,
+        "disableRemoteStatusPage": true
+    },
+    {
+        "id": "L_635570497412672131",
+        "organizationId": "630040",
+        "name": "B-LJ-AM-0019352-BA-FE",
+        "timeZone": "America/Sao_Paulo",
+        "tags": " TEMPLATE ",
+        "type": "combined",
+        "disableMyMerakiCom": false,
+        "disableRemoteStatusPage": true
+    },
+    {
+        "id": "L_635570497412672132",
+        "organizationId": "630040",
+        "name": "B-LJ-AM-0016493-RJ-FE",
+        "timeZone": "America/Sao_Paulo",
+        "tags": " TEMPLATE ",
+        "type": "combined",
+        "disableMyMerakiCom": false,
+        "disableRemoteStatusPage": true
+    },
+    {
+        "id": "L_635570497412672133",
+        "organizationId": "630040",
+        "name": "B-LJ-AS-0012481-PA-EE",
+        "timeZone": "America/Sao_Paulo",
+        "tags": " 2BLM VSAT ",
+        "type": "combined",
+        "disableMyMerakiCom": false,
+        "disableRemoteStatusPage": true
+    },
+    {
+        "id": "L_635570497412672134",
+        "organizationId": "630040",
+        "name": "B-LJ-EP-0009168-CE-FF",
+        "timeZone": "America/Sao_Paulo",
+        "tags": " 2BLF ",
+        "type": "combined",
+        "disableMyMerakiCom": false,
+        "disableRemoteStatusPage": true
+    },
+    {
+        "id": "L_635570497412672136",
+        "organizationId": "630040",
+        "name": "B-LJ-AM-0019918-PE-EE",
+        "timeZone": "America/Sao_Paulo",
+        "tags": " 2BLF MPLS ",
+        "type": "combined",
+        "disableMyMerakiCom": false,
+        "disableRemoteStatusPage": true
+    },
+    {
+        "id": "L_635570497412672139",
+        "organizationId": "630040",
+        "name": "B-LJ-CO-0016874-SP-EE",
+        "timeZone": "America/Sao_Paulo",
+        "tags": " TEMPLATE ",
+        "type": "combined",
+        "disableMyMerakiCom": false,
+        "disableRemoteStatusPage": true
+    },
+    {
+        "id": "L_635570497412672140",
+        "organizationId": "630040",
+        "name": "Q-LJ-CO-0910285-CE-EE",
+        "timeZone": "America/Sao_Paulo",
+        "tags": " TEMPLATE ",
+        "type": "combined",
+        "disableMyMerakiCom": false,
+        "disableRemoteStatusPage": true
+    },
+    {
+        "id": "L_635570497412672141",
+        "organizationId": "630040",
+        "name": "B-LJ-CO-0019894-SP-EE",
+        "timeZone": "America/Sao_Paulo",
+        "tags": " 2BLM ",
+        "type": "combined",
+        "disableMyMerakiCom": false,
+        "disableRemoteStatusPage": true
+    },
+    {
+        "id": "L_635570497412672142",
+        "organizationId": "630040",
+        "name": "B-LJ-CO-0004731-ES-EE",
+        "timeZone": "America/Sao_Paulo",
+        "tags": " 1BLS 2BLM ",
+        "type": "combined",
+        "disableMyMerakiCom": false,
+        "disableRemoteStatusPage": true
+    },
+    {
+        "id": "L_635570497412672143",
+        "organizationId": "630040",
+        "name": "B-LJ-CO-0019474-CE-EE",
+        "timeZone": "America/Sao_Paulo",
+        "tags": " 2BLF VSAT ",
+        "type": "combined",
+        "disableMyMerakiCom": false,
+        "disableRemoteStatusPage": true
+    },
+    {
+        "id": "L_635570497412672144",
+        "organizationId": "630040",
+        "name": "B-LJ-CO-0018478-BA-EE",
+        "timeZone": "America/Sao_Paulo",
+        "tags": " VSAT ",
+        "type": "combined",
+        "disableMyMerakiCom": false,
+        "disableRemoteStatusPage": true
+    },
+    {
+        "id": "L_635570497412672145",
+        "organizationId": "630040",
+        "name": "B-LJ-CO-0011674-MG-EE",
+        "timeZone": "America/Sao_Paulo",
+        "tags": " 1BLS 2BLM ",
+        "type": "combined",
+        "disableMyMerakiCom": false,
+        "disableRemoteStatusPage": true
+    },
+    {
+        "id": "L_635570497412672146",
+        "organizationId": "630040",
+        "name": "B-LJ-CO-0011303-MG-EE",
+        "timeZone": "America/Sao_Paulo",
+        "tags": " 1BLS VSAT ",
+        "type": "combined",
+        "disableMyMerakiCom": false,
+        "disableRemoteStatusPage": true
+    },
+    {
+        "id": "L_635570497412672147",
+        "organizationId": "630040",
+        "name": "B-LJ-CO-0019662-RJ-EE",
+        "timeZone": "America/Sao_Paulo",
+        "tags": " 1BLS 2BLF ",
+        "type": "combined",
+        "disableMyMerakiCom": false,
+        "disableRemoteStatusPage": true
+    },
+    {
+        "id": "L_635570497412672150",
+        "organizationId": "630040",
+        "name": "B-LJ-EP-0019796-MG-FF",
+        "timeZone": "America/Sao_Paulo",
+        "tags": " 1BLS ",
+        "type": "combined",
+        "disableMyMerakiCom": false,
+        "disableRemoteStatusPage": true
+    },
+    {
+        "id": "N_635570497412709293",
+        "organizationId": "630040",
+        "name": "B-LJ-CO-0005798-ES-EE",
+        "timeZone": "America/Sao_Paulo",
+        "tags": " 1BLS 2BLM ",
+        "type": "appliance",
+        "disableMyMerakiCom": false,
+        "disableRemoteStatusPage": true
+    },
+    {
+        "id": "L_635570497412672152",
+        "organizationId": "630040",
+        "name": "B-LJ-EP-0019858-SP-FF",
+        "timeZone": "America/Sao_Paulo",
+        "tags": " 1BLS ",
+        "type": "combined",
+        "disableMyMerakiCom": false,
+        "disableRemoteStatusPage": true
+    },
+    {
+        "id": "L_635570497412672153",
+        "organizationId": "630040",
+        "name": "B-LJ-EP-0007948-CE-FF",
+        "timeZone": "America/Sao_Paulo",
+        "tags": " 2BLF ",
+        "type": "combined",
+        "disableMyMerakiCom": false,
+        "disableRemoteStatusPage": true
+    },
+    {
+        "id": "L_635570497412672154",
+        "organizationId": "630040",
+        "name": "B-LJ-AS-0018184-MG-EE",
+        "timeZone": "America/Sao_Paulo",
+        "tags": " 2BLF 2BLM ",
+        "type": "combined",
+        "disableMyMerakiCom": false,
+        "disableRemoteStatusPage": true
+    },
+    {
+        "id": "L_635570497412672155",
+        "organizationId": "630040",
+        "name": "B-LJ-CS-0011562-MG-EE",
+        "timeZone": "America/Sao_Paulo",
+        "tags": " 2BLF 2BLM VSAT ",
+        "type": "combined",
+        "disableMyMerakiCom": false,
+        "disableRemoteStatusPage": true
+    },
+    {
+        "id": "L_635570497412672156",
+        "organizationId": "630040",
+        "name": "B-LJ-CO-0019747-CE-EE",
+        "timeZone": "America/Sao_Paulo",
+        "tags": " 2BLF VSAT ",
+        "type": "combined",
+        "disableMyMerakiCom": false,
+        "disableRemoteStatusPage": true
+    },
+    {
+        "id": "L_635570497412672160",
+        "organizationId": "630040",
+        "name": "B-LJ-CO-0019233-RJ-EE",
+        "timeZone": "America/Sao_Paulo",
+        "tags": " 1BLS 2BLM ",
+        "type": "combined",
+        "disableMyMerakiCom": false,
+        "disableRemoteStatusPage": true
+    },
+    {
+        "id": "L_635570497412672162",
+        "organizationId": "630040",
+        "name": "B-LJ-CO-0013240-ES-EE",
+        "timeZone": "America/Sao_Paulo",
+        "tags": " TEMPLATE ",
+        "type": "combined",
+        "disableMyMerakiCom": false,
+        "disableRemoteStatusPage": true
+    },
+    {
+        "id": "L_635570497412672163",
+        "organizationId": "630040",
+        "name": "B-LJ-CP-0910048-CE-EE",
+        "timeZone": "America/Sao_Paulo",
+        "tags": " 1BLS 2BLF ",
+        "type": "combined",
+        "disableMyMerakiCom": false,
+        "disableRemoteStatusPage": true
+    },
+    {
+        "id": "L_635570497412672166",
+        "organizationId": "630040",
+        "name": "B-LJ-EP-0013441-PR-FF",
+        "timeZone": "America/Sao_Paulo",
+        "tags": " 2BLF ",
+        "type": "combined",
+        "disableMyMerakiCom": false,
+        "disableRemoteStatusPage": true
+    },
+    {
+        "id": "L_635570497412672167",
+        "organizationId": "630040",
+        "name": "Q-LJ-CO-0910372-SP-EE",
+        "timeZone": "America/Sao_Paulo",
+        "tags": " 1BLS 2BLM ",
+        "type": "combined",
+        "disableMyMerakiCom": false,
+        "disableRemoteStatusPage": true
+    },
+    {
+        "id": "L_635570497412672168",
+        "organizationId": "630040",
+        "name": "B-LJ-CP-0013443-SP-EE",
+        "timeZone": "America/Sao_Paulo",
+        "tags": " TEMPLATE ",
+        "type": "combined",
+        "disableMyMerakiCom": false,
+        "disableRemoteStatusPage": true
+    },
+    {
+        "id": "L_635570497412672169",
+        "organizationId": "630040",
+        "name": "B-LJ-CO-0005307-SP-EE",
+        "timeZone": "America/Sao_Paulo",
+        "tags": " TEMPLATE ",
+        "type": "combined",
+        "disableMyMerakiCom": false,
+        "disableRemoteStatusPage": true
+    },
+    {
+        "id": "L_635570497412672170",
+        "organizationId": "630040",
+        "name": "Q-LJ-EP-0910305-SC-FF",
+        "timeZone": "America/Sao_Paulo",
+        "tags": " 2BLF ",
+        "type": "combined",
+        "disableMyMerakiCom": false,
+        "disableRemoteStatusPage": true
+    },
+    {
+        "id": "L_635570497412672172",
+        "organizationId": "630040",
+        "name": "B-LJ-CO-0012411-MT-EE",
+        "timeZone": "America/Sao_Paulo",
+        "tags": " VSAT ",
+        "type": "combined",
+        "disableMyMerakiCom": false,
+        "disableRemoteStatusPage": true
+    },
+    {
+        "id": "L_635570497412672179",
+        "organizationId": "630040",
+        "name": "B-LJ-EP-0018847-SP-FF",
+        "timeZone": "America/Sao_Paulo",
+        "tags": " 1BLS ",
+        "type": "combined",
+        "disableMyMerakiCom": false,
+        "disableRemoteStatusPage": true
+    },
+    {
+        "id": "L_635570497412672180",
+        "organizationId": "630040",
+        "name": "B-LJ-CO-0007215-BA-EE",
+        "timeZone": "America/Sao_Paulo",
+        "tags": " TEMPLATE ",
+        "type": "combined",
+        "disableMyMerakiCom": false,
+        "disableRemoteStatusPage": true
+    },
+    {
+        "id": "L_635570497412672182",
+        "organizationId": "630040",
+        "name": "Q-LJ-EP-0910145-SC-FF",
+        "timeZone": "America/Sao_Paulo",
+        "tags": " 2BLF ",
+        "type": "combined",
+        "disableMyMerakiCom": false,
+        "disableRemoteStatusPage": true
+    },
+    {
+        "id": "L_635570497412672191",
+        "organizationId": "630040",
+        "name": "T-LJ-AM-0019261-SC-EE",
+        "timeZone": "America/Sao_Paulo",
+        "tags": " 2BLM MPLS ",
+        "type": "combined",
+        "disableMyMerakiCom": false,
+        "disableRemoteStatusPage": true
+    },
+    {
+        "id": "L_635570497412672197",
+        "organizationId": "630040",
+        "name": "B-LJ-CO-0019529-ES-EE",
+        "timeZone": "America/Sao_Paulo",
+        "tags": " TEMPLATE ",
+        "type": "combined",
+        "disableMyMerakiCom": false,
+        "disableRemoteStatusPage": true
+    },
+    {
+        "id": "L_635570497412672205",
+        "organizationId": "630040",
+        "name": "B-LJ-EP-0003863-SP-FF",
+        "timeZone": "America/Sao_Paulo",
+        "tags": " 1BLS ",
+        "type": "combined",
+        "disableMyMerakiCom": false,
+        "disableRemoteStatusPage": true
+    },
+    {
+        "id": "L_635570497412672206",
+        "organizationId": "630040",
+        "name": "Q-LJ-CO-0910085-SP-EE",
+        "timeZone": "America/Sao_Paulo",
+        "tags": " TEMPLATE ",
+        "type": "combined",
+        "disableMyMerakiCom": false,
+        "disableRemoteStatusPage": true
+    },
+    {
+        "id": "L_635570497412672207",
+        "organizationId": "630040",
+        "name": "B-LJ-CO-0012399-SP-EE",
+        "timeZone": "America/Sao_Paulo",
+        "tags": " TEMPLATE ",
+        "type": "combined",
+        "disableMyMerakiCom": false,
+        "disableRemoteStatusPage": true
+    },
+    {
+        "id": "N_635570497412709460",
+        "organizationId": "630040",
+        "name": "B-LJ-EP-0019036-MT-FF",
+        "timeZone": "America/Sao_Paulo",
+        "tags": " 2BLF ",
+        "type": "appliance",
+        "disableMyMerakiCom": false,
+        "disableRemoteStatusPage": true
+    },
+    {
+        "id": "L_635570497412672209",
+        "organizationId": "630040",
+        "name": "B-LJ-EP-0011956-RJ-FF",
+        "timeZone": "America/Sao_Paulo",
+        "tags": " TEMPLATE ",
+        "type": "combined",
+        "disableMyMerakiCom": false,
+        "disableRemoteStatusPage": true
+    },
+    {
+        "id": "L_635570497412672210",
+        "organizationId": "630040",
+        "name": "B-LJ-EP-0019135-MG-FF",
+        "timeZone": "America/Sao_Paulo",
+        "tags": " 2BLF ",
+        "type": "combined",
+        "disableMyMerakiCom": false,
+        "disableRemoteStatusPage": true
+    },
+    {
+        "id": "L_635570497412672211",
+        "organizationId": "630040",
+        "name": "Q-LJ-EP-0910191-SC-FF",
+        "timeZone": "America/Sao_Paulo",
+        "tags": " 1BLS ",
+        "type": "combined",
+        "disableMyMerakiCom": false,
+        "disableRemoteStatusPage": true
+    },
+    {
+        "id": "L_635570497412672212",
+        "organizationId": "630040",
+        "name": "E-ER-CP-000JC69-MG-EE",
+        "timeZone": "America/Sao_Paulo",
+        "tags": " 2BLF 2BLM ",
+        "type": "combined",
+        "disableMyMerakiCom": false,
+        "disableRemoteStatusPage": true
+    },
+    {
+        "id": "L_635570497412672217",
+        "organizationId": "630040",
+        "name": "B-LJ-CO-0006915-CE-EE",
+        "timeZone": "America/Sao_Paulo",
+        "tags": " 1BLS 2BLM ",
+        "type": "combined",
+        "disableMyMerakiCom": false,
+        "disableRemoteStatusPage": true
+    },
+    {
+        "id": "L_635570497412672218",
+        "organizationId": "630040",
+        "name": "B-LJ-EP-0014270-SP-FF",
+        "timeZone": "America/Sao_Paulo",
+        "tags": " 1BLS ",
+        "type": "combined",
+        "disableMyMerakiCom": false,
+        "disableRemoteStatusPage": true
+    },
+    {
+        "id": "L_635570497412672219",
+        "organizationId": "630040",
+        "name": "B-LJ-EP-0011852-MG-FF",
+        "timeZone": "America/Sao_Paulo",
+        "tags": " 2BLF ",
+        "type": "combined",
+        "disableMyMerakiCom": false,
+        "disableRemoteStatusPage": true
+    },
+    {
+        "id": "L_635570497412672221",
+        "organizationId": "630040",
+        "name": "B-LJ-CO-0019958-SP-EE",
+        "timeZone": "America/Sao_Paulo",
+        "tags": " 1BLS 2BLM ",
+        "type": "combined",
+        "disableMyMerakiCom": false,
+        "disableRemoteStatusPage": true
+    },
+    {
+        "id": "L_635570497412672222",
+        "organizationId": "630040",
+        "name": "B-LJ-EP-0005510-SC-FF",
+        "timeZone": "America/Sao_Paulo",
+        "tags": " 2BLF ",
+        "type": "combined",
+        "disableMyMerakiCom": false,
+        "disableRemoteStatusPage": true
+    },
+    {
+        "id": "L_635570497412672226",
+        "organizationId": "630040",
+        "name": "BC-UTBOT03-PR-EE",
+        "timeZone": "America/Sao_Paulo",
+        "tags": " TEMPLATE ",
+        "type": "combined",
+        "disableMyMerakiCom": false,
+        "disableRemoteStatusPage": true
+    },
+    {
+        "id": "L_635570497412672246",
+        "organizationId": "630040",
+        "name": "B-LJ-AM-0019897-PE-EE",
+        "timeZone": "America/Sao_Paulo",
+        "tags": " TEMPLATE ",
+        "type": "combined",
+        "disableMyMerakiCom": false,
+        "disableRemoteStatusPage": true
+    },
+    {
+        "id": "L_635570497412672247",
+        "organizationId": "630040",
+        "name": "B-LJ-EP-0013805-SP-FF",
+        "timeZone": "America/Sao_Paulo",
+        "tags": " TEMPLATE ",
+        "type": "combined",
+        "disableMyMerakiCom": false,
+        "disableRemoteStatusPage": true
+    },
+    {
+        "id": "L_635570497412672248",
+        "organizationId": "630040",
+        "name": "B-LJ-EP-0006947-PE-FF",
+        "timeZone": "America/Sao_Paulo",
+        "tags": " TEMPLATE ",
+        "type": "combined",
+        "disableMyMerakiCom": false,
+        "disableRemoteStatusPage": true
+    },
+    {
+        "id": "L_635570497412672249",
+        "organizationId": "630040",
+        "name": "B-LJ-CO-0019597-RN-EE",
+        "timeZone": "America/Sao_Paulo",
+        "tags": " TEMPLATE ",
+        "type": "combined",
+        "disableMyMerakiCom": false,
+        "disableRemoteStatusPage": true
+    },
+    {
+        "id": "L_635570497412672250",
+        "organizationId": "630040",
+        "name": "B-LJ-CO-0011482-MA-EE",
+        "timeZone": "America/Sao_Paulo",
+        "tags": " TEMPLATE ",
+        "type": "combined",
+        "disableMyMerakiCom": false,
+        "disableRemoteStatusPage": true
+    },
+    {
+        "id": "L_635570497412672251",
+        "organizationId": "630040",
+        "name": "B-LJ-EP-0011749-BA-FF",
+        "timeZone": "America/Sao_Paulo",
+        "tags": " TEMPLATE ",
+        "type": "combined",
+        "disableMyMerakiCom": false,
+        "disableRemoteStatusPage": true
+    },
+    {
+        "id": "L_635570497412672252",
+        "organizationId": "630040",
+        "name": "B-LJ-EP-0910433-SC-FF",
+        "timeZone": "America/Sao_Paulo",
+        "tags": " TEMPLATE ",
+        "type": "combined",
+        "disableMyMerakiCom": false,
+        "disableRemoteStatusPage": true
+    },
+    {
+        "id": "L_635570497412672253",
+        "organizationId": "630040",
+        "name": "B-LJ-EP-0014712-SP-FF",
+        "timeZone": "America/Sao_Paulo",
+        "tags": " TEMPLATE ",
+        "type": "combined",
+        "disableMyMerakiCom": false,
+        "disableRemoteStatusPage": true
+    },
+    {
+        "id": "L_635570497412672254",
+        "organizationId": "630040",
+        "name": "B-LJ-EP-0011790-MG-FF",
+        "timeZone": "America/Sao_Paulo",
+        "tags": " TEMPLATE ",
+        "type": "combined",
+        "disableMyMerakiCom": false,
+        "disableRemoteStatusPage": true
+    },
+    {
+        "id": "L_635570497412672255",
+        "organizationId": "630040",
+        "name": "B-LJ-EP-0004216-SC-FF",
+        "timeZone": "America/Sao_Paulo",
         "tags": " TEMPLATE ",
         "type": "combined",
         "disableMyMerakiCom": false,
         "disableRemoteStatusPage": true
     }
-];
+]
